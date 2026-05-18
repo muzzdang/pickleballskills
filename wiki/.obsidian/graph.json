@@ -1,0 +1,46 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:concepts/",
+      "color": {
+        "a": 1,
+        "rgb": 4469964
+      }
+    },
+    {
+      "query": "path:entities/",
+      "color": {
+        "a": 1,
+        "rgb": 14744576
+      }
+    },
+    {
+      "query": "path:sources/",
+      "color": {
+        "a": 1,
+        "rgb": 8947848
+      }
+    },
+    {
+      "query": "path:synthesis/",
+      "color": {
+        "a": 1,
+        "rgb": 10040012
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.2,
+  "lineSizeMultiplier": 1,
+  "scale": 1,
+  "close": false
+}

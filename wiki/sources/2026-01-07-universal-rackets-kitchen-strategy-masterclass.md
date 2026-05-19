@@ -14,20 +14,20 @@ channel: Universal Rackets
 **Duration:** 34:39
 **Uploaded:** 2026-01-07
 
-No transcript available (rate-limited during fetch).
-
 ## Key Takeaways
 
-- Covers the full kitchen decision tree: when to speed up, when to block, when to reset, and how to dominate the NVZ
-- "Speed up" trigger: ball above net height and attackable — consistent with [attack trigger](../concepts/attack-trigger.md) principle
-- Blocking strategy: absorb pace, redirect to feet or sidelines; relies on [reset mechanics](../concepts/reset-mechanics.md)
-- Reset: the controlled neutralizing shot used when under pressure — push to opponent's feet, not a block
-- Dominating the kitchen involves positioning (weight on toes), patience (waiting for the right ball), and execution
-- At 34 minutes, this is a deep-dive format likely with multiple drills and scenarios
+- **Paddle-as-measuring-stick decision rule.** Stick the paddle straight out: if the ball is at or in front of the paddle tip, let it bounce (dink); if the ball is at or behind the tip, take it as a volley. Removes second-guessing from the air/bounce decision — works only when in proper low ready stance with paddle extended.
+- **Low center of gravity unlocks a foot of extra reach.** Standing straight: limited reach. Drop into legs (butt out, chest forward): reach extends dramatically. More importantly, this allows hitting forward rather than upward — key to not popping balls up.
+- **Weight on toes, not heels, at the kitchen.** The heels tip is for beginners to avoid falling into the kitchen; once past that stage, toes allow pushing off to speed up, move wide, or step in — opening up the full kitchen offense.
+- **Dead-ball trigger for speed-ups.** When an opponent hits a slow, dead dink (not an aggressive paced dink), don't just volley it back — step back to create space and speed it up. Volleying a floater back gives them the exact same ball; stepping back and attacking changes the rally dynamic.
+- **Two drills to hold your dinks.** (1) Move back like you're going to speed up, then dink instead; (2) Same setup, but wait until the last possible instant to commit direction. This makes dinks look like speed-ups, removing anticipation from your opponent. Feels weird at first — Michelle calls it "opening a whole new dimension."
+- **"Either make your dinks look like your speedups, or your speedups look like your dinks."** Credit given to Zack Card for this framing. Holding the shot until the last moment is the advanced execution.
+- **Block volley on aggressive dinks: paddle out, laser open, squeeze.** When a ball is coming fast and deep — too fast to move back — squeeze grip slightly, open paddle face so the laser points up, and simply redirect it. Don't try to speed up or over-swing: block and redirect.
+- **Drill format shared:** Two dinks crosscourt → one speed-up middle. Then evolve to: hold each dink until last moment before committing. Then play live crosscourt points focusing on pulling the trigger on attackable balls.
 
 ## Visual Notes
 
-_No transcript or video analysis available for this source._
+Transcript includes Michelle demonstrating the backhand low roll/flick volley (paddle tip down, finish upward), which Tyler credits her for hitting correctly on first attempt — paddle starts low before the ball arrives, then flicks up rather than just blocking.
 
 ## Entity Pages Updated
 

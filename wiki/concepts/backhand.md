@@ -10,13 +10,17 @@ The backhand is statistically the weaker side for most recreational pickleball p
 
 ## The 5 Backhand Checkpoints
 
-Universal Rackets' systematic framework for diagnosing and fixing backhand problems:
+Universal Rackets' systematic framework for diagnosing and fixing backhand problems. These are the ACTUAL checkpoints from the Feb 6 transcript — different from what prior wiki entries predicted:
 
-1. **Grip** — Continental or Eastern backhand grip closes the paddle face naturally at contact
-2. **Stance / Unit Turn** — body must be sideways; shoulders turned; never open/square for a drive
-3. **Take-back** — compact, not a full tennis backswing; paddle head up, wrist firm
-4. **Contact** — out in front of the lead hip, not beside the body
-5. **Follow-through** — paddle face direction determines ball direction; finish toward target
+1. **Take-back position** — Butt cap points toward the ball (forward), paddle face visible from the side, paddle tip pointing up-and-back diagonally. Not pointing straight up, not down. This is checkpoint 1 before any swing.
+2. **The drop** — After the take-back, let the paddle drop. Tip goes from up-and-back to down (butt cap shifts from forward to pointing upward). "Pretend there's a weight on the paddle tip" — gravity helps if you release the death grip. This drops the paddle below the ball to enable a low-to-high swing.
+3. **Contact out in front and away from the body** — "Leave room for the Holy Ghost" on the take-back. Distance at take-back = distance at contact. Contact beside the body = guaranteed pop-up.
+4. **Extension** — After contact, keep swinging forward before going over the shoulder. Point the paddle tip directly toward the target. This is the "secret ingredient" 80% of players miss. "Hit through three balls."
+5. **Follow-through and hold** — Paddle touches the back, elbows point up. Wherever the elbows point = where the ball goes. Hold the finish for one second. Don't force the follow-through — it happens as a result of doing checkpoints 1-4 correctly.
+
+**"Top hand does the talking, bottom hand does the walking."** For a righty, the top (left) hand drives the backhand. The bottom hand provides stability. Beginners must start top-hand dominant, then incorporate the bottom hand as they advance (like Agassi eventually did).
+
+See: [5 Backhand Checkpoints (Universal Rackets, 2026-02-06)](../sources/2026-02-06-universal-rackets-5-backhand-checkpoints.md)
 
 See: [5 Backhand Checkpoints (Universal Rackets, 2026-02-06)](../sources/2026-02-06-universal-rackets-5-backhand-checkpoints.md)
 

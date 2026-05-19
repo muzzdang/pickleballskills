@@ -1,7 +1,7 @@
 ---
 aliases: ["Dink Mechanics", "How to Dink"]
 last_updated: 2026-05-01
-sources: 3
+sources: 11
 ---
 
 # Dink Mechanics
@@ -30,11 +30,42 @@ Angle the paddle face slightly **open** (tilted back) so the ball naturally ride
 
 Regardless of how elaborate the pre-contact setup looks (e.g., Ben Johns turning sideways before his backhand dink), the ball must always be contacted **out in front of the body**. Contact beside or behind the body = pop-up or net.
 
+## Three Dink Targets
+
+Many players only dink crosscourt. Universal Rackets identifies three targets to use strategically:
+1. **Out wide** — pull opponent off court, creates space on the other side
+2. **Down the middle** — miscommunication between partners; resets the rally geometry  
+3. **Straight at the opponent's body/feet** — the underused target. Players' offensive wheelhouse is out wide, NOT at their body. Going straight at them forces a cramped shot and often a pop-up.
+
+"Pretend your opponent's legs are the target." This cue removes hesitation about going at the opponent.
+
+## Recovering to Center
+
+After every dink — regardless of direction — recover back to the center of the court. Many players drill only crosscourt and then can't cover the middle when opponents speed it up. After every dink, move back to center. This is how you become unpoppable.
+
+## Speed-Up Disguise
+
+Advanced dinking: make your dinks look like speed-ups, and your speed-ups look like dinks. Move back like you're going to speed up, then dink. Then on the same setup, actually speed up. The transition point is when the opponent can no longer read which you're doing. See [Kitchen Aggression](kitchen-aggression.md).
+
+## Red Light / Green Light (Universal Rackets May 2026 framework)
+
+Only two lights — no yellow:
+- **Green light**: ball at or above the net → attack
+- **Red light**: ball below the net → block/dink
+
+"The moment you think yellow light is the moment you hesitate. In pickleball, time is a currency. If you hesitate, you're automatically wrong."
+
+## Visual Cue: Skim the Net
+
+"Visualize your ball just skimming the net" (May 2026 kitchen video). This alone reduces pop-ups — it creates the mental image of a forward push rather than a lift. Never higher than a paddle's length above the net.
+
 ## Drills
 
 1. **Toss drill** — physically toss the ball over the net with your hand; check that fingertips point forward at finish (not up or sideways). Then replicate with paddle.
 2. **No-backswing drill** — keep paddle out front at all times, even if it feels awkward. Sustain 20-40 ball rallies this way.
-3. **Sustained dinking** — paddle barely moves, face open, push forward; build consistency before worrying about placement.
+3. **Self-feed critique drill** — self-feed dinks with arm extended, call out "good / too high / net" for each ball. 10-15 reps. Verbal critique builds faster muscle memory.
+4. **Two dinks + speed up drill** — crosscourt dink, crosscourt dink, then speed up. Practice with same setup for dink and speed-up to build disguise.
+5. **Sustained dinking** — paddle barely moves, face open, push forward; build consistency before worrying about placement.
 
 ## Taking Balls Out of the Air: Slice vs. Bump
 
@@ -56,7 +87,12 @@ The bump has become increasingly common at higher levels (2025-2026) as two-hand
 
 ## Sources
 
-- [The 1 Reason You Keep Missing Your Dink — Universal Rackets](../sources/2026-04-28-universal-rackets-why-you-miss-your-dink.md)
+- [The 1 Reason You Keep Missing Your Dink — Universal Rackets (2026-04-28)](../sources/2026-04-28-universal-rackets-why-you-miss-your-dink.md)
+- [3 Things That Ruin Your Game — Universal Rackets (2026-02-15)](../sources/2026-02-15-universal-rackets-3-things-that-ruin-your-game.md)
+- [Kitchen Strategy Masterclass — Universal Rackets (2026-01-07)](../sources/2026-01-07-universal-rackets-kitchen-strategy-masterclass.md)
+- [Dominate the Kitchen — Universal Rackets (2026-05-15)](../sources/2026-05-15-universal-rackets-dominate-the-kitchen.md)
+- [Dominate the Kitchen Stop Popping Up — Universal Rackets (2026-04-01)](../sources/2026-04-01-universal-rackets-dominate-kitchen-stop-popping-up.md)
+- [Make Fewer Errors — Universal Rackets (2026-02-18)](../sources/2026-02-18-universal-rackets-make-fewer-errors.md)
 - [7 Ways to Add Power — Cracked Pickleball](../sources/2026-04-30-cracked-7-ways-to-add-power.md)
 - [Understanding Dinking — Third Shot Sports](../sources/2024-01-16-thirdshotsports-understanding-dinking.md)
 - [Stop Slicing Every Dink — Richard Pickleball (2026-04-29)](../sources/2026-04-29-richard-pickleball-bump-dink.md)

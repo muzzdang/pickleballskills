@@ -14,20 +14,20 @@ channel: Universal Rackets
 **Duration:** 18:42
 **Uploaded:** 2026-04-05
 
-No transcript available (rate-limited during fetch).
-
 ## Key Takeaways
 
-- Covers what to do AFTER you've already popped the ball up — the defensive response when you know a put-away is coming
-- Key insight: when you pop up, immediately go into defensive ready position — paddle up, knees bent, weight forward — not a frozen panic
-- Defense options when opponent is about to attack: block to their feet, lob over their head, or step back and reset
-- The best defensive response to a put-away attempt: a low block redirected to the attacker's feet, not a counter-speed-up
-- Mental component: don't tighten up after a pop-up — relax and stay ready for the next ball
-- This is the reactive companion to the prevention video (2026-04-01 stop popping up)
+Tyler and his daughter Sienna demonstrate the pop-up defense system:
+
+- **"The point is NOT over when you pop the ball up."** This is the mental shift the video teaches. Pickleball's wiffle ball is designed to come back. The pros pop up. Your partner pops up. This happens. The difference between good and great players is what happens NEXT.
+- **Immediate protocol after a pop-up: 3 steps back + low paddle.** As soon as you pop the ball up, don't freeze — take 3 steps back, get into legs, hold the paddle LOW (not up). The low paddle is crucial: when someone smashes a ball down at you, your paddle needs to be at the low position to block it up. High paddle → smash goes through you. Low paddle → you can redirect it up and back.
+- **Why 3 steps back?** When you're up at the kitchen and the smash comes, it arrives too fast. Moving back gives you time — even one second — to get set, get low, and block the ball back. Drilled with poly spots: pop up → both feet must step back to the spots → set low → ready for the smash.
+- **Paddle down cue when they're smashing at you.** "Seat down, paddle down." This is the posture — knees bent, paddle low, ready to absorb and redirect. The more the ball is going down at you, the lower the paddle needs to be to redirect it back up and over the net.
+- **The blocking motion: absorb and redirect up.** The block is not a counter-attack — it's a soft redirect. Open face, absorb the pace, and push the ball up to clear the net. This resets the rally.
+- **Sienna demo:** Tyler pops a ball up, she walks away from the court — this is the bad habit. Then he drills with her: pop up → move back → ready for the smash → block it back. A real-time lesson in the system.
 
 ## Visual Notes
 
-_No transcript or video analysis available for this source._
+Sienna (Tyler's daughter, young child) is the training partner throughout. Her walking-away demo is genuinely illustrative. Tyler pops balls up, she has to move back and block — the drill is shown with her at kid pace making it easy to see the footwork clearly.
 
 ## Entity Pages Updated
 

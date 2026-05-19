@@ -14,21 +14,20 @@ channel: Universal Rackets
 **Duration:** 18:54
 **Uploaded:** 2026-05-15
 
-No transcript available (rate-limited during fetch).
-
 ## Key Takeaways
 
-- The most recent Universal Rackets video in this batch — focuses on kitchen domination as a complete strategy
-- Complements the 2026-04-01 "stop popping up" video which was defensive; this is the offensive kitchen domination strategy
-- Kitchen domination framework: patience + positioning + attack trigger = control
-- Patience: don't rush the attack — let the rally develop until you earn a high ball
-- Positioning: stay on the NVZ line, crab-walk to stay square, paddle up and ready ([kitchen aggression](../concepts/kitchen-aggression.md))
-- Attack trigger: only attack when ball is above net height — wait for it, don't manufacture it
-- Likely includes strategy for controlling the dink rally: side-to-side movement, targeting the body, and setting up the speed-up
+Tyler frames this as the "five situations, five perfect decisions" system. The three mistakes he sees in every game:
+
+1. **Pop the ball up too high.** Fix: dink is a PUSH, not a hit. Less is more. "The moment someone thinks they have to hit is the moment they take a giant backswing and pop it up." Push forward, not upward. No wrist — arm and shoulder push only. "We are not flipping burgers at Five Guys." Visual cue: imagine the ball skimming the net. Never higher than a paddle's length above the net. Contact out in front and away from body — contact close = pop-up. Drop center of gravity.
+2. **Speeding up at the wrong time.** Fix: RED LIGHT or GREEN LIGHT — no yellow light. "The moment you think yellow light is the moment you hesitate. In pickleball, time is a currency. If you hesitate, you're automatically wrong." Green light = ball at or above the net. Red light = ball below the net. Below the net = block. Above the net = be aggressive. Black or white.
+3. **Flat feet, reaching, getting jammed.** Fix: weight on toes, leaning forward, moving FEET to the ball, not reaching with arm. The standard footwork cues.
+
+- **"Visualize your ball skimming the net."** This single visual cue reduces pop-ups dramatically. It forces forward push motion rather than lifting motion.
+- **Self-feed dink drill.** Arm fully extended, contact out in front, self-feed 5-15 balls and CALL OUT what each one was: "good," "too high," "in the net." Verbal critique of each shot accelerates muscle memory building.
 
 ## Visual Notes
 
-_No transcript or video analysis available for this source._
+Tyler does the self-feed dink drill on camera, calling out each ball. Shows the "ball skimming the net" visualization — he references an imaginary threshold just above the net tape. Red light / green light demonstration: shows a below-net ball (block) vs. an above-net ball (attack) in real time.
 
 ## Entity Pages Updated
 

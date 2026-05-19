@@ -24,15 +24,32 @@ Turn the wind into an advantage rather than fighting it as a problem. Wind affec
 - Reduce pace slightly; rely on accuracy over power
 - Opponents' returns will also carry — be ready for deeper returns
 
+**Drive — the primary wind tactic (Tyler's main recommendation):**
+- Drive every ball in wind. Drives move fast through the air — wind has less time to affect them. Drops are slow and give the wind maximum time to push the ball off course.
+- Exception: if wind is strongly at your back, slow drives to 60% and aim inside the baseline.
+
 **Topspin vs. Slice in wind:**
 - **Slice/backspin** is more reliable in wind — lower trajectory stays under the wind
-- **Topspin** (especially on drives) can balloon badly when hit into a headwind — the topspin spin interacts with the headwind to create lift
+- **Topspin** (especially on drives) can balloon badly when hit into a headwind
 - In windy conditions, favor [slice](slice.md) or flatter shots over heavy topspin
 
 **Dinking in wind:**
-- Dinking into the wind: requires less pace than normal — the wind decelerates the ball; a light push is enough
-- Dinking with the wind: requires more controlled touch — ball carries further than expected
-- Adjust early: take a few practice swings mentally noting how much the ball is moving
+- Dinking into the wind: requires less pace — the wind decelerates the ball
+- Dinking with the wind: requires more controlled touch — ball carries further
+
+**Tactical lob (competitive play only):**
+- In crosswind or headwind, lob opponents at the kitchen — the ball moves unpredictably. If the opponent is already complaining about wind, this accelerates their mental deterioration. The higher and slower the ball, the more the wind affects it. Not recommended for recreational play — you'll lose friends.
+
+## Read the Wind First
+
+Lick a finger and hold it up. Three scenarios:
+1. Wind into your face = resistance. Hit harder. Drive more.
+2. Wind at your back = ball carries. Hit slower. Aim shorter.
+3. Crosswind = ball veers left or right. Adjust aim to compensate.
+
+"If you see the wind is curving the ball to the left, aim more to the right of your intended target."
+
+**Adjustment steps are continuous.** Small, continuous steps all the way to contact — the ball is moving relative to your strike zone. Never pre-plant and wait.
 
 ## Positioning Adjustments
 

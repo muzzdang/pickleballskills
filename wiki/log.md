@@ -4,6 +4,25 @@ aliases: ["Wiki Log"]
 
 # Wiki Log
 
+## [2026-05-17] ingest | Universal Rackets batch — transcript enrichment
+
+Sources re-processed: All 48 Universal Rackets raw files from 2026-01-01 through 2026-05-15. Full transcripts fetched and used to replace inference-based source summaries with specific technique details, drills, cues, and quotes.
+
+Source pages enriched: 48 total
+- 43 pages from the prior bulk ingest (Jan–May 2026): transcripts replaced "No transcript available" stubs with 400–800 word takeaway sections containing specific cues, drills, quotes, and visual notes
+- 5 pages from the Apr 19–Apr 30 prior enrichment: supplementary transcript cues added
+
+Concept pages updated with transcript-derived specifics:
+- backhand: 5 checkpoints corrected from inferred to actual (butt-cap, drop, contact, extension, follow-through)
+- dink-mechanics: added red/green light system, three targets, speed-up disguise drill, "skim the net" cue
+- hybrid-drive-drop: full drill progression, clock metaphor, finger-on-paddle, crosscourt aim, troubleshooting
+- serve-mechanics: three-level system, arcade-claw toss, sideways-wave topspin cue, serve selection strategy
+- windy-conditions: drive-first tactic, three wind directions, continuous adjustment steps, lob tactic
+
+## [2026-05-17] re-ingest | Pickleball Studio — Power Paddles, HexGrit 300 Games, Podcast E165
+
+Three flagged sources fully re-ingested. Lead tape concept page updated with 300-config data from Pickleball Studio study.
+
 ## [2026-05-18] ingest | Bulk ingest 43 Universal Rackets sources (2026-01-01 through 2026-05-15)
 
 Sources processed: Full Universal Rackets catalog from Jan–May 2026. All 43 raw files had no transcript (YouTube API rate-limited during farmer fetch run). Source summaries written from titles, descriptions, and contextual inference from known Universal Rackets teaching system.

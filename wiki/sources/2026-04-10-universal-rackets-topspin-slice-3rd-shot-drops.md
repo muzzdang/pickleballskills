@@ -14,20 +14,21 @@ channel: Universal Rackets
 **Duration:** 15:00
 **Uploaded:** 2026-04-10
 
-No transcript available (rate-limited during fetch).
-
 ## Key Takeaways
 
-- Covers both spin variants of the third shot drop — topspin (dips quickly, higher margin) and slice (floats more, harder to read)
-- Topspin drop: swing path is low-to-high with a brushing motion; produces forward rotation that causes the ball to dip after the net
-- Slice drop: open paddle face, cutting underneath the ball on a high-to-low path; creates backspin that slows the ball and can float it low over the net
-- Backspin drop is harder to master but harder to attack — it skids low and the attacker tends to pop it up
-- Key decision: when return is fast/aggressive → topspin drop (more margin); when you have time → slice for deception
-- "Step-by-step for all levels" — suitable for players learning drops for the first time as well as those adding spin variation
+Sequel to the April 6 drop video — Tyler now adds spin variation:
+
+- **Three drop types — swing path is the differentiator.** Normal drop: open face, get all the ball, swing forward and up. Topspin drop: closed face, brush the BACK of the ball, swing from 6 o'clock to 12 o'clock (low to high). Slice drop: open face, come DOWN on the back of the ball, swing from 12 to 6 (high to low). Exactly opposite for topspin vs. slice.
+- **"Making a U" is the topspin drop cue.** Get under the ball → swing up. "I'm going under the ball and then up. Kind of like making a U when I hit." Compared to a normal swing that goes forward, the topspin drop creates the U shape by swinging down and under then up.
+- **Grip adjustments for each.** Topspin drop: slight forehand grip (closes face) to brush the back. Slice drop: slight backhand grip (opens face) to get under the back. This grip micro-adjustment is what makes each shot possible.
+- **Topspin drop troubleshooting:** Ball in the net → exaggerate getting under the ball + lift more. Aim a tiny bit higher than normal — topspin will bring it down, so you can aim higher with confidence. "Get into your legs and lift the ball."
+- **Slice drop is Tyler's preferred.** "I think it's very high percentage because by getting in the proper grip to get backspin, you're automatically going to open your paddle face — which forces me to lift the ball." The open face creates margin for error on height.
+- **Slice drop mechanics:** Stop the forward momentum, come UP under the ball. "I'm kind of bunting the ball almost. I'm more firm and absorbing the ball." Bunt cue — firm contact, no acceleration, let the backspin do the work.
+- **Paddle speed difference:** Topspin drop = commit with paddle speed (fast swing). Slice drop = firm and absorb (slower, more controlled).
 
 ## Visual Notes
 
-_No transcript or video analysis available for this source._
+Tyler demonstrates the topspin drop motion at slow speed — the visible U-path of the paddle from below the ball up through contact. Slice drop shown — less swing arc, more bunt contact, open paddle face clearly visible.
 
 ## Entity Pages Updated
 

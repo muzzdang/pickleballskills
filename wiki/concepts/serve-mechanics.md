@@ -10,13 +10,19 @@ The serve is the only shot in pickleball that you fully control — the ball is 
 
 ## Core Principles
 
-**The toss is the foundation.** A consistent, repeatable toss is the most important mechanical element. Release from below the waist (per pickleball rules), at a consistent height, slightly out in front of the strike zone. A variable toss forces compensation on every swing.
+**The toss is the foundation.** Call it the "serve drop," not toss — palm faces downward, release the ball, don't push it up. Arm fully extended, drop at 1:00 for right-handers, 11:00 for left-handers. Around hip height — not too low (can't get under the ball) and not too high (wind and timing variability). The "arcade claw" mental model: position, then release. Any spin visible on the dropped ball means you used wrist. Tossing arm stays up after release to maintain body rotation.
 
-**Swing path determines spin.** Low-to-high = topspin. High-to-low = slice/backspin. Level = flat. This is the primary lever for serve variation.
+**Three-level system (Universal Rackets).** Level 1: synchronize toss and swing (drop-and-catch drill, say "drop, hit" aloud). Level 2: add rotation — face the dominant-side net post, not the target; coil then uncoil. Level 3: add legs — load back leg, explode forward at the moment of swing. Every serve type is accessible once L1-L3 are solid.
 
-**Contact point determines power and placement.** Contact out in front of the body with a full arm extension creates maximum leverage. Contact beside the body loses power and control.
+**Swing path determines spin.** Low-to-high (6 to 12 o'clock) = topspin. High-to-low (12 to 6) = slice/backspin. More forward = flatter ball. More upward = more spin and dip.
 
-**Follow-through completes the shot.** Paddle face direction at the end of the follow-through determines where the ball goes — [paddle face direction](paddle-face-direction.md) applies to serves as much as any other shot.
+**"Sideways wave" / "petting the dog" for topspin.** Never turn the wrist (lock-the-door motion). Wave the paddle diagonally — the wrist stays locked but the arm waves sideways. This is the correct motion for brushing topspin onto the serve.
+
+**Contact out in front; body forward and down through contact.** Don't pick up the head or body during the serve — momentum must stay forward toward the target. "Body and head down = ball stays down toward target."
+
+**Follow-through = commitment confirmation.** Paddle touches the back OR elbow points to the target. Either cue confirms full follow-through. Players who decelerate before follow-through must rely on gravity — severely limits control.
+
+**"Rotation + acceleration = power."** Not arm strength. Face away from target (net post alignment) → coil → uncoil into the ball. The front-toe-toward-net-post is the alignment cue that unlocks rotation.
 
 ## Serve Types
 

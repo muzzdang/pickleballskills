@@ -21,10 +21,15 @@ The heavy topspin creates an arc — the ball rises like a drive, then dips shar
 
 ## Technical Requirements
 
-- **Steep low-to-high swing path** — more aggressive brush than a flat drive, steeper than a topspin drop
-- **[Wrist lag](wrist-lag.md)** — the wrist coils and releases explosively through contact; this is the primary topspin generator
-- **Contact point:** lower than a flat drive, higher than a typical topspin drop — the contact zone is the key variable
-- **Swing speed:** faster than a drop, slower than a flat drive — the spin does the work, not raw pace
+- **Same takeback as a drive; different contact and follow-through.** The only thing that changes after the prep phase: instead of swinging outward (forward through the ball), swing UPWARD. "The more forward you swing, the flatter the ball. The more upward you swing, the more it dips short."
+- **Clock metaphor: swing from 6 to 12 o'clock.** A drive swings from 9 to 3 (horizontal). The drip swings from 6 to 12 (vertical). This clock path is the core cue.
+- **Paddle tip DOWN, finish paddle tip UP.** The defining paddle path: tip drops before contact, rises through and after contact. Visualize the paddle going low-to-high through the ball.
+- **Get less of the ball.** A drive hits through all of the ball. The drip brushes a "30th of the ball" — the very back. This is what creates the spin. Net-roll drill: hold the ball against the net and roll it over — that exact feel is what you're creating from the baseline.
+- **Explode from the legs.** Paddle down + legs drop simultaneously → then legs and paddle both drive upward. The leg explosion is the power source, not the arm.
+- **Commit and accelerate.** Slowing down removes spin and the ball goes long. Swing twice as fast to learn the shot — counterintuitive but produces better results.
+- **Troubleshooting:** Ball in the net = get more under the ball (too far forward). Ball goes long = swing more upward, get less ball.
+- **Aim crosscourt.** More distance, lower net height at the post, more margin for error. Always aim drips crosscourt.
+- **Finger on top of the paddle for backhand drip.** Choking up with one finger on the paddle face (as Quang Dong and Anna-Leigh Waters do) allows much more paddle-face maneuverability for the drip and speed-up.
 
 ## When to Use
 

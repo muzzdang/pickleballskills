@@ -14,20 +14,20 @@ channel: Universal Rackets
 **Duration:** 25:05
 **Uploaded:** 2026-02-21
 
-No transcript available (rate-limited during fetch).
-
 ## Key Takeaways
 
-- The topspin serve is Universal Rackets' most recommended serve — consistent, deep-landing, and creates a high/aggressive bounce
-- Step-by-step system at "any level" — the video covers accessible mechanics, not just pro-level technique
-- Swing path is the key: low-to-high brush contact creates forward rotation (topspin), which causes the ball to dip after crossing the net
-- The ball bounces high and aggressive on the receiver's side, forcing them to hit from an uncomfortable position
-- Wrist lag is critical: the wrist loads behind the paddle during the swing and releases through contact — this is the primary topspin generator
-- At 25 minutes, likely covers: grip, toss, swing path, contact, follow-through, and a drill progression
+- **Topspin = forward rotation = ball dips and kicks up on bounce.** As opposed to flat (ball goes through) or slice (ball stays low or kicks sideways). Topspin bounces aggressively up at the returner, forcing a defensive position. Deep topspin + bouncing up = ideal unreturnable-unattackable serve.
+- **Create topspin by getting less of the ball.** A centered contact (all ball) produces a flat shot. Brushing the back of the ball (getting a fraction of it) produces topspin. More you brush, more spin; less ball touched = more rotation.
+- **Swing low to high — from 6 to 12 o'clock.** This is the swing path for topspin. Not horizontal (flat), not from 9 to 3 — from bottom to top. Brush the ball from below upward.
+- **"Sideways wave" / "petting the dog" motion — NEVER turn the wrist.** Players think you have to twist your wrist to hit topspin — wrong. Keep the wrist stable. The motion is a diagonal sideways wave, not a key-turning rotation. Stand with arm out, wave at the camera, then tilt the wave diagonally — that's the topspin motion. The paddle never flips face-over.
+- **Two things simultaneously:** (1) brush the back of the ball (less ball contact), (2) swing low to high. These together produce heavy topspin.
+- **The lob serve's topspin connection.** Anna-Leigh Waters' lob serve isn't just lofted — it has topspin. The ball curves down from altitude AND kicks up on the bounce. Tyler demonstrates: play with height AND topspin simultaneously. The serve can be hit very high and still dive in because spin controls it.
+- **Topspin allows more height, therefore more consistency.** The more topspin, the more margin for error on height — ball dives before going out. This is why topspin is the most reliable serve.
+- **Listen to the ball.** Topspin contact sounds different — less "pop," more of a brushing sound. No pop means you're getting less of the ball correctly.
 
 ## Visual Notes
 
-_No transcript or video analysis available for this source._
+Tyler shows topspin vs. flat serve from a returner's perspective — topspin ball clearly bouncing higher and more aggressively toward the chest. Demonstrates the "sideways wave" motion at slow speed — wrist stays locked, only the arm moves diagonally. Shows lob serve bouncing and kicking up aggressively at the baseline.
 
 ## Entity Pages Updated
 

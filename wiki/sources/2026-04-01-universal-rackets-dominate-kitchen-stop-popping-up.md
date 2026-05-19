@@ -14,20 +14,20 @@ channel: Universal Rackets
 **Duration:** 29:31
 **Uploaded:** 2026-04-01
 
-No transcript available (rate-limited during fetch).
-
 ## Key Takeaways
 
-- The pop-up is the #1 error at the kitchen — this video is specifically about eliminating the ball that floats high for an easy put-away
-- Root causes of the pop-up: lifting the ball (pushing up instead of forward), paddle face too open, contact below the body center (not out front), no crab-walk lateral position
-- "Dominate" part: once you stop popping up, you can shift to controlling the rally — side-to-side dinking, biding time, then attacking the right ball
-- Footwork emphasis: the crab walk keeps you sideways and balanced, which is the mechanical foundation for controlling the dink direction
-- At 29 minutes, likely covers multiple pop-up scenarios: from a low dink, from a fast attack, from moving laterally
-- The sister video to the 2026-05-15 "How to Dominate the Kitchen" which covers broader strategy
+Tyler and Michele (Sienna also helps with demos) — kitchen domination framework for April 2026:
+
+- **Know what you want to create: opportunities above the net.** "Anytime you make contact above the net, you're on offense." The goal of every dink is to create a ball that your opponent has to hit from below the net — forcing them to pop it up to you, giving you the attack.
+- **Contact point and paddle hold.** Michele starts the coaching: "a lot of people bring their paddle behind their back when dinking." Paddle must be out in front at contact. Also: many have no form awareness on the dink — they just push any way they can. Fix: contact always out in front, arm extended.
+- **Be proactive, not reactive.** Know what shot you're hitting before the ball arrives. "Don't just hit a dink because someone told you that's what you do." Have a plan: are you moving them wide? Are you going at their feet? Are you setting up a speed-up?
+- **"Pull the trigger" discipline.** Players second-guess themselves constantly — a big theme of the April series. In this video: when a pop-up comes, you must attack it immediately. That's the whole purpose of the dinking strategy. Creating the pop-up and not attacking it wastes all the work.
+- **Footwork: get behind the ball.** Reaching causes pop-ups. Move to get body behind the ball, THEN contact out in front. Same footwork principles as the earlier footwork masterclass.
+- **The time-is-currency principle.** At the kitchen, every fraction of a second matters. Players must be in the proper position BEFORE the ball arrives. Paddle up, feet active.
 
 ## Visual Notes
 
-_No transcript or video analysis available for this source._
+Tyler uses Tyler's daughter Sienna to demonstrate pop-up scenarios — she pops up, Tyler attacks. Shows the "stand there vs. move back" contrast clearly with a child-level demo that makes the concept visceral. Michele shows incorrect paddle positioning — behind the body — then correct positioning.
 
 ## Entity Pages Updated
 

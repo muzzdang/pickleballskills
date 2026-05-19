@@ -14,20 +14,22 @@ channel: Universal Rackets
 **Duration:** 7:49
 **Uploaded:** 2026-03-04
 
-No transcript available (rate-limited during fetch).
-
 ## Key Takeaways
 
-- Short-form "rapid fire" format — quick mechanical tips without extended explanation; high density of actionable cues
-- Likely 8-12 individual tips delivered in sequence, covering: grip, stance, take-back, contact point, follow-through, and common errors
-- Instant improvement focus: each tip is designed to produce a noticeable effect when applied immediately
-- The forehand drive is the most natural shot for most players — tips likely fix entrenched bad habits rather than teach from scratch
-- Common forehand errors these tips probably address: arm-only swing (no body rotation), contact beside the body (not out front), and high trajectory (sending ball long)
-- Companion video to the longer forehand offensive weapon masterclass (2026-03-08)
+Rapid-fire format (7:49) — each tip demonstrated briefly:
+
+1. **Contact out in front and away from the body.** "Leave room for the Holy Ghost" / "hug the tree" — if the paddle is taken back close to the body, contact will be close to the body. Take the paddle back with space between paddle and body.
+2. **Non-dominant hand as GPS.** Wherever you can get the non-dominant hand to = where contact should be. Use the non-hitting arm to guide toward the ball, then hit. This naturally positions contact out in front.
+3. **Paddle tip UP on the take-back.** Not down, not horizontal — up. When tip is down at take-back, players arm the ball and it goes long. Tip up → drop → contact → extension.
+4. **Close the paddle face.** A common cause of forehands going long: open paddle face (pointing up or forward). Close it — tilt it slightly downward. "Arrow out the center of your paddle tells you where the ball goes."
+5. **Keep head down; watch the ball hit the center of the paddle.** The "keep your eye on the ball" cue is overused and vague. The specific cue: watch the ball make contact with the exact center of the paddle. Don't look up until follow-through is complete. "Pause, then pick your head up."
+6. **Body down, forward, and toward target.** Glass of water on the head — can you keep it balanced after contact? Drop center of gravity, keep chest forward, don't pop up.
+7. **Always move forward after the shot.** The drive is an approach shot — treat it like approaching the net in tennis. Hit → move forward. Every time, without exception.
+8. **Follow through and stay turned.** Don't open the body early. Follow through, then open. Body turn is one split second behind the swing completion.
 
 ## Visual Notes
 
-_No transcript or video analysis available for this source._
+Tyler demos each cue rapidly — about 30-60 seconds per tip. The non-dominant hand GPS is shown: he literally guides his left hand toward where the ball will arrive before swinging. The paddle-tip-down fault is shown clearly — a bent, low tip produces a loopy arm swing.
 
 ## Entity Pages Updated
 

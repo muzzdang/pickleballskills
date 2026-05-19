@@ -14,21 +14,22 @@ channel: Universal Rackets
 **Duration:** 21:01
 **Uploaded:** 2026-02-06
 
-No transcript available (rate-limited during fetch).
-
 ## Key Takeaways
 
-- Universal Rackets' signature "checkpoint" framework applied to the backhand — a systematic self-diagnosis tool
-- The 5 checkpoints are likely: grip, stance/unit turn, take-back, contact point, and follow-through
-- Checkpoint 1 (Grip): Continental or Eastern backhand grip — closed face at contact
-- Checkpoint 2 (Stance): Sideways body position, shoulders turned; never open/square for a drive
-- Checkpoint 3 (Take-back): Compact — not a full tennis backswing; paddle head up, wrist firm
-- Checkpoint 4 (Contact): Out in front of the lead hip, not beside the body
-- Checkpoint 5 (Follow-through): Direction of paddle face determines ball direction; finish toward target
+The actual five checkpoints (from transcript — different from what was predicted):
+
+1. **Proper take-back.** Butt cap points toward the ball, paddle face sideways (you can see the face from the side), paddle tip pointing up AND back diagonally. Not pointing straight up, not down. Think: butt cap forward, face sideways, tip up-and-back. This cannot be skipped — it creates leverage for the swing.
+2. **The drop.** After take-back (butt cap forward, tip up), the next move is to drop the paddle. Tip goes from up-and-back to down — let gravity do this by releasing the death grip. "Pretend there's a weight on the paddle tip." Butt cap shifts from forward to pointing upward. This is how you get under the ball to swing upward.
+3. **Contact — out in front and away from the body.** "Leave room for the Holy Ghost" when taking the paddle back — distance between paddle and body creates distance at contact. Contact too close to the body = guaranteed pop-up. Contact out front and away = power and control.
+4. **Extension.** The "secret ingredient" 80% of players miss. After contact, keep the paddle swinging forward — don't just follow through over the shoulder immediately. Point the paddle tip directly toward the target before going over the shoulder. "Hit through three balls" cue applies here. Extension is what players missing on otherwise solid backhands.
+5. **Follow-through.** Happens as a result of the other four steps — don't force it. Paddle touches the back, elbows point up, frame of paddle tip pointing up. "Smell your armpits." Wherever elbows point, ball goes. Finish and hold the pose — "pretend you're on center court, smile for cameras."
+
+- **"Top hand does the talking, bottom hand does the walking."** For a righty, the top (left) hand drives the stroke. As you advance, the bottom hand does more — but beginners must start with top hand or the stroke stays weak and awkward.
+- **Compact as you advance.** The checkpoints apply to bigger slower swings first. At higher levels, compress everything — shorter takeback, drop happens in a flash, contact quicker. Start big to learn the sequence, then tighten it.
 
 ## Visual Notes
 
-_No transcript or video analysis available for this source._
+Tyler builds the drill progressively: (1) takeback only; (2) drop; (3) contact; (4) add extension; (5) full follow-through hold. Each step practiced separately before combining. He shows the C-with-check-mark shape traced by the paddle: back = top of C, drop = curve, forward extension = horizontal check mark, follow-through = upward finish.
 
 ## Entity Pages Updated
 

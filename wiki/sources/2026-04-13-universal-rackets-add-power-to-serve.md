@@ -14,20 +14,21 @@ channel: Universal Rackets
 **Duration:** 25:08
 **Uploaded:** 2026-04-13
 
-No transcript available (rate-limited during fetch).
-
 ## Key Takeaways
 
-- Masterclass specifically targeting serve power — distinct from serve consistency or spin
-- The power serve is NOT about swinging harder: it comes from the [kinetic chain](../concepts/kinetic-chain.md) — weight transfer, hip rotation, shoulder rotation, arm, wrist snap
-- [Wrist lag](../concepts/wrist-lag.md) is the key power multiplier: coiling the wrist and releasing through contact generates the "whip" effect without arm-only effort
-- Grip position affects power: lower on the handle = more leverage = more whip; choking up reduces power but improves control
-- Contact point: reaching forward and slightly up at contact extends the swing arc and increases velocity
-- A power serve that is inconsistent is worse than a moderate consistent serve — the video likely covers the balance point
+Tyler opens with a no-paddle drill to make rotation visceral before touching the paddle:
+
+- **No-paddle drill first.** Stand behind the baseline, toss the ball into the box with your hand. First: hips facing forward (square) — notice how hard it is and how little power you generate. Second: body sideways — notice it's dramatically easier to get the ball over the net. This is the core lesson: rotation = power.
+- **Front toe pointing toward dominant-side net post.** Right-handed player: front toe pointing toward the right net post on both sides. This body alignment positions the hips to rotate through the shot. If the front toe points toward the target, the hip is blocked and you'll arm the ball.
+- **Think about actually using the hips.** Many players get the right stance but still just swing the arm because they haven't activated the muscle-mind connection. When you serve, feel your hips turning from sideways to forward. That hip rotation IS the power source.
+- **Acceleration timing.** After rotation, you still have to accelerate. "Rotation + acceleration = power." The timing: rotate first, then the swing follows a split second after. If you swing before you rotate, you're arming the ball.
+- **Body stays down and forward throughout.** Don't pop the head up. Keeps all the momentum going into the serve direction.
+- **Legs load and explode.** Same as all serve content — load back leg, explode forward. The combination of leg push + hip rotation + arm swing is the full power chain.
+- **Depth is still greater than power.** Power serves are the tool, not the strategy. A powerful serve that is short is easily attacked. A moderate deep serve is more effective. Power is the spice — depth is the meal.
 
 ## Visual Notes
 
-_No transcript or video analysis available for this source._
+Tyler does the no-paddle ball-toss drill on camera — first square-stance (clearly harder), then sideways-stance (ball easily reaches the box). Demonstrates front-toe positioning with a verbal comparison between toe pointing toward target vs. toward net post.
 
 ## Entity Pages Updated
 

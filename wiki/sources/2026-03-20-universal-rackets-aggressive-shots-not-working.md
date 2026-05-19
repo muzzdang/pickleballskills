@@ -14,20 +14,20 @@ channel: Universal Rackets
 **Duration:** 20:15
 **Uploaded:** 2026-03-20
 
-No transcript available (rate-limited during fetch).
-
 ## Key Takeaways
 
-- Diagnostic video targeting players who feel they're being aggressive but keep losing the point — the problem is usually timing, not technique
-- Root cause #1: attacking before the [attack trigger](../concepts/attack-trigger.md) — swinging at balls below net height creates errors and leaves you out of position
-- Root cause #2: using a full swing in the kitchen where a compact punch is needed — over-swinging causes mis-hits and pulls the paddle too far across the body
-- Root cause #3: predictability — always speeding up cross-court, never at the body, never down the line
-- "It's not what you think" subtitle signals a counterintuitive insight — probably that more aggression is NOT the answer; better trigger selection is
-- Solution: exercise more patience waiting for the right ball, and sharper compact mechanics when you do attack
+Tyler and Michele co-host. The counterintuitive insight: aggressive shots fail not because of bad technique, but because players fail to SET UP the point correctly first.
+
+- **Root cause: you're trying to create offensive shots from thin air.** "The only way to be aggressive is if you set up the point correctly." Players hit a drive and then stand around watching. They don't advance court position. They have no setup.
+- **The drive's true purpose: advance court position, not win the point.** Hit the drive at 60-70%, then move up through poly spots. Use the drive as an approach shot — the aggression comes in the NEXT exchange, not the drive itself.
+- **"Hit the drive and move up" = the core framework.** Place two poly spots as the halfway line. Every time you drive, your body must move through and past the poly spots. Watching the drive + staying back = never getting to be aggressive.
+- **When the ball is high: drop center of gravity, snap the wrist.** After setting up the point correctly and getting up to the kitchen, you'll now earn the high ball. At that point: drop into legs, paddle face down, wrist snap. "Always go for it. I would rather have you miss going for it than tap it back."
+- **Michele's framing: "You can only be aggressive if you set up the point correctly."** The setup = getting to the kitchen via good drives, drops, or returns. Once at the kitchen, the aggressive opportunities come naturally.
+- **Drive → move up → earn position → be aggressive.** This is the sequence. Aggression as a first option (trying to win off the third shot drive) collapses the whole sequence.
 
 ## Visual Notes
 
-_No transcript or video analysis available for this source._
+Tyler and Michele demonstrate the poly spot drill: drive, then physically run through the poly spots. Shows the contrast — standing still after the drive vs. advancing through. Michelle hits a block return at their feet when they don't advance — shows the consequence of staying back.
 
 ## Entity Pages Updated
 

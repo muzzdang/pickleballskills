@@ -14,20 +14,20 @@ channel: Universal Rackets
 **Duration:** 15:19
 **Uploaded:** 2026-04-15
 
-No transcript available (rate-limited during fetch).
-
 ## Key Takeaways
 
-- The crosscourt angle is a high-percentage shot because the net is lower in the middle and the diagonal distance across the court gives more room for error
-- An angled crosscourt drive or drop "pulls opponents off the court" — creates extreme positioning that opens the opposite side
-- Technique for angle: the paddle face must be turned toward the sideline, not the center — the ball goes where the face points ([paddle face direction](../concepts/paddle-face-direction.md))
-- For drives: the angle requires a slight early contact to redirect cross-body; for drops: the angle comes from a more open face on the slice
-- "Pull opponents off the court" is the strategic goal — create a gap so large that the next ball wins easily
-- Connects to [court angles](../concepts/court-angles.md): angles are most effective after establishing the center ball
+- **"Angle creates angle" is the governing principle.** When you pull your opponent out wide, they have to reach and pop the ball up OR hit back to you at an angle — giving you the middle. Either way you win.
+- **Why angle? Force opponents to reach.** At club level, players who are pulled out wide can't make a controlled shot. Their head goes down, they reach, and the ball pops up. This is the offensive opportunity.
+- **Angled drive technique: get the OUTSIDE of the ball.** Don't just swing forward — get around the outside edge of the ball. "The more outside of the ball you can get, the more the ball goes out wide." Think of curving around the ball rather than going through it.
+- **Follow your momentum.** After the angled drive, all your momentum (elbow, body, follow-through) goes toward the wide side you're aiming for. "Watch where my elbow goes — it goes over there every single time."
+- **Angled drop technique: paddle face slightly angled.** Instead of pointing the center of the paddle face forward, tilt the paddle face slightly to the side you want the ball to go. "When I angle the paddle face a tiny bit to the side, it automatically creates the angle." Then extend toward that angle.
+- **Drop + angle = get under and around the ball.** For the drive you get the outside and go forward. For the drop you get under AND outside. The combination is the angled drop.
+- **After the angle, hit the middle.** Once you've pulled them wide and they're scrambling, the next shot should be through the middle — their partner doesn't know whether to cover or leave it, and there's a gap. "Angle creates angle → middle ball wins the point."
+- **Club level players don't know how to move out wide.** They'll try to force the ball back to you from a stretched position — usually popping it up.
 
 ## Visual Notes
 
-_No transcript or video analysis available for this source._
+Tyler demonstrates getting the outside edge of the ball on the drive vs. hitting through center — visible arc difference. Michele scrambles wide for the angled drop, pops it up — Tyler puts away the middle ball. The two-shot combination (angle → middle) is shown as a live rally scenario.
 
 ## Entity Pages Updated
 

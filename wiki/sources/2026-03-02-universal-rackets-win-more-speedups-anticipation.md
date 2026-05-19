@@ -14,20 +14,20 @@ channel: Universal Rackets
 **Duration:** 19:17
 **Uploaded:** 2026-03-02
 
-No transcript available (rate-limited during fetch).
-
 ## Key Takeaways
 
-- Covers three interconnected offensive skills: the speed-up shot, reading and anticipating opponent shots, and overarching point strategy
-- Speed-up mechanics: compact motion, directed at opponent's shoulder/non-paddle hip; not a full swing but a wrist-snap punch
-- Anticipation: reading opponent's paddle face and body position before they contact the ball allows early split-step and ready position
-- The [split stop](../concepts/split-stop.md) is the mechanical foundation of anticipation — you must stop before your opponent contacts to be able to move in any direction
-- Point strategy principle: create the attack trigger rather than forcing it — rally until the ball is above net height, then attack
-- Connects [attack trigger](../concepts/attack-trigger.md) with split-step anticipation as a combined offensive system
+A strategy-first video about capitalizing on opportunities within a point — not just technique:
+
+- **Move up after a good serve.** Most players hit a good serve and then stay back "because of the bounce rule." Rule: if you know you hit a good serve (felt it off the paddle, saw your opponent stretch or struggle), move up. Don't wait for the ball to land — be proactive. "Smelling blood in the water like a shark."
+- **Two inputs for moving up after a serve:** (1) opponent tendencies and return history (does this person always hit short, run around their backhand?); (2) your intuition about how good the serve felt. Both together = confident advance.
+- **After a good return, take a short ball aggressively.** Players hit a great return deep and then walk to the kitchen. Wrong. If the return was good, the third shot will be weak — move up early and intercept it. Don't let a good return go to waste.
+- **After a good drop, come in and look for the high ball.** Many players make a great drop but don't anticipate the response. After a good drop, move up looking for a put-away opportunity. Know what you're looking for before the ball arrives.
+- **When you get the high ball, finish the point — don't overthink.** Drop center of gravity, wrist snap down, aim at the opponent's body or feet. Players who tap back high balls train their opponents not to fear popping up.
+- **Anticipation framework for all shots:** watch the opponent's body language, patterns, and paddle face direction. If they always go crosscourt, shade that direction. If they've been going down the line, be ready for the middle.
 
 ## Visual Notes
 
-_No transcript or video analysis available for this source._
+Tyler demonstrates the serve + advance forward movement — shows the position difference between staying back vs. stepping in after a good serve. Demonstrates the return + early court entry sequence.
 
 ## Entity Pages Updated
 

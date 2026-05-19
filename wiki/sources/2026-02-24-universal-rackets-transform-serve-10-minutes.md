@@ -14,20 +14,20 @@ channel: Universal Rackets
 **Duration:** 6:38
 **Uploaded:** 2026-02-24
 
-No transcript available (rate-limited during fetch).
-
 ## Key Takeaways
 
-- At only 6:38, this is a tight "one drill" or "one fix" format — maximum impact with minimal time
-- Likely identifies a single mechanical adjustment that produces immediate, visible improvement
-- The most common such fix: shifting from an arm-only swing to a body-rotation-led serve — immediately adds power and consistency
-- Alternative single fix: correcting the toss to be consistent and out in front rather than behind or to the side
-- The "10 minutes" framing suggests a drillable, on-court exercise format rather than a lecture
-- Good companion video to longer topspin serve masterclass (2026-02-21)
+A rapid-fire checklist format (6:38 runtime) — six tips to apply immediately:
+
+1. **Face the net post, not the target.** Right-handed player → align body with the right net post. Facing the target eliminates rotation and forces an arm-only serve. Facing away from the target allows the body to rotate through the hit. This is the single biggest fix for most players.
+2. **Follow through and touch your back.** Stopping the swing short forces reliance on gravity and reduces speed. Finish with the paddle touching your upper back, or think "elbow points toward target." Full follow-through is a commitment cue — it ensures you don't decelerate before contact.
+3. **Hips sideways before contact, facing forward after.** "Hips don't lie." Hips = rotation = power. Think: hips sideways at setup, hips facing target at finish. This rotation is the alternative power source beyond arm strength.
+4. **Keep body down and forward; don't pick up the head.** A laser from the center of the chest should point toward the target throughout the swing. Picking up the head sends that laser skyward — serve goes up and out. Body forward = consistent direction.
+5. **Use your legs.** Rock back into the back leg, then explode forward. Or start forward, rock back, go forward. Either way, loading and exploding from the legs transforms an arm serve into a full-body serve. "The moment you push off the back leg = the moment you fire the paddle."
+6. **Swing low to high; don't be afraid of the pickle ball police.** A low-to-high swing creates topspin and consistency. Don't limit yourself because you're worried about an illegal serve — unless you look like Roger Federer at Wimbledon, no one is calling you. Swing freely.
 
 ## Visual Notes
 
-_No transcript or video analysis available for this source._
+Tyler demonstrates hip rotation — shows hips sideways pre-serve, hips facing forward post-serve. Demonstrates the chest laser metaphor — looks up vs. keeps down to show ball direction difference.
 
 ## Entity Pages Updated
 

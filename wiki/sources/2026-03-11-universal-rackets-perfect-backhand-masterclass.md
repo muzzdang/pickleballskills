@@ -14,20 +14,22 @@ channel: Universal Rackets
 **Duration:** 39:24
 **Uploaded:** 2026-03-11
 
-No transcript available (rate-limited during fetch).
-
 ## Key Takeaways
 
-- Comprehensive backhand masterclass covering dinks, drives, and volleys in one 39-minute session
-- Backhand dink: shoulder-driven push, paddle out in front, open face slightly, lateral body position (same crab-walk principles as forehand dink)
-- Backhand drive: unit turn with full shoulder rotation — unlike the forehand, the backhand requires active shoulder engagement to generate pace
-- Backhand volley: compact, elbow tucked, wrist firm — the backhand volley is weaker for most players but can be strengthened with these mechanics
-- The longest Universal Rackets video reviewed in this batch — likely the definitive backhand reference for the channel
-- Connects the [5 backhand checkpoints](../sources/2026-02-06-universal-rackets-5-backhand-checkpoints.md) framework to all three shot types
+Tyler's most comprehensive backhand video (39:24) — covers backhand drive, return, serve, volley, dink, and overhead:
+
+- **Why the backhand feels awkward:** non-dominant side + two hands + more restricted range. The forehand allows arm compensations; the backhand requires proper mechanics or you're stuck.
+- **Backhand drive: must turn body sideways AND have paddle back BEFORE moving to the ball.** The two-step setup: (1) body sideways + paddle back; THEN (2) move to the ball. Players go wrong by arriving at the ball first, then trying to set up — results in getting jammed. "Be here before the ball comes."
+- **Two-handed backhand = top-handed forehand.** The top hand (non-dominant for a righty) drives the shot. Think of it as a left-handed forehand if you're right-handed. The bottom hand provides stability and guides, but the top hand brushes through and generates spin and pace.
+- **Backhand dink: keep paddle out front, TURN the upper body.** Don't take the paddle back when dinking on the backhand — the body turn automatically repositions the paddle. This is Tyler's personal 2025 breakthrough: "turn the body, keep the paddle front."
+- **Backhand volley: elbow in, wrist firm, paddle out front.** Same principles as forehand volley — but even more critical that the paddle is pre-positioned (no time for backswing on a volley).
+- **Backhand overhead: usually a forehand overhead is preferable, but some balls force the backhand.** Reach across to the backhand side, snap the wrist.
+- **The 5 checkpoints apply to all backhand shots:** (1) proper take-back position (butt cap forward, tip up), (2) drop the paddle (tip down), (3) contact out in front, (4) extension forward, (5) follow-through and hold.
+- **Contact: "leave room for the Holy Ghost."** Distance between paddle and body on take-back = distance at contact. Take paddle away from body = contact away from body.
 
 ## Visual Notes
 
-_No transcript or video analysis available for this source._
+Tyler demonstrates backhand drive, return, and volley from multiple angles. Shows the body-sideways requirement — from behind the player, showing shoulder turn. Demonstrates top-hand dominance by hitting with each hand separately to illustrate which drives the motion.
 
 ## Entity Pages Updated
 

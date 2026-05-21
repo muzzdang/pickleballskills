@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: -6Ds4zLboY0
 channel: Universal Rackets
+type: source
+date: 2026-03-06
+duration: "22:23"
+url: "https://www.youtube.com/watch?v=-6Ds4zLboY0"
 ---
 
 # What To Do When Your Opponent Hits at Your Feet (Universal Rackets)

@@ -2,6 +2,7 @@
 aliases: ["Bump Dink", "The Bump", "Bump Volley"]
 last_updated: 2026-05-10
 sources: 1
+type: concept
 ---
 
 # Bump Dink

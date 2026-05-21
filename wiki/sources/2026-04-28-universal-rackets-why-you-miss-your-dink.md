@@ -2,6 +2,10 @@
 aliases: ["Why You Keep Missing Your Dink (Universal Rackets)"]
 last_updated: 2026-05-01
 sources: 1
+type: source
+date: 2026-04-28
+duration: "13:09"
+url: "https://www.youtube.com/watch?v=xvOpeDGYUzo"
 ---
 
 # Why You Keep Missing Your Dink (Universal Rackets)

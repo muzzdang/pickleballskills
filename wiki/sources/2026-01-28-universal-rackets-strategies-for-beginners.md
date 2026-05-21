@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: w5zz-nSHJWQ
 channel: Universal Rackets
+type: source
+date: 2026-01-28
+duration: "18:13"
+url: "https://www.youtube.com/watch?v=w5zz-nSHJWQ"
 ---
 
 # 4 Strategies for Beginners to Win More Points (Universal Rackets)

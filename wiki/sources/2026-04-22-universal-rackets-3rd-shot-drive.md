@@ -2,6 +2,10 @@
 aliases: ["Stop Missing Your 3rd Shot Drive (Universal Rackets)"]
 last_updated: 2026-05-01
 sources: 1
+type: source
+date: 2026-04-22
+duration: "20:23"
+url: "https://www.youtube.com/watch?v=YemPuRFAiYA"
 ---
 
 # Stop Missing Your 3rd Shot Drive (Universal Rackets)

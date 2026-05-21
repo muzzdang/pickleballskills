@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: SoJo86Eh5Ts
 channel: Universal Rackets
+type: source
+date: 2026-02-21
+duration: "25:05"
+url: "https://www.youtube.com/watch?v=SoJo86Eh5Ts"
 ---
 
 # Topspin Serve Masterclass (Universal Rackets)

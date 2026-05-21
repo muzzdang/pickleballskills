@@ -2,6 +2,7 @@
 aliases: ["Wrist Lag"]
 last_updated: 2026-05-01
 sources: 1
+type: concept
 ---
 
 # Wrist Lag

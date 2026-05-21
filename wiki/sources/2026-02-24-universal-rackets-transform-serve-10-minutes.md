@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: RUL2RebOYbY
 channel: Universal Rackets
+type: source
+date: 2026-02-24
+duration: "6:38"
+url: "https://www.youtube.com/watch?v=RUL2RebOYbY"
 ---
 
 # Transform Your Pickleball Serve in 10 Minutes (Universal Rackets)

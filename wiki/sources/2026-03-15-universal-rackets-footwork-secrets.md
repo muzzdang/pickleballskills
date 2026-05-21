@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: zx8feUG50J4
 channel: Universal Rackets
+type: source
+date: 2026-03-15
+duration: "35:22"
+url: "https://www.youtube.com/watch?v=zx8feUG50J4"
 ---
 
 # Pickleball Footwork Secrets (Universal Rackets)

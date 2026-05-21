@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: ZGv3BNrUCa0
 channel: Universal Rackets
+type: source
+date: 2026-03-25
+duration: "21:35"
+url: "https://www.youtube.com/watch?v=ZGv3BNrUCa0"
 ---
 
 # 3rd Shot Drive Complete Tutorial (Universal Rackets)

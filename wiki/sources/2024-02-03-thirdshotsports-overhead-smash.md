@@ -2,6 +2,10 @@
 aliases: ["Overhead Smash (Third Shot Sports)"]
 last_updated: 2026-05-01
 sources: 1
+type: source
+date: 2024-02-03
+duration: "1:06"
+url: "https://www.youtube.com/watch?v=hnyPDMXoQXA"
 ---
 
 # Overhead Smash (Third Shot Sports)

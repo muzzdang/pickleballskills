@@ -2,6 +2,10 @@
 aliases: ["Which Six Zero Paddle Is Best (The Kitchen)"]
 last_updated: 2026-05-01
 sources: 1
+type: source
+date: 2026-04-14
+duration: "8:29"
+url: "https://www.youtube.com/watch?v=3NKpu0J_3as"
 ---
 
 # Which Six Zero Paddle Is Best (The Kitchen)

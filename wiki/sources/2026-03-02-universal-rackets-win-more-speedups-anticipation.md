@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: vzU6-yChofo
 channel: Universal Rackets
+type: source
+date: 2026-03-02
+duration: "19:17"
+url: "https://www.youtube.com/watch?v=vzU6-yChofo"
 ---
 
 # Win More Points: Speedups, Anticipation & Strategy (Universal Rackets)

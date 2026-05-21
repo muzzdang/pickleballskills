@@ -2,6 +2,7 @@
 aliases: ["Hit Behind", "Hit Where They're Not"]
 last_updated: 2026-05-01
 sources: 1
+type: concept
 ---
 
 # Hit Behind

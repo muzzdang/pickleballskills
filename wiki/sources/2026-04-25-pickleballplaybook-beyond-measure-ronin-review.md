@@ -2,6 +2,10 @@
 aliases: ["Beyond Measure Ronin Review — PickleballPlaybook"]
 last_updated: 2026-05-09
 sources: 1
+type: source
+date: 2026-04-25
+duration: "10:21"
+url: "https://www.youtube.com/watch?v=i3w8qGG574o"
 ---
 
 # Control Players… You NEED to See This Paddle | Beyond Measure Ronin Review

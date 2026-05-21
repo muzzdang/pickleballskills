@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: qtDTz48ACYc
 channel: Universal Rackets
+type: source
+date: 2026-05-15
+duration: "18:54"
+url: "https://www.youtube.com/watch?v=qtDTz48ACYc"
 ---
 
 # How to Dominate the Kitchen in Pickleball (Universal Rackets)

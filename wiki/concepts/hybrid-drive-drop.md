@@ -2,6 +2,7 @@
 aliases: ["Hybrid Drive-Drop", "Topspin Drive-Drop", "Hybrid Third Shot"]
 last_updated: 2026-05-18
 sources: 1
+type: concept
 ---
 
 # Hybrid Drive-Drop

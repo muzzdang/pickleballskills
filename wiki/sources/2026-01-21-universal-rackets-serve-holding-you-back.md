@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: B9NJqawx-0Y
 channel: Universal Rackets
+type: source
+date: 2026-01-21
+duration: "15:47"
+url: "https://www.youtube.com/watch?v=B9NJqawx-0Y"
 ---
 
 # Is Your Pickleball Serve Holding You Back (Universal Rackets)

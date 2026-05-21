@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: CUpoTnXWSEQ
 channel: Universal Rackets
+type: source
+date: 2026-04-05
+duration: "18:42"
+url: "https://www.youtube.com/watch?v=CUpoTnXWSEQ"
 ---
 
 # The Pop Up Defense Strategy (Universal Rackets)

@@ -2,6 +2,7 @@
 aliases: ["Universal Rackets"]
 last_updated: 2026-05-18
 sources: 48
+type: entity
 ---
 
 # Universal Rackets

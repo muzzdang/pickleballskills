@@ -2,6 +2,7 @@
 aliases: ["Windy Conditions", "Playing in Wind", "Wind Strategy"]
 last_updated: 2026-05-18
 sources: 1
+type: concept
 ---
 
 # Windy Conditions

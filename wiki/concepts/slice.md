@@ -2,6 +2,7 @@
 aliases: ["Slice", "Backspin", "Slice Shot", "Underspin"]
 last_updated: 2026-05-18
 sources: 2
+type: concept
 ---
 
 # Slice

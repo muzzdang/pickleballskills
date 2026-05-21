@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: e2EftsV0CrE
 channel: Universal Rackets
+type: source
+date: 2026-03-18
+duration: "27:16"
+url: "https://www.youtube.com/watch?v=e2EftsV0CrE"
 ---
 
 # How to Hit Forehand and Backhand Volleys (Universal Rackets)

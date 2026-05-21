@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: 3vPYoF4efu8
 channel: Universal Rackets
+type: source
+date: 2026-02-18
+duration: "13:00"
+url: "https://www.youtube.com/watch?v=3vPYoF4efu8"
 ---
 
 # How to Make Fewer Errors, Miss Less & Win More (Universal Rackets)

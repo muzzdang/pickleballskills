@@ -2,6 +2,7 @@
 aliases: ["DUPR", "Dynamic Universal Pickleball Rating"]
 last_updated: 2026-05-01
 sources: 1
+type: concept
 ---
 
 # DUPR

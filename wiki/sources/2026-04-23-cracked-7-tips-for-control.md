@@ -2,6 +2,10 @@
 aliases: ["7 Tips for Control (Cracked Pickleball)"]
 last_updated: 2026-05-01
 sources: 1
+type: source
+date: 2026-04-23
+duration: "14:21"
+url: "https://www.youtube.com/watch?v=zqo16Pgd5SM"
 ---
 
 # 7 Tips for Control (Cracked Pickleball)

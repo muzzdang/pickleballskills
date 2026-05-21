@@ -2,6 +2,7 @@
 aliases: ["Third Shot Drive", "3rd Shot Drive"]
 last_updated: 2026-05-01
 sources: 2
+type: concept
 ---
 
 # Third Shot Drive

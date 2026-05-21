@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: KFLqgszrNP0
 channel: Universal Rackets
+type: source
+date: 2026-04-13
+duration: "25:08"
+url: "https://www.youtube.com/watch?v=KFLqgszrNP0"
 ---
 
 # How to Add Power to Your Pickleball Serve (Universal Rackets)

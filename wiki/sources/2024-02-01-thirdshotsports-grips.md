@@ -2,6 +2,10 @@
 aliases: ["Effective Grips for Pickleball (Third Shot Sports)"]
 last_updated: 2026-05-01
 sources: 1
+type: source
+date: 2024-02-01
+duration: "1:16"
+url: "https://www.youtube.com/watch?v=3pHRXYPKKek"
 ---
 
 # Effective Grips for Pickleball (Third Shot Sports)

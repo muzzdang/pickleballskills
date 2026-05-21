@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: RwvbjeUFqYk
 channel: Universal Rackets
+type: source
+date: 2026-03-08
+duration: "28:04"
+url: "https://www.youtube.com/watch?v=RwvbjeUFqYk"
 ---
 
 # Turn Your Forehand Into an Offensive Weapon (Universal Rackets)

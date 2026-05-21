@@ -2,6 +2,7 @@
 aliases: ["Paddle Weight Customization", "Adding Weight to Paddle", "Swing Weight", "Lead Tape"]
 last_updated: 2026-05-17
 sources: 3
+type: concept
 ---
 
 # Paddle Weight Customization

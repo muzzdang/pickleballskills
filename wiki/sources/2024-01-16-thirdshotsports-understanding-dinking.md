@@ -2,6 +2,10 @@
 aliases: ["Understanding Dinking (Third Shot Sports)"]
 last_updated: 2026-05-01
 sources: 1
+type: source
+date: 2024-01-16
+duration: "1:28"
+url: "https://www.youtube.com/watch?v=TUEp7IDU414"
 ---
 
 # Understanding Dinking (Third Shot Sports)

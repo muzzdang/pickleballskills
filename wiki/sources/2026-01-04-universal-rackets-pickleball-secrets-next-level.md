@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: bvCU39st_Bs
 channel: Universal Rackets
+type: source
+date: 2026-01-04
+duration: "43:00"
+url: "https://www.youtube.com/watch?v=bvCU39st_Bs"
 ---
 
 # Pickleball Secrets That Will Take Your Game to the Next Level (Universal Rackets)

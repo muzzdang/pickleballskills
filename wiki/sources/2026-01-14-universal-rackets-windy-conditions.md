@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: 3JukECvVhJk
 channel: Universal Rackets
+type: source
+date: 2026-01-14
+duration: "17:28"
+url: "https://www.youtube.com/watch?v=3JukECvVhJk"
 ---
 
 # How to Play Pickleball in Windy Conditions (Universal Rackets)

@@ -2,6 +2,10 @@
 aliases: ["Why You Can't Get to the Kitchen (Transition Zone Fix)"]
 last_updated: 2026-05-07
 sources: 1
+type: source
+date: 2026-04-24
+duration: "7:16"
+url: "https://www.youtube.com/watch?v=jNbNDRG38qw"
 ---
 
 # Why You Can't Get to the Kitchen (Transition Zone Fix)

@@ -2,6 +2,7 @@
 aliases: ["2026 Rules", "Pickleball Rules 2026", "Rule Changes 2026"]
 last_updated: 2026-05-01
 sources: 1
+type: concept
 ---
 
 # 2026 Rule Changes

@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: fPSnEeSxtfA
 channel: Universal Rackets
+type: source
+date: 2026-02-13
+duration: "35:06"
+url: "https://www.youtube.com/watch?v=fPSnEeSxtfA"
 ---
 
 # Stubborn Pickleball Habits Losing You Matches (Universal Rackets)

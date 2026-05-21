@@ -2,6 +2,7 @@
 aliases: ["CRBN TruFoam Barrage", "CRBN Barrage"]
 last_updated: 2026-05-18
 sources: 1
+type: entity
 ---
 
 # CRBN TruFoam Barrage

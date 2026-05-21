@@ -2,6 +2,7 @@
 aliases: ["Drive vs. Drop Decision", "3rd Shot Decision", "When to Drive vs Drop"]
 last_updated: 2026-05-09
 sources: 1
+type: concept
 ---
 
 # Drive vs. Drop Decision (3rd Shot)

@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: hwhulIeFdjw
 channel: Universal Rackets
+type: source
+date: 2026-02-26
+duration: "9:20"
+url: "https://www.youtube.com/watch?v=hwhulIeFdjw"
 ---
 
 # Double Your Hand Speed in Pickleball (Universal Rackets)

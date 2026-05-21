@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: WQE89DCtAO0
 channel: Universal Rackets
+type: source
+date: 2026-02-09
+duration: "27:41"
+url: "https://www.youtube.com/watch?v=WQE89DCtAO0"
 ---
 
 # How to Hit an Unreturnable and Unattackable Serve (Universal Rackets)

@@ -2,6 +2,7 @@
 aliases: ["Gen 3 vs Foam", "Polypropylene vs Foam Core", "Paddle Core Types"]
 last_updated: 2026-05-01
 sources: 3
+type: concept
 ---
 
 # Gen 3 vs Foam (Paddle Cores)

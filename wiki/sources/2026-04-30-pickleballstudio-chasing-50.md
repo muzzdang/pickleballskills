@@ -2,6 +2,10 @@
 aliases: ["What Happened to Chasing 5.0 (Pickleball Studio)"]
 last_updated: 2026-05-01
 sources: 1
+type: source
+date: 2026-04-30
+duration: "11:31"
+url: "https://www.youtube.com/watch?v=Y-TMfukSwrM"
 ---
 
 # What Happened to Chasing 5.0 (Pickleball Studio)

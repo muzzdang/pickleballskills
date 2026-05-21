@@ -2,6 +2,7 @@
 aliases: ["JOOLA Pro V", "Pro V", "JOOLA 5"]
 last_updated: 2026-05-01
 sources: 2
+type: entity
 ---
 
 # JOOLA Pro V

@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: I7HsOYsGD-c
 channel: Universal Rackets
+type: source
+date: 2026-04-10
+duration: "15:00"
+url: "https://www.youtube.com/watch?v=I7HsOYsGD-c"
 ---
 
 # How to Hit Topspin and Slice 3rd Shot Drops (Universal Rackets)

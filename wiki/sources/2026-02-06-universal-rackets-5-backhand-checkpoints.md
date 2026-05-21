@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: -eqBVbcEL0g
 channel: Universal Rackets
+type: source
+date: 2026-02-06
+duration: "21:01"
+url: "https://www.youtube.com/watch?v=-eqBVbcEL0g"
 ---
 
 # The 5 Backhand Checkpoints (Universal Rackets)

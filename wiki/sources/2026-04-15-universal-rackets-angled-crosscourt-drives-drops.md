@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: H-Md2sxFVsk
 channel: Universal Rackets
+type: source
+date: 2026-04-15
+duration: "15:19"
+url: "https://www.youtube.com/watch?v=H-Md2sxFVsk"
 ---
 
 # How to Hit Angled Crosscourt Drives and Drops (Universal Rackets)

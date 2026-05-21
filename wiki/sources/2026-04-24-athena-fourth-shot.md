@@ -2,6 +2,10 @@
 aliases: ["You're Choosing the Wrong 4th Shot"]
 last_updated: 2026-05-07
 sources: 1
+type: source
+date: 2026-04-24
+duration: "8:18"
+url: "https://www.youtube.com/watch?v=fD5LwJ8_SmU"
 ---
 
 # You're Choosing the Wrong 4th Shot (Here's what to do instead)

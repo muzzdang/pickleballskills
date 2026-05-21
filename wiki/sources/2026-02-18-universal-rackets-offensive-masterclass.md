@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: Ftwc7VVwp1o
 channel: Universal Rackets
+type: source
+date: 2026-02-18
+duration: "13:34"
+url: "https://www.youtube.com/watch?v=Ftwc7VVwp1o"
 ---
 
 # Offensive Pickleball Masterclass (Universal Rackets)

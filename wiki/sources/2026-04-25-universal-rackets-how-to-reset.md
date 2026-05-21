@@ -2,6 +2,10 @@
 aliases: ["How to Reset Any Hard Shot (Universal Rackets)"]
 last_updated: 2026-05-01
 sources: 1
+type: source
+date: 2026-04-25
+duration: "16:24"
+url: "https://www.youtube.com/watch?v=e6sSNUd2mRc"
 ---
 
 # How to Reset Any Hard Shot (Universal Rackets)

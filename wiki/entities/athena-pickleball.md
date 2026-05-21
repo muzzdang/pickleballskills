@@ -2,6 +2,7 @@
 aliases: ["Athena Pickleball", "Coach Jess"]
 last_updated: 2026-05-07
 sources: 1
+type: entity
 ---
 
 # Athena Pickleball

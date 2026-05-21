@@ -2,6 +2,10 @@
 aliases: ["Raise Your Floor FAST (Stop Playing Inconsistent Pickleball)"]
 last_updated: 2026-05-08
 sources: 1
+type: source
+date: 2026-04-24
+duration: "12:27"
+url: "https://www.youtube.com/watch?v=Mi7i1NS2vqQ"
 ---
 
 # Raise Your Floor FAST (Stop Playing Inconsistent Pickleball)

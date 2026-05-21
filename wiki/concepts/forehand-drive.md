@@ -2,6 +2,7 @@
 aliases: ["Forehand Drive", "Forehand", "Forehand Groundstroke"]
 last_updated: 2026-05-18
 sources: 4
+type: concept
 ---
 
 # Forehand Drive

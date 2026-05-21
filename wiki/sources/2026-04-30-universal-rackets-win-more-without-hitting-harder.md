@@ -2,6 +2,10 @@
 aliases: ["Win More Without Hitting Harder (Universal Rackets)"]
 last_updated: 2026-05-01
 sources: 1
+type: source
+date: 2026-04-30
+duration: "20:12"
+url: "https://www.youtube.com/watch?v=mDq8FkgLS04"
 ---
 
 # Win More Without Hitting Harder (Universal Rackets)

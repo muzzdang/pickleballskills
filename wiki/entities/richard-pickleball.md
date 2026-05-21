@@ -2,6 +2,7 @@
 aliases: ["Richard Pickleball", "Richie"]
 last_updated: 2026-05-08
 sources: 1
+type: entity
 ---
 
 # Richard Pickleball

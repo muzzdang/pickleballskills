@@ -2,6 +2,7 @@
 aliases: ["Luzz Cannon", "Luzz Cannon Elongated"]
 last_updated: 2026-05-09
 sources: 1
+type: entity
 ---
 
 # Luzz Cannon

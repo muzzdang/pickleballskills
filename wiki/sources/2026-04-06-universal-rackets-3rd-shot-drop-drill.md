@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: 1TX4G-BB0Rg
 channel: Universal Rackets
+type: source
+date: 2026-04-06
+duration: "29:48"
+url: "https://www.youtube.com/watch?v=1TX4G-BB0Rg"
 ---
 
 # The 3rd Shot Drop Drill That Gets Results Fast (Universal Rackets)

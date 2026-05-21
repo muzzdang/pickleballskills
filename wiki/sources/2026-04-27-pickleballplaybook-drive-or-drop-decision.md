@@ -2,6 +2,10 @@
 aliases: ["Drive or Drop? 3rd Shot Decision — PickleballPlaybook + Liam Duffin"]
 last_updated: 2026-05-09
 sources: 1
+type: source
+date: 2026-04-27
+duration: "20:08"
+url: "https://www.youtube.com/watch?v=PIrAY8ByL58"
 ---
 
 # Drive or Drop? Make the Right 3rd Shot Decision 100% of the Time

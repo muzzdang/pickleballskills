@@ -2,6 +2,7 @@
 aliases: ["Honolulu", "Honolulu J6CR", "Honolulu J2CR", "CR Series"]
 last_updated: 2026-05-01
 sources: 2
+type: entity
 ---
 
 # Honolulu — CR Series

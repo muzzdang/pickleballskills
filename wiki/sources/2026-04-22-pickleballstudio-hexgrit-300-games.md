@@ -2,6 +2,9 @@
 aliases: ["HexGrit 300 Games Later (Pickleball Studio)"]
 last_updated: 2026-05-17
 sources: 1
+type: source
+date: 2026-04-22
+url: "https://www.youtube.com/watch?v=6rMabmZ-12A"
 ---
 
 # HexGrit 300 Games Later (Pickleball Studio)

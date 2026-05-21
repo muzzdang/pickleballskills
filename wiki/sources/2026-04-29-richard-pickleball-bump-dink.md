@@ -2,6 +2,10 @@
 aliases: ["Stop Slicing Every Dink — Bump It Instead"]
 last_updated: 2026-05-10
 sources: 1
+type: source
+date: 2026-04-29
+duration: "8:44"
+url: "https://www.youtube.com/watch?v=Wd-VFvM4qAA"
 ---
 
 # Stop Slicing Every Dink… BUMP It Instead (More Pressure, More Wins)

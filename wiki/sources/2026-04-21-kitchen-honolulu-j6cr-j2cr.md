@@ -2,6 +2,10 @@
 aliases: ["Honolulu J6CR J2CR Review (The Kitchen)"]
 last_updated: 2026-05-01
 sources: 1
+type: source
+date: 2026-04-21
+duration: "10:40"
+url: "https://www.youtube.com/watch?v=k6i-Ba_UCHY"
 ---
 
 # Honolulu J6CR J2CR Review (The Kitchen)

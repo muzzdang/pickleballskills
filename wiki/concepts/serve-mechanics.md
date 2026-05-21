@@ -2,6 +2,7 @@
 aliases: ["Serve Mechanics", "Serve Technique", "Pickleball Serve"]
 last_updated: 2026-05-18
 sources: 14
+type: concept
 ---
 
 # Serve Mechanics

@@ -2,6 +2,7 @@
 aliases: ["Mari Humberg", "Mari Humber"]
 last_updated: 2026-05-10
 sources: 1
+type: entity
 ---
 
 # Mari Humberg

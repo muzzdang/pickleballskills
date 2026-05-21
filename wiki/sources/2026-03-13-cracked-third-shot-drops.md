@@ -2,6 +2,10 @@
 aliases: ["99% of Players Hit Third Shot Drops Wrong (Cracked Pickleball)"]
 last_updated: 2026-05-01
 sources: 1
+type: source
+date: 2026-03-13
+duration: "17:06"
+url: "https://www.youtube.com/watch?v=2joz3UhHI9I"
 ---
 
 # 99% of Players Hit Third Shot Drops Wrong (Cracked Pickleball)

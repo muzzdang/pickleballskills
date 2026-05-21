@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: 27b_eDeIjWk
 channel: Universal Rackets
+type: source
+date: 2026-01-17
+duration: "20:59"
+url: "https://www.youtube.com/watch?v=27b_eDeIjWk"
 ---
 
 # How to Hit a Reliable 3rd Shot Drive (Universal Rackets)

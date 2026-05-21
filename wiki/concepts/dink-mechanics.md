@@ -2,6 +2,7 @@
 aliases: ["Dink Mechanics", "How to Dink"]
 last_updated: 2026-05-01
 sources: 11
+type: concept
 ---
 
 # Dink Mechanics

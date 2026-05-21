@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: 8vPppejiUcw
 channel: Universal Rackets
+type: source
+date: 2026-03-22
+duration: "13:29"
+url: "https://www.youtube.com/watch?v=8vPppejiUcw"
 ---
 
 # Take Your Pickleball Serve to the Next Level (Universal Rackets)

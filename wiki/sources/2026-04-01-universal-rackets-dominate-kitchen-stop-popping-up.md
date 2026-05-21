@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: PStvCNTjFLQ
 channel: Universal Rackets
+type: source
+date: 2026-04-01
+duration: "29:31"
+url: "https://www.youtube.com/watch?v=PStvCNTjFLQ"
 ---
 
 # How to Dominate the Kitchen — Stop Popping Up (Universal Rackets)

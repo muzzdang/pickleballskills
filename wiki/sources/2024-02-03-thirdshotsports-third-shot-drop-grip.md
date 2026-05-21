@@ -2,6 +2,10 @@
 aliases: ["Third Shot Drop Grip (Third Shot Sports)"]
 last_updated: 2026-05-01
 sources: 1
+type: source
+date: 2024-02-03
+duration: "1:40"
+url: "https://www.youtube.com/watch?v=P5s4n_tzFk8"
 ---
 
 # Third Shot Drop Grip (Third Shot Sports)

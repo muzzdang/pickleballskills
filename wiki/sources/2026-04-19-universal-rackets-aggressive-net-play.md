@@ -2,6 +2,10 @@
 aliases: ["Play Aggressive Pickleball at the Net (Universal Rackets)"]
 last_updated: 2026-05-01
 sources: 1
+type: source
+date: 2026-04-19
+duration: "12:29"
+url: "https://www.youtube.com/watch?v=YZNcH61Xb1o"
 ---
 
 # Play Aggressive Pickleball at the Net (Universal Rackets)

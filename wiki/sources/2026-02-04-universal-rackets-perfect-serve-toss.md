@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: Jf6gAA4-T3g
 channel: Universal Rackets
+type: source
+date: 2026-02-04
+duration: "15:01"
+url: "https://www.youtube.com/watch?v=Jf6gAA4-T3g"
 ---
 
 # Perfect Your Serve Toss (Universal Rackets)

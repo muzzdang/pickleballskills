@@ -2,6 +2,7 @@
 aliases: ["Sweet Spot"]
 last_updated: 2026-05-01
 sources: 1
+type: concept
 ---
 
 # Sweet Spot

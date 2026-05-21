@@ -2,6 +2,10 @@
 aliases: ["PPA Sacramento Open 2026 Recap (The Kitchen)"]
 last_updated: 2026-05-01
 sources: 1
+type: source
+date: 2026-04-20
+duration: "52:53"
+url: "https://www.youtube.com/watch?v=QAHztlt-Z5s"
 ---
 
 # PPA Sacramento Open 2026 Recap (The Kitchen)

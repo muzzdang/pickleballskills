@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: VsOhdVkHGDk
 channel: Universal Rackets
+type: source
+date: 2026-03-11
+duration: "39:24"
+url: "https://www.youtube.com/watch?v=VsOhdVkHGDk"
 ---
 
 # How to Hit a Perfect Pickleball Backhand (Universal Rackets)

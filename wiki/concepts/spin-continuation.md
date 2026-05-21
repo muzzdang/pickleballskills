@@ -2,6 +2,7 @@
 aliases: ["Spin Continuation", "Reading Spin", "Using Opponent's Spin"]
 last_updated: 2026-05-01
 sources: 1
+type: concept
 ---
 
 # Spin Continuation

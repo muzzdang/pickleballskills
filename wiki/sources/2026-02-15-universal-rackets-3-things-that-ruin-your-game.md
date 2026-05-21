@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: PhxswX6HXY0
 channel: Universal Rackets
+type: source
+date: 2026-02-15
+duration: "20:18"
+url: "https://www.youtube.com/watch?v=PhxswX6HXY0"
 ---
 
 # 3 Things Pickleball Players Do That Ruin Their Game (Universal Rackets)

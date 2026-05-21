@@ -2,6 +2,7 @@
 aliases: ["Volley", "Volleys", "Forehand Volley", "Backhand Volley"]
 last_updated: 2026-05-18
 sources: 3
+type: concept
 ---
 
 # Volley

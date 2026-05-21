@@ -2,6 +2,7 @@
 aliases: ["Pickleball Studio", "Chris (Pickleball Studio)"]
 last_updated: 2026-05-01
 sources: 1
+type: entity
 ---
 
 # Pickleball Studio

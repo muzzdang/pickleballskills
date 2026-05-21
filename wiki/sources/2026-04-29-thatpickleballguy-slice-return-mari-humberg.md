@@ -2,6 +2,10 @@
 aliases: ["They Say Don't Slice Returns — Mari Humberg"]
 last_updated: 2026-05-10
 sources: 1
+type: source
+date: 2026-04-29
+duration: "7:53"
+url: "https://www.youtube.com/watch?v=V6fIzk2Sv1c"
 ---
 
 # They Say Don't Slice Returns. This Pro Does Anyway.

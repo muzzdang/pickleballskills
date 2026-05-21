@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: LfCLtZFe-lM
 channel: Universal Rackets
+type: source
+date: 2026-03-28
+duration: "20:04"
+url: "https://www.youtube.com/watch?v=LfCLtZFe-lM"
 ---
 
 # How to Hit the Down the Line Shot (Universal Rackets)

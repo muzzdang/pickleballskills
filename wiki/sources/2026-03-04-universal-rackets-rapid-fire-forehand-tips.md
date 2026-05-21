@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: xQFlO1dPGbY
 channel: Universal Rackets
+type: source
+date: 2026-03-04
+duration: "7:49"
+url: "https://www.youtube.com/watch?v=xQFlO1dPGbY"
 ---
 
 # Rapid Fire Forehand Tips (Universal Rackets)

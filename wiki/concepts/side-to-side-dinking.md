@@ -2,6 +2,7 @@
 aliases: ["Side-to-Side Dinking", "Left Foot Right Foot Drill"]
 last_updated: 2026-05-01
 sources: 1
+type: concept
 ---
 
 # Side-to-Side Dinking

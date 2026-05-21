@@ -2,6 +2,7 @@
 aliases: ["Briones Pickleball Academy", "Jordan Briones", "Coach Jordan Briones"]
 last_updated: 2026-05-10
 sources: 1
+type: entity
 ---
 
 # Briones Pickleball Academy

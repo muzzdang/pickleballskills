@@ -2,6 +2,7 @@
 aliases: ["Attack Trigger", "Only Attack High Balls"]
 last_updated: 2026-05-01
 sources: 1
+type: concept
 ---
 
 # Attack Trigger

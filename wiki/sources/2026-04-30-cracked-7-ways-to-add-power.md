@@ -2,6 +2,10 @@
 aliases: ["7 Ways to Add Power (Cracked Pickleball)"]
 last_updated: 2026-05-01
 sources: 1
+type: source
+date: 2026-04-30
+duration: "14:35"
+url: "https://www.youtube.com/watch?v=e6v3t9T5fsg"
 ---
 
 <!-- last updated: 2026-05-01, sources: 1 -->

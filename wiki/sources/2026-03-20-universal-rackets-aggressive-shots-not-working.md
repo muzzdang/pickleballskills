@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: SxNbH0ObZRI
 channel: Universal Rackets
+type: source
+date: 2026-03-20
+duration: "20:15"
+url: "https://www.youtube.com/watch?v=SxNbH0ObZRI"
 ---
 
 # Why Your Aggressive Shots Aren't Working (Universal Rackets)

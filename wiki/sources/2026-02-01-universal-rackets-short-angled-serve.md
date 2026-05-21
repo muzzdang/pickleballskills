@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: Fvy7ZdZuPqk
 channel: Universal Rackets
+type: source
+date: 2026-02-01
+duration: "14:13"
+url: "https://www.youtube.com/watch?v=Fvy7ZdZuPqk"
 ---
 
 # How to Hit a Short, Angled Pickleball Serve (Universal Rackets)

@@ -2,6 +2,7 @@
 aliases: ["Punch Volley", "Backhand Punch Volley", "BH Punch Volley"]
 last_updated: 2026-05-10
 sources: 1
+type: concept
 ---
 
 # Punch Volley

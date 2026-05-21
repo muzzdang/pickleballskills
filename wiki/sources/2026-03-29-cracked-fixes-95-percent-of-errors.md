@@ -2,6 +2,10 @@
 aliases: ["This Trick Fixes 95% of Errors (Cracked Pickleball)"]
 last_updated: 2026-05-01
 sources: 1
+type: source
+date: 2026-03-29
+duration: "17:20"
+url: "https://www.youtube.com/watch?v=VZW4jW3JZag"
 ---
 
 # This Trick Fixes 95% of Errors (Cracked Pickleball)

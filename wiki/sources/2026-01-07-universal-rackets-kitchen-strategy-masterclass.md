@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: Ymip_8rUqFQ
 channel: Universal Rackets
+type: source
+date: 2026-01-07
+duration: "34:39"
+url: "https://www.youtube.com/watch?v=Ymip_8rUqFQ"
 ---
 
 # Kitchen Strategy Masterclass (Universal Rackets)

@@ -2,6 +2,10 @@
 aliases: ["Pickleball Studio Podcast E165 — Aurelius, Thrive Ignite, Paddle DB"]
 last_updated: 2026-05-17
 sources: 1
+type: source
+date: 2026-04-08
+duration: "1:30:04"
+url: "https://www.youtube.com/watch?v=OY3FxlDN_E0"
 ---
 
 # Pickleball Studio Podcast E165 — Franklin Aurelius, Thrive Ignite & New Paddle Database

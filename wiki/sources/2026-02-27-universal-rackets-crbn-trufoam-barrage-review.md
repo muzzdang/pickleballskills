@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: _XK4-iiD2qY
 channel: Universal Rackets
+type: source
+date: 2026-02-27
+duration: "21:25"
+url: "https://www.youtube.com/watch?v=_XK4-iiD2qY"
 ---
 
 # CRBN TruFoam Barrage Review (Universal Rackets)

@@ -2,6 +2,7 @@
 aliases: ["Footwork", "Pickleball Footwork"]
 last_updated: 2026-05-18
 sources: 5
+type: concept
 ---
 
 # Footwork

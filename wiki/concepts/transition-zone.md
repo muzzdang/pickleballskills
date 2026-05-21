@@ -2,6 +2,7 @@
 aliases: ["Transition Zone", "No Man's Land"]
 last_updated: 2026-05-01
 sources: 1
+type: concept
 ---
 
 # Transition Zone

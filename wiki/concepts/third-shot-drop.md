@@ -2,6 +2,7 @@
 aliases: ["Third Shot Drop", "3rd Shot Drop"]
 last_updated: 2026-05-01
 sources: 2
+type: concept
 ---
 
 # Third Shot Drop

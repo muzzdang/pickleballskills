@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: 06gtE9AHVYw
 channel: Universal Rackets
+type: source
+date: 2026-05-03
+duration: "20:22"
+url: "https://www.youtube.com/watch?v=06gtE9AHVYw"
 ---
 
 # How to Return Every Serve: Topspin, Slice & Power (Universal Rackets)

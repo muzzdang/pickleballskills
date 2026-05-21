@@ -2,6 +2,7 @@
 aliases: ["Cori Elliott"]
 last_updated: 2026-05-07
 sources: 1
+type: entity
 ---
 
 # Cori Elliott

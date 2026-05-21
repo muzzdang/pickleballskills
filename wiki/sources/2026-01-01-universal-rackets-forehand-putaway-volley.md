@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: r-YsJUwYne0
 channel: Universal Rackets
+type: source
+date: 2026-01-01
+duration: "14:30"
+url: "https://www.youtube.com/watch?v=r-YsJUwYne0"
 ---
 
 # How to Hit a Forehand Putaway Volley (Universal Rackets)

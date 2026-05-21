@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: KGCqAou0_t0
 channel: Universal Rackets
+type: source
+date: 2026-01-29
+duration: "18:47"
+url: "https://www.youtube.com/watch?v=KGCqAou0_t0"
 ---
 
 # How to Hit a Low, Flat, Fast Serve (Universal Rackets)

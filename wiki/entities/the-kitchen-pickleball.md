@@ -2,6 +2,7 @@
 aliases: ["The Kitchen Pickleball", "Bobby (The Kitchen)"]
 last_updated: 2026-05-01
 sources: 5
+type: entity
 ---
 
 # The Kitchen Pickleball

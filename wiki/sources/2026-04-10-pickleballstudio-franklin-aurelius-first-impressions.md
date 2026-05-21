@@ -2,6 +2,10 @@
 aliases: ["Franklin Aurelius 12.7mm First Impressions (Pickleball Studio)"]
 last_updated: 2026-05-01
 sources: 1
+type: source
+date: 2026-04-10
+duration: "12:06"
+url: "https://www.youtube.com/watch?v=5ic19mvc3Ng"
 ---
 
 # Franklin Aurelius 12.7mm First Impressions (Pickleball Studio)

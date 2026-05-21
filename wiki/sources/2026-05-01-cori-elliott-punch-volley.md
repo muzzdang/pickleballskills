@@ -2,6 +2,10 @@
 aliases: ["The Punch Volley Every Player Needs — Cori Elliott"]
 last_updated: 2026-05-10
 sources: 1
+type: source
+date: 2026-05-01
+duration: "7:07"
+url: "https://www.youtube.com/watch?v=BiwdbOikhSo"
 ---
 
 # The Punch Volley Every Player Needs

@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: n1i9r64JjL0
 channel: Universal Rackets
+type: source
+date: 2026-01-10
+duration: "19:51"
+url: "https://www.youtube.com/watch?v=n1i9r64JjL0"
 ---
 
 # The Best Pickleball Serve Tutorial Ever (Universal Rackets)

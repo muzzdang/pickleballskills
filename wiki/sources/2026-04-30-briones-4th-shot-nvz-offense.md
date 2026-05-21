@@ -2,6 +2,10 @@
 aliases: ["Stop Losing Points on Your 4th Shot — Briones"]
 last_updated: 2026-05-10
 sources: 1
+type: source
+date: 2026-04-30
+duration: "9:33"
+url: "https://www.youtube.com/watch?v=PobNqHD1GX8"
 ---
 
 # Stop Losing Points on Your 4th Shot (Do This Instead)

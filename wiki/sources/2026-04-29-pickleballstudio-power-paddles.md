@@ -2,6 +2,9 @@
 aliases: ["Are Power Paddles Hurting You? (Pickleball Studio)"]
 last_updated: 2026-05-17
 sources: 1
+type: source
+date: 2026-04-29
+url: "https://www.youtube.com/watch?v=Odro_2MYsKY"
 ---
 
 # Are Power Paddles Hurting You? (Pickleball Studio)

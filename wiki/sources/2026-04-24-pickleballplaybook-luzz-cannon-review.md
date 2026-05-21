@@ -2,6 +2,10 @@
 aliases: ["Luzz Cannon Review — PickleballPlaybook"]
 last_updated: 2026-05-09
 sources: 1
+type: source
+date: 2026-04-24
+duration: "10:45"
+url: "https://www.youtube.com/watch?v=CyANMox81Is"
 ---
 
 # Great Power...Lowest Price? Luzz Cannon Review

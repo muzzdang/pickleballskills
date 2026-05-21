@@ -4,6 +4,10 @@ last_updated: 2026-05-18
 sources: 1
 video_id: 2YjOU9l-vEk
 channel: Universal Rackets
+type: source
+date: 2026-01-24
+duration: "35:14"
+url: "https://www.youtube.com/watch?v=2YjOU9l-vEk"
 ---
 
 # What's the Secret to Hitting a Hybrid Topspin Drive Drop (Universal Rackets)

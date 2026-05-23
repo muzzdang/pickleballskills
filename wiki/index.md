@@ -1,6 +1,6 @@
 ---
 aliases: ["Wiki Index"]
-last_updated: 2026-05-18
+last_updated: 2026-05-23
 ---
 
 # Pickleball Wiki Index
@@ -9,6 +9,23 @@ last_updated: 2026-05-18
 
 | Page | Summary |
 |------|---------|
+| [Master the Forehand Counter — Richard Pickleball](sources/2026-05-23-richard-pickleball-forehand-counter.md) | Ping-pong model for forehand counter in continental grip; preset wrist before swing; paddle-tip-drop for height variation |
+| [Drilling with Intention Part 1: DINKS — Mari Humberg](sources/2026-05-22-mari-humberg-drilling-dinks.md) | 100-dink sequence in all four directions; match-quality reps only; dink game (no attacks) for pressure work |
+| [Stop Using the Wrong Backhand — Cori Elliott](sources/2026-05-22-cori-elliott-backhand-flick-vs-roll.md) | Backhand flick vs roll distinction; correct mechanics for each; common hybrid error and how to fix it |
+| [My 9-Year-Old Plays at a 4.0 Level — Briones Pickleball](sources/2026-05-21-briones-9-year-old-4-0-level.md) | Three 4.0 keys: counter-attacks, consistent dinks (forehand/backhand), transition game (drive-drop + drops) |
+| [How to Beat Younger Players Without Hitting Harder — Athena Pickleball](sources/2026-05-21-athena-beat-younger-players.md) | Strategy over power: target feet, take time away with volley dinks, control the middle |
+| [Top Paddles of 2026 + J2CR LH + HoneyFoam — Pickleball Studio](sources/2026-05-20-pickleball-studio-podcast-top-paddles-2026.md) | Best paddles of 2026 per Chris + Isaac; Honeyfoam vs Aura head-to-head; J2CR LH early impressions |
+| [The Proton Peacock Just Got a SECOND LIFE — The Kitchen](sources/2026-05-19-kitchen-proton-peacock-review.md) | Proton Peacock repriced from $280 to $127; full foam Gen 4; lifetime warranty; consistent all-round feel |
+| [How the #1 Viet Pro Trains — Cori Elliott + Trang Quinn](sources/2026-05-19-cori-elliott-trang-quinn-drilling-routine.md) | Full 5.89 DUPR drilling session: dinking → resets → drops/drives → volleys → speed-ups → combos |
+| [How To Choose A Pickleball Paddle in 2026 — Pickleball Studio](sources/2026-05-18-pickleball-studio-paddle-buying-guide-2026.md) | 12-question framework; 5 primary (shape, swing weight, power, feel, gen) + 7 secondary categories |
+| [The #1 Difference: Pro vs Amateur — Cracked Pickleball](sources/2026-05-18-cracked-pro-vs-amateur-differences.md) | Paddle tracking; respond to position; one-two punch; third shot by height; serve variety; cross the midline |
+| [These Drills Fix 95% of Errors — PickleballPlaybook](sources/2026-05-18-pickleball-playbook-drills-fix-95-errors.md) | 4-drill consistency progression: drops, resets, volleys, dinks; learning order control→consistency→location→power |
+| [Topspin vs Flat vs Slice — Universal Rackets](sources/2026-05-18-universal-rackets-topspin-flat-slice.md) | Complete spin guide: topspin for drives/serves, flat for speed-ups/put-aways, slice for disruption/low balls |
+| [The Mari Humberg Backhand Flick Guide — Mari Humberg](sources/2026-05-15-mari-humberg-backhand-flick-guide.md) | Windshield-wiper wrist motion; continental grip; four target zones; knee-to-hip height window |
+| [The OFF BALL Secret to Winning Firefights — Richard Pickleball](sources/2026-05-15-richard-pickleball-off-ball-firefights.md) | Paddle tip at opponent; packing the middle on crosscourt firefights; off-ball is 50% of the game |
+| [PaddleTek Honeyfoam TKO-X First Impressions — Pickleball Studio](sources/2026-05-15-pickleball-studio-paddletek-honeyfoam.md) | Soft-dense paddle; low-tier power; discontinued fall 2026; vs Friday Aura (half price, similar feel) |
+| [Insane Pickleball Firefights — The Kitchen](sources/2026-05-15-kitchen-insane-pickleball-firefights.md) | Highlight reel of pro hands battles; Ben Johns, Annalie Waters, Hayden Patrick-Quinn and more |
+| [The Secret to Winning: Stop Trying to Hit Winners — Briones Pickleball](sources/2026-05-14-briones-stop-trying-to-hit-winners.md) | Short backswing for drives; sweeping volley at kitchen; paddle-drop for first speed-up; every ball is a setup |
 | [How to Dominate the Kitchen (Universal Rackets, May 2026)](sources/2026-05-15-universal-rackets-dominate-the-kitchen.md) | Kitchen domination strategy: patience + positioning + attack trigger; side-to-side dinking |
 | [The 3 Shots to Master to Move Up a Level (Universal Rackets)](sources/2026-05-11-universal-rackets-3-shots-to-master-to-move-up.md) | The 3 skill gates: third shot drop, reset dink, speed-up/counter-attack |
 | [Why Your Backhand Keeps Letting You Down (Universal Rackets)](sources/2026-05-07-universal-rackets-backhand-complete-fix.md) | Complete backhand fix: failure modes, checkpoint diagnosis, dink/drive/volley |
@@ -131,9 +148,15 @@ last_updated: 2026-05-18
 | [Sweet Spot](concepts/sweet-spot.md) | Center of paddle face; track ball with head movement to hit consistently |
 | [Third Shot Drop](concepts/third-shot-drop.md) | Drop when inside baseline; short swing; advance with splits not sprint |
 | [Third Shot Drive](concepts/third-shot-drive.md) | Drive when behind baseline; 60-70% power; drive→drop sequence; follow shot |
-| [Topspin](concepts/topspin.md) | Forward ball rotation via upward brush; safety net for aggressive shots |
+| [Topspin](concepts/topspin.md) | Forward ball rotation via upward brush; safety net for aggressive shots; swing twice as fast; vs flat vs slice |
 | [Transition Zone](concepts/transition-zone.md) | Most vulnerable position; target feet; aim center; hit to person furthest back |
 | [Wrist Lag](concepts/wrist-lag.md) | Wrist stays behind then snaps through contact; used in serves and roll shots |
+| [Backhand Flick](concepts/backhand-flick.md) | Wrist-driven windshield-wiper speed-up; continental/eastern grip; knee-to-hip height; four target zones |
+| [Forehand Counter](concepts/forehand-counter.md) | Ping-pong shoulder model for continental grip; preset wrist before swing; paddle-tip-drop for height variation |
+| [Firefight](concepts/firefight.md) | Fast hands battle at kitchen; paddle tracking; one-two punch; off-ball engagement essential |
+| [Paddle Tracking](concepts/paddle-tracking.md) | Watch opponent's paddle position, not ball; paddle raised/neutral/dropped signals attack type |
+| [Off-Ball Positioning](concepts/off-ball-positioning.md) | Non-involved partner in firefight; paddle tip at opponent; packing the middle on crosscourt exchanges |
+| [Drilling With Intention](concepts/drilling-with-intention.md) | Match-quality reps; structured sequences; timed vs. scored; Mari's 100-dink method; Trang Quinn's session order |
 
 ## Entities
 
@@ -155,7 +178,15 @@ last_updated: 2026-05-18
 | [JOOLA Pro V](entities/joola-pro-v.md) | 5 shapes; softer than Pro IV; Gen 3; kinetic frame; $300; 8.86/10 scorecard |
 | [Pickleball Studio](entities/pickleball-studio.md) | Chris's paddle review channel; commission-capped, ethics-first; DUPR ~4.71 |
 | [Six Zero Next Gem](entities/six-zero-next-gem.md) | Coral (all-court), Black Opal (power), Ruby Pro (control/Gen3); Diamond Tough Grit |
-| [The Kitchen Pickleball](entities/the-kitchen-pickleball.md) | Bobby's paddle reviews + Kitchen Scorecard; Chris Cali's PPA recaps |
+| [The Kitchen Pickleball](entities/the-kitchen-pickleball.md) | Bobby's paddle reviews + Kitchen Scorecard; Chris Cali's PPA recaps; firefight highlights |
+| [Cracked Pickleball](entities/cracked-pickleball.md) | Pro vs. amateur listicle format; paddle tracking; one-two punch; filmed in Honolulu |
+| [Ben Johns](entities/ben-johns.md) | Pro player; dominant hands battles; cited model for forehand counter mechanics in continental grip |
+| [Annalie Waters](entities/annalie-waters.md) | Pro player; two-handed backhand wall; firefight endurance; elite kitchen control |
+| [Trang Quinn](entities/trang-quinn.md) | #1 Vietnamese pro; 5.89 DUPR; timed drilling philosophy; reset bounce game |
+| [PaddleTek Honeyfoam](entities/paddletek-honeyfoam.md) | Soft-dense Gen 4; ~$250; discontinued fall 2026; 5.75 in handle; dual USAPA+UPAA (16mm) |
+| [Proton Peacock](entities/proton-peacock.md) | Full foam Gen 4; repriced to $127; lifetime warranty; 13mm and 15mm; elongated + widebody |
+| [Friday Aura](entities/friday-aura.md) | Soft-dense all-court (Aura) and low-power (Aura Pro); ~$129; Chris's #1 paddle of 2026 |
+| [Spartis P1](entities/spartis-p1.md) | Durable grit standout; UPAA only; named top paddle of 2026 by Pickleball Studio; perpetual backorder |
 
 ## Synthesis
 

@@ -1,7 +1,7 @@
 ---
 aliases: ["Athena Pickleball", "Coach Jess"]
-last_updated: 2026-05-07
-sources: 1
+last_updated: 2026-05-23
+sources: 2
 type: entity
 ---
 
@@ -22,7 +22,9 @@ On-screen graphics are used well: text overlays highlight key cues ("TURN YOUR B
 ## Notable Content
 
 - **4th shot decision framework** — four options keyed to what the 3rd shot gives you; strong block, roll volley, step-back drive, dink/neutralize
+- **Beat younger players without hitting harder** — Coach Jess (48, competing at open level) teaches three strategy-based advantages: target the feet to force pop-ups; take time away with volley dinks and create space; control the middle to remove opponent angles and create confusion; none of these require extra speed or power
 
 ## Sources
 
 - [You're Choosing the Wrong 4th Shot (2026-04-24)](../sources/2026-04-24-athena-fourth-shot.md)
+- [How to Beat Younger Players Without Hitting Harder (2026-05-21)](../sources/2026-05-21-athena-beat-younger-players.md)

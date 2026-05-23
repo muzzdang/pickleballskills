@@ -1,7 +1,7 @@
 ---
-aliases: ["Honolulu", "Honolulu J6CR", "Honolulu J2CR", "CR Series"]
-last_updated: 2026-05-01
-sources: 2
+aliases: ["Honolulu", "Honolulu J6CR", "Honolulu J2CR", "Honolulu J2CR LH", "CR Series"]
+last_updated: 2026-05-23
+sources: 3
 type: entity
 ---
 
@@ -36,7 +36,19 @@ Drives/serves: 9 | Dinks/drops: 9.5 | Resets: 8 | Flicks/speedups: 9.5 | Putaway
 
 Power tier: ~Bread & Butter Loco level (upper-mid). 
 
+## J2CR Long Handle (2026 Update)
+
+Pickleball Studio's Isaac got early hands-on time with the J2CR LH (long handle variant):
+- Swing weight: **108** (lower than the short-handle J2CR — surprisingly low for an elongated)
+- Twist weight: 6.1 (low; balance point very handle-heavy at 231)
+- Crystal Blue Endurance Grit — **UPAA only, not USAPA** — critical if you play USAPA-only tournaments
+- Play quality: excellent spin, great shot shaping, everything felt solid; only complaint was low plow-through (needs 3g+ at corners to add energy return)
+- Grit durability: early signs very positive based on J6CR experience; expected to be a top-recommended paddle of 2026
+
+Perpetual backorder remains a brand challenge — Honolulu effectively operates on a pre-order model for new grit versions.
+
 ## Sources
 
 - [Honolulu J6CR J2CR Review — The Kitchen Pickleball](../sources/2026-04-21-kitchen-honolulu-j6cr-j2cr.md)
 - [I Tested 15 Power Paddles — The Kitchen Pickleball](../sources/2026-04-17-kitchen-15-power-paddles.md)
+- [Top Paddles of 2026 Podcast — Pickleball Studio (2026-05-20)](../sources/2026-05-20-pickleball-studio-podcast-top-paddles-2026.md)

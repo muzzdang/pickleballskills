@@ -1,7 +1,7 @@
 ---
 aliases: ["Universal Rackets"]
-last_updated: 2026-05-18
-sources: 48
+last_updated: 2026-05-23
+sources: 49
 type: entity
 ---
 
@@ -51,6 +51,9 @@ A pickleball instruction YouTube channel hosted by **Tyler** and **Michele**. On
 
 ### Gear Reviews
 - CRBN TruFoam Barrage review
+
+### Spin Types
+- Topspin vs Flat vs Slice — complete guide to when and how to use each; golf club analogy; topspin insurance policy; flat only for speed-ups and put-aways; slice for rhythm disruption and low balls
 
 ## Related Concepts
 

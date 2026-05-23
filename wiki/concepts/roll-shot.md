@@ -1,7 +1,7 @@
 ---
 aliases: ["Roll Shot"]
-last_updated: 2026-05-01
-sources: 1
+last_updated: 2026-05-23
+sources: 3
 type: concept
 ---
 
@@ -35,7 +35,20 @@ The roll shot also appears as a **4th shot option** when the serving team's 3rd 
 
 See: [Fourth Shot](fourth-shot.md)
 
+## Roll vs. Backhand Flick
+
+The roll and the [backhand flick](backhand-flick.md) are distinct shots often confused:
+
+| | Roll | Backhand Flick |
+|---|---|---|
+| Power source | Shoulder-driven | Wrist-driven |
+| Paddle motion | Smooth follow-through | Windshield wiper, stop with velocity |
+| Feel | Continuous, rhythmic | Snappy, compact |
+
+[Cori Elliott](../entities/cori-elliott.md) corrects students who blend both: the roll paddle face stays relatively flat through contact; the flick paddle face closes over the ball. Mixing the two creates unpredictable direction.
+
 ## Sources
 
 - [7 Ways to Add Power — Cracked Pickleball](../sources/2026-04-30-cracked-7-ways-to-add-power.md)
 - [You're Choosing the Wrong 4th Shot — Athena Pickleball](../sources/2026-04-24-athena-fourth-shot.md)
+- [Stop Using the Wrong Backhand — Cori Elliott (2026-05-22)](../sources/2026-05-22-cori-elliott-backhand-flick-vs-roll.md)

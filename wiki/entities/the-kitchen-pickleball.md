@@ -1,7 +1,7 @@
 ---
 aliases: ["The Kitchen Pickleball", "Bobby (The Kitchen)"]
-last_updated: 2026-05-01
-sources: 5
+last_updated: 2026-05-23
+sources: 7
 type: entity
 ---
 
@@ -29,3 +29,5 @@ YouTube channel run by Bobby, focused on paddle reviews, serve speed tests, and 
 - [Which Six Zero Paddle Is Best](../sources/2026-04-14-kitchen-six-zero-lineup.md)
 - [I Tested 15 Power Paddles](../sources/2026-04-17-kitchen-15-power-paddles.md)
 - [PPA Sacramento Recap](../sources/2026-04-20-kitchen-ppa-sacramento.md)
+- [Insane Pickleball Firefights (2026-05-15)](../sources/2026-05-15-kitchen-insane-pickleball-firefights.md)
+- [The Proton Peacock Just Got a SECOND LIFE (2026-05-19)](../sources/2026-05-19-kitchen-proton-peacock-review.md)

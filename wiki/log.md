@@ -4,6 +4,24 @@ aliases: ["Wiki Log"]
 
 # Wiki Log
 
+## [2026-05-23] ingest | Batch ingest 17 sources (May 2026 new channels + Universal Rackets spin guide)
+
+Sources processed: 17 raw files from 9 channels — Cracked Pickleball, The Kitchen Pickleball (x2), Universal Rackets (topspin/flat/slice), Pickleball Studio (x3), Briones Pickleball (x2), Mari Humberg (x2), Pickleball Playbook, Cori Elliott (x2), Richard Pickleball (x2), Athena Pickleball
+
+Created: 17 source summaries, 9 new entity pages, 7 new concept pages
+
+New entities:
+- cracked-pickleball, ben-johns, annalie-waters, trang-quinn, paddletek-honeyfoam, proton-peacock, friday-aura, spartis-p1 (+ existing entity stubs updated for Cracked Pickleball noted above)
+
+New concepts:
+- backhand-flick, forehand-counter, firefight, paddle-tracking, off-ball-positioning, drilling-with-intention, (+ sources files note paddle-buying-guide concepts folded into existing pages)
+
+Updated entities (sources count + new content):
+- mari-humberg (1→3), briones-pickleball-academy (1→3), cori-elliott (1→4), richard-pickleball (1→4), athena-pickleball (1→2), the-kitchen-pickleball (5→7), pickleball-studio (1→4), pickleballplaybook (1→4), honolulu-cr-series (2→3), universal-rackets (48→49)
+
+Updated concepts:
+- roll-shot (added flick vs roll table + new source), topspin (added swing-speed rule + spin type comparison), gen-3-vs-foam, paddle-weight-customization, sweet-spot
+
 ## [2026-05-17] ingest | Universal Rackets batch — transcript enrichment
 
 Sources re-processed: All 48 Universal Rackets raw files from 2026-01-01 through 2026-05-15. Full transcripts fetched and used to replace inference-based source summaries with specific technique details, drills, cues, and quotes.

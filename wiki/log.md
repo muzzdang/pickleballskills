@@ -4,6 +4,15 @@ aliases: ["Wiki Log"]
 
 # Wiki Log
 
+## [2026-05-24] sync | Auto-ingest check + Obsidian sync
+
+Auto-ingest scan: 0 unprocessed raw files found. All 49 Universal Rackets sources, 2 Richard Pickleball sources, and all other raw files already ingested and summarized.
+
+Obsidian sync actions:
+- Verified frontmatter completeness across all 25 entity pages, 49 concept pages, and 95+ source summaries — all compliant
+- Verified index.md covers all files in entities/, concepts/, sources/ — no orphan pages found
+- Updated `projects/pickleball-wiki/wiki/entities/universal-rackets.md` from sources:48/partial-catalog to sources:49/full-catalog with links to all 49 source summaries
+
 ## [2026-05-23] ingest | Batch ingest 17 sources (May 2026 new channels + Universal Rackets spin guide)
 
 Sources processed: 17 raw files from 9 channels — Cracked Pickleball, The Kitchen Pickleball (x2), Universal Rackets (topspin/flat/slice), Pickleball Studio (x3), Briones Pickleball (x2), Mari Humberg (x2), Pickleball Playbook, Cori Elliott (x2), Richard Pickleball (x2), Athena Pickleball

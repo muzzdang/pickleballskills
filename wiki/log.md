@@ -185,3 +185,6 @@ Created: 1 source summary, 6 concept pages; updated topspin, contact-point
 
 Source: `raw/2026-04-30-e6v3t9T5fsg-this-hack-adds-100-more-power-to-your-ga.md`
 Created: 1 source summary, 8 concept pages
+
+## [2026-05-26] entity | PickleballPlaybook
+Updated: comprehensive entity page for Austin Hardy / PickleballPlaybook — teaching philosophy, 6 core frameworks (MFWC, FAST, shin drop, drive reframe, zone grip, ready position benchmarks), guest coaches table, 23-video catalog table, 15 related concepts.

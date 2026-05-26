@@ -4,6 +4,14 @@ last_updated: 2026-05-23
 sources: 1
 video_id: DJkdVjqn-NM
 channel: The Kitchen Pickleball
+tags:
+  - source
+  - the-kitchen
+  - drop
+  - kitchen
+  - review
+  - paddle
+  - gear
 ---
 
 # The Proton Peacock Just Got a SECOND LIFE | Full Review

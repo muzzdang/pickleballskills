@@ -6,6 +6,16 @@ type: source
 date: 2026-04-24
 duration: "8:18"
 url: "https://www.youtube.com/watch?v=fD5LwJ8_SmU"
+tags:
+  - source
+  - serve
+  - third-shot
+  - fourth-shot
+  - kitchen
+  - offense
+  - return
+
+youtube_tags: []
 ---
 
 # You're Choosing the Wrong 4th Shot (Here's what to do instead)

@@ -6,6 +6,17 @@ type: source
 date: 2026-03-29
 duration: "17:20"
 url: "https://www.youtube.com/watch?v=VZW4jW3JZag"
+tags:
+  - source
+  - kitchen
+  - baseline
+  - backhand
+  - split-step
+  - error-reduction
+  - paddle
+
+youtube_tags:
+  - "pickleball"
 ---
 
 # This Trick Fixes 95% of Errors (Cracked Pickleball)

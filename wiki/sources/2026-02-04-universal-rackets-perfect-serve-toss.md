@@ -8,6 +8,33 @@ type: source
 date: 2026-02-04
 duration: "15:01"
 url: "https://www.youtube.com/watch?v=Jf6gAA4-T3g"
+tags:
+  - source
+  - universal-rackets
+  - serve
+  - drop
+
+youtube_tags:
+  - "Perfect Your Serve Toss | Hit Better Serves & Stop Missing"
+  - "Hit Better Serves & Stop Missing"
+  - "how to serve in pickleball"
+  - "pickleball serves"
+  - "pickleball serve technique"
+  - "pickleball serve rules"
+  - "pickleball serve tutorial"
+  - "pickleball serve tips"
+  - "pickleball spin serve"
+  - "pickleball fast serve"
+  - "pickleball tips"
+  - "pickleball strategy"
+  - "pickleball"
+  - "pickleball drive"
+  - "pickleball 5.0"
+  - "pickleball gameplay"
+  - "pickleball coaching"
+  - "pickleball lesson"
+  - "pickleball instruction"
+  - "pickleball tutorial"
 ---
 
 # Perfect Your Serve Toss (Universal Rackets)

@@ -8,6 +8,31 @@ type: source
 date: 2026-02-18
 duration: "13:34"
 url: "https://www.youtube.com/watch?v=Ftwc7VVwp1o"
+tags:
+  - source
+  - universal-rackets
+  - offense
+
+youtube_tags:
+  - "Offensive Pickleball Masterclass How to Be Aggressive & Put Away More Balls"
+  - "Offensive Pickleball Masterclass"
+  - "offensive pickleball masterclass"
+  - "how to play pickleball"
+  - "pickleball"
+  - "universal rackets"
+  - "professional pickleball"
+  - "pickleball strategy"
+  - "pickleball tips"
+  - "pickleball for beginners"
+  - "pickleball rules"
+  - "pickleball coaching"
+  - "pickleball highlights"
+  - "pickleball drills"
+  - "pickleball instruction"
+  - "pickleball game"
+  - "pickleball basics"
+  - "pickleball matches"
+  - "pickleball training"
 ---
 
 # Offensive Pickleball Masterclass (Universal Rackets)

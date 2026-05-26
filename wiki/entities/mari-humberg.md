@@ -3,6 +3,12 @@ aliases: ["Mari Humberg", "Mari Humber"]
 last_updated: 2026-05-23
 sources: 3
 type: entity
+tags:
+  - entity
+  - serve
+  - topspin
+  - slice
+  - decision-making
 ---
 
 # Mari Humberg

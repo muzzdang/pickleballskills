@@ -3,6 +3,15 @@ aliases: ["Forehand Counter", "Forehand Counter Attack"]
 last_updated: 2026-05-23
 sources: 1
 type: concept
+tags:
+  - concept
+  - drive
+  - speedup
+  - forehand
+  - grip
+  - paddle-face
+  - wrist
+  - offense
 ---
 
 # Forehand Counter

@@ -3,6 +3,13 @@ aliases: ["Flat Serve", "Fast Serve", "Power Serve"]
 last_updated: 2026-05-18
 sources: 1
 type: concept
+tags:
+  - concept
+  - serve
+  - topspin
+  - offense
+  - decision-making
+  - error-reduction
 ---
 
 # Flat Serve

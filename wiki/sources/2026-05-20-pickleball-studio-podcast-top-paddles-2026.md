@@ -4,6 +4,10 @@ last_updated: 2026-05-23
 sources: 1
 video_id: 6AxdNnEArxs
 channel: Pickleball Studio
+tags:
+  - source
+  - pickleball-studio
+  - paddle
 ---
 
 # Honolulu J2CR LH, PaddleTek HoneyFoam, and Our Top Paddles of 2026

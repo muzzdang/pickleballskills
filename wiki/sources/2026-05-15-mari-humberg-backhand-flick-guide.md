@@ -4,6 +4,13 @@ last_updated: 2026-05-23
 sources: 1
 video_id: xTgBWGCTa0k
 channel: Mari Humberg
+tags:
+  - source
+  - mari-humberg
+  - drive
+  - backhand
+  - grip
+  - wrist
 ---
 
 # The Mari Humberg Backhand Flick Guide (FINALLY)

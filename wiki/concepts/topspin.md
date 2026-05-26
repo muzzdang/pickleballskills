@@ -3,6 +3,11 @@ aliases: ["Topspin"]
 last_updated: 2026-05-23
 sources: 3
 type: concept
+tags:
+  - concept
+  - kitchen
+  - topspin
+  - offense
 ---
 
 # Topspin

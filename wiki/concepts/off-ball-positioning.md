@@ -3,6 +3,9 @@ aliases: ["Off-Ball Positioning", "Off-Ball Player", "Packing the Middle"]
 last_updated: 2026-05-23
 sources: 2
 type: concept
+tags:
+  - concept
+  - putaway
 ---
 
 # Off-Ball Positioning

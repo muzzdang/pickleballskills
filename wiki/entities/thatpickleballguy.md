@@ -3,6 +3,11 @@ aliases: ["ThatPickleballGuy", "Kyle Koszuta"]
 last_updated: 2026-05-10
 sources: 1
 type: entity
+tags:
+  - entity
+  - split-step
+  - slice
+  - paddle
 ---
 
 # ThatPickleballGuy (Kyle Koszuta)

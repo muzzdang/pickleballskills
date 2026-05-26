@@ -6,6 +6,30 @@ type: source
 date: 2026-04-27
 duration: "20:08"
 url: "https://www.youtube.com/watch?v=PIrAY8ByL58"
+tags:
+  - source
+  - third-shot
+  - drive
+  - drop
+  - topspin
+  - slice
+  - decision-making
+
+youtube_tags:
+  - "Pickleball"
+  - "Paddle"
+  - "pickleball tournament"
+  - "pickleball instruction"
+  - "pickleball serve"
+  - "dinks"
+  - "drops"
+  - "drives"
+  - "fast hands"
+  - "pickleball drills"
+  - "3rd shot drop"
+  - "drive or drop"
+  - "drive"
+  - "drop"
 ---
 
 # Drive or Drop? Make the Right 3rd Shot Decision 100% of the Time

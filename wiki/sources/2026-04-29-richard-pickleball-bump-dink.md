@@ -6,6 +6,16 @@ type: source
 date: 2026-04-29
 duration: "8:44"
 url: "https://www.youtube.com/watch?v=Wd-VFvM4qAA"
+tags:
+  - source
+  - drive
+  - dink
+  - kitchen
+  - slice
+  - wrist
+  - paddle
+
+youtube_tags: []
 ---
 
 # Stop Slicing Every Dink… BUMP It Instead (More Pressure, More Wins)

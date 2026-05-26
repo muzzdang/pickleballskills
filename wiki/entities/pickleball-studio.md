@@ -3,6 +3,11 @@ aliases: ["Pickleball Studio", "Chris (Pickleball Studio)", "Isaac (Pickleball S
 last_updated: 2026-05-23
 sources: 4
 type: entity
+tags:
+  - entity
+  - review
+  - paddle
+  - gear
 ---
 
 # Pickleball Studio

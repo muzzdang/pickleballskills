@@ -4,6 +4,12 @@ last_updated: 2026-05-23
 sources: 1
 video_id: aR_EMjjSo4E
 channel: Richard Pickleball
+tags:
+  - source
+  - richard-pickleball
+  - forehand
+  - backhand
+  - paddle
 ---
 
 # The OFF BALL Secret to Winning Firefights in Pickleball

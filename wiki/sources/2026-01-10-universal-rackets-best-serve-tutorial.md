@@ -8,6 +8,35 @@ type: source
 date: 2026-01-10
 duration: "19:51"
 url: "https://www.youtube.com/watch?v=n1i9r64JjL0"
+tags:
+  - source
+  - universal-rackets
+  - serve
+  - drop
+  - decision-making
+  - paddle
+
+youtube_tags:
+  - "The Best Pickleball Serve Tutorial Ever"
+  - "3-Step Progression That Works for Any Level"
+  - "pickleball tips"
+  - "how to play pickleball"
+  - "pickleball serve tutorial"
+  - "best pickleball serves"
+  - "pickleball serve rules"
+  - "best pickleball serving"
+  - "pickleball tutorial"
+  - "pickleball serve"
+  - "pickleball serve tips"
+  - "pickleball serve strategy"
+  - "pickleball"
+  - "how to serve in pickleball"
+  - "pickleball serve technique"
+  - "the best pickleball serve tutorial"
+  - "pickleball serve for beginners"
+  - "universal rackets"
+  - "tips"
+  - "pb"
 ---
 
 # The Best Pickleball Serve Tutorial Ever (Universal Rackets)

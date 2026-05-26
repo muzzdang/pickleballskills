@@ -8,6 +8,37 @@ type: source
 date: 2026-03-25
 duration: "21:35"
 url: "https://www.youtube.com/watch?v=ZGv3BNrUCa0"
+tags:
+  - source
+  - universal-rackets
+  - third-shot
+  - drive
+  - drop
+  - kitchen
+  - beginner
+  - paddle
+
+youtube_tags:
+  - "3rd Shot Drive in Pickleball: Complete Tutorial with Drills & Progressions"
+  - "pickleball coaching"
+  - "pickleball for beginners"
+  - "pickleball rules"
+  - "pickleball basics"
+  - "pickleball training"
+  - "pickleball instruction"
+  - "pickleball"
+  - "how to play pickleball"
+  - "pickleball tips"
+  - "pickleball drills"
+  - "universal rackets"
+  - "pickleball drive"
+  - "drive in pickleball"
+  - "pickleball 4.0"
+  - "learn pickleball"
+  - "pickleball drill"
+  - "pickleball technique"
+  - "Drive in Pickleball"
+  - "pickleball game"
 ---
 
 # 3rd Shot Drive Complete Tutorial (Universal Rackets)

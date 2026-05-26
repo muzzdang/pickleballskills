@@ -4,6 +4,18 @@ last_updated: 2026-05-23
 sources: 1
 video_id: EWe4Df5dxwQ
 channel: Universal Rackets
+tags:
+  - source
+  - universal-rackets
+  - serve
+  - drive
+  - drop
+  - volley
+  - contact-point
+  - paddle-face
+  - topspin
+  - slice
+  - paddle
 ---
 
 # Topspin vs Flat vs Slice — When and How to Use Each Spin in Pickleball

@@ -6,6 +6,34 @@ type: source
 date: 2026-04-28
 duration: "13:09"
 url: "https://www.youtube.com/watch?v=xvOpeDGYUzo"
+tags:
+  - source
+  - drive
+  - dink
+  - paddle-face
+  - wrist
+  - paddle
+
+youtube_tags:
+  - "The 1 Reason You Keep Missing Your Dink (And How to Fix It)"
+  - "how to serve in pickleball"
+  - "pickleball tips"
+  - "pickleball dink"
+  - "pickleball dinking"
+  - "pickleball basics"
+  - "how to dink in pickleball"
+  - "pickleball tips 4.0"
+  - "pickleball serve"
+  - "learn pickleball"
+  - "pickleball tips to improve your game"
+  - "how to play pickleball for beginners"
+  - "pickleball tournament"
+  - "rules of pickleball"
+  - "pickleballers"
+  - "pickleball training"
+  - "pickleball highlights"
+  - "pickleball with tyler"
+  - "universal rackets"
 ---
 
 # Why You Keep Missing Your Dink (Universal Rackets)

@@ -8,6 +8,35 @@ type: source
 date: 2026-01-24
 duration: "35:14"
 url: "https://www.youtube.com/watch?v=2YjOU9l-vEk"
+tags:
+  - source
+  - universal-rackets
+  - drive
+  - drop
+  - topspin
+  - paddle
+
+youtube_tags:
+  - "What's the Secret to Hitting a Perfect Hybrid Topspin Drive Drop?"
+  - "pickleball strategy"
+  - "pickleball topspin drive"
+  - "pickleball topspin drives"
+  - "pickleball hybrid drop"
+  - "how to hit a forehand in pickleball"
+  - "topspin in pickleball"
+  - "drives in pickleball"
+  - "pickleball topspin"
+  - "pickleball forehand drive"
+  - "pickleball drive"
+  - "pickleball third shot drop"
+  - "pickleball drives"
+  - "pickleball drop"
+  - "topspin drive"
+  - "pickleball"
+  - "pickleball drills"
+  - "pickleball drop shot"
+  - "pickleball tips"
+  - "universal rackets"
 ---
 
 # What's the Secret to Hitting a Hybrid Topspin Drive Drop (Universal Rackets)

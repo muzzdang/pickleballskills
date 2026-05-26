@@ -4,6 +4,12 @@ last_updated: 2026-05-23
 sources: 1
 video_id: lnAzc-bKMlc
 channel: Cracked Pickleball
+tags:
+  - source
+  - cracked-pickleball
+  - kitchen
+  - transition-zone
+  - paddle
 ---
 
 # The #1 Difference Between Pro and Amateur Pickleball Players (and how to fix it)

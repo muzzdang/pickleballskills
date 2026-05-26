@@ -3,6 +3,10 @@ aliases: ["Drilling With Intention", "Intentional Drilling"]
 last_updated: 2026-05-23
 sources: 3
 type: concept
+tags:
+  - concept
+  - dink
+  - error-reduction
 ---
 
 # Drilling With Intention

@@ -3,6 +3,10 @@ aliases: ["Honolulu", "Honolulu J6CR", "Honolulu J2CR", "Honolulu J2CR LH", "CR 
 last_updated: 2026-05-23
 sources: 3
 type: entity
+tags:
+  - entity
+  - kitchen
+  - paddle
 ---
 
 # Honolulu — CR Series

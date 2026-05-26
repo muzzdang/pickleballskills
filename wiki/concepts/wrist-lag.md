@@ -3,6 +3,11 @@ aliases: ["Wrist Lag"]
 last_updated: 2026-05-01
 sources: 1
 type: concept
+tags:
+  - concept
+  - serve
+  - kitchen
+  - wrist
 ---
 
 # Wrist Lag

@@ -4,6 +4,10 @@ last_updated: 2026-05-23
 sources: 1
 video_id: TNwyU5qGbgY
 channel: Mari Humberg
+tags:
+  - source
+  - mari-humberg
+  - dink
 ---
 
 # Drilling with Intention Part 1: DINKS

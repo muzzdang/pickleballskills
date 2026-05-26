@@ -8,6 +8,36 @@ type: source
 date: 2026-01-07
 duration: "34:39"
 url: "https://www.youtube.com/watch?v=Ymip_8rUqFQ"
+tags:
+  - source
+  - universal-rackets
+  - dink
+  - volley
+  - kitchen
+  - decision-making
+  - paddle
+
+youtube_tags:
+  - "Kitchen Strategy Masterclass"
+  - "When to Speed Up"
+  - "Block"
+  - "Reset & Dominate the Kitchen"
+  - "the kitchen"
+  - "doubles strategy"
+  - "pickleball strategy"
+  - "speed ups in pickleball"
+  - "3rd shot strategy"
+  - "how to get better at pickleball"
+  - "how to get rid of stuff"
+  - "learn to cook"
+  - "how to play pickleball"
+  - "pickleball how to play"
+  - "how to volley in pickleball"
+  - "pickleball techniques"
+  - "pickleball"
+  - "universal rackets"
+  - "pickleball pro tips"
+  - "pickleball gameplay tips"
 ---
 
 # Kitchen Strategy Masterclass (Universal Rackets)

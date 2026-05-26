@@ -4,6 +4,15 @@ last_updated: 2026-05-23
 sources: 1
 video_id: FXBMbi6EwvI
 channel: Cori Elliott
+tags:
+  - source
+  - cori-elliott
+  - drive
+  - drop
+  - dink
+  - volley
+  - speedup
+  - reset
 ---
 
 # How the #1 Viet Pro Trains (Full 5.89 DUPR Drilling Routine)

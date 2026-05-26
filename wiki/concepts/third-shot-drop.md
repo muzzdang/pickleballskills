@@ -1,8 +1,17 @@
 ---
 aliases: ["Third Shot Drop", "3rd Shot Drop"]
-last_updated: 2026-05-01
-sources: 2
+last_updated: 2026-05-26
+sources: 7
 type: concept
+tags:
+  - concept
+  - serve
+  - third-shot
+  - drop
+  - kitchen
+  - baseline
+  - topspin
+  - decision-making
 ---
 
 # Third Shot Drop
@@ -83,9 +92,18 @@ When your regular drop isn't landing (no feel, wind, tight moments): use the **p
 
 See: [Floor and Ceiling](floor-and-ceiling.md)
 
+## The Straight-Line / Shin Drop (Austin Hardy / PPB, 2026)
+
+At 4.0+ levels, the classic looping drop to the kitchen is being replaced by a flatter trajectory aimed at the opponent's shins — the "shin drop." The ball lands just in front of the opponent's feet rather than in the kitchen, making it impossible to volley (too fast) and difficult to attack (too low). See [The Drop Is Dead — Do This Instead](../sources/2026-02-09-3s_ns5H2MUs-drop-is-dead-do-this-instead.md).
+
+**Key reframe:** Drop = offensive move (advances serving team to kitchen). Drive = defensive setup (gives return team time, keeps servers back). See [Drive](drive.md).
+
 ## Sources
 
 - [99% of Players Hit Third Shot Drops Wrong — Cracked Pickleball](../sources/2026-03-13-cracked-third-shot-drops.md)
 - [Stop Missing Your 3rd Shot Drive — Universal Rackets](../sources/2026-04-22-universal-rackets-3rd-shot-drive.md)
 - [Why You Can't Get to the Kitchen — Cori Elliott (2026-04-24)](../sources/2026-04-24-cori-elliott-transition-zone-fix.md)
 - [Raise Your Floor FAST — Richard Pickleball (2026-04-24)](../sources/2026-04-24-richard-pickleball-raise-your-floor.md)
+- [Simple 4 Step System to WIN in 2026 (2026-01-19)](../sources/2026-01-19-Gm3IStE9KRc-simple-4-step-system-win-2026.md)
+- [The Drop Is Dead — Do This Instead (2026-02-09)](../sources/2026-02-09-3s_ns5H2MUs-drop-is-dead-do-this-instead.md)
+- [Pickleball Just Changed Forever — 17-Foot Court (2026-03-10)](../sources/2026-03-10-il4BsDQQfDU-pickleball-17-foot-court.md)

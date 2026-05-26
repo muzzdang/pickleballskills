@@ -3,6 +3,10 @@ aliases: ["Kinetic Chain", "Weight Transfer"]
 last_updated: 2026-05-01
 sources: 1
 type: concept
+tags:
+  - concept
+  - drive
+  - kinetic-chain
 ---
 
 # Kinetic Chain

@@ -4,6 +4,49 @@ aliases: ["Wiki Log"]
 
 # Wiki Log
 
+## [2026-05-26] ingest | Batch ingest 21 PickleballPlaybook sources (Jan–May 2026)
+
+Sources processed: 21 raw files from PickleballPlaybook (Austin Hardy) channel, covering 2026-01-05 through 2026-05-25.
+
+Created: 21 source summaries, 2 new entity pages, 11 new concept pages
+
+New entities:
+- hayden-patriquin (pro player; hands-battle mechanics; middle strategy)
+- dinkcredibles (Kieran's channel; cooperative→competitive drill methodology; PPB guest coach)
+
+New concepts:
+- mfwc-system (Monitor-Flow-Watch-Crash decision framework)
+- ready-position (three benchmark levels: JW / Ben Johns / Anna Leigh)
+- lob-serve (Anna Leigh's 2026 innovation; full mechanics + counter)
+- hands-battle (FAST framework; box step; Hayden mechanics; drilling progressions)
+- dink (kitchen exchange fundamentals; Kieran's system; 2HBH roll dink)
+- grip (zone-based grip: hang off at baseline, choke up at kitchen)
+- serve (2026 rules + max speed mechanics + lob serve)
+- drive (drive=defensive reframe; drip hybrid; depth rule)
+- middle-strategy (highest-percentage target; string theory; Hayden vs Ben)
+- stacking (positional swap; lob serve vulnerability)
+- lob (offensive + defensive; massively underused at rec level)
+- drilling (cooperative→competitive; 5-part routine; tournament prep)
+- reset (neutralize attacks; transition zone discipline)
+- pickleball-rules (2026 changes: net post, act of volleying, rally scoring, serve motion)
+- singles-pickleball (17-foot court; PPA Challenger implementation)
+- two-handed-backhand (Luke Larsen's 2HBH roll dink mechanics)
+- return-of-serve (return advantage; depth mandatory; 4th shot depth rule)
+- kitchen (NVZ rules; footwork; grip; don't rush it)
+
+Updated entities (sources count + new content):
+- pickleballplaybook (4→25; added MFWC, drive/drop reframe, guest coaches, full source list)
+- ben-johns (1→6; added 10 rules, string theory, bait ball, ready position L2, middle vulnerability)
+- annalie-waters (1→5; added lob serve, ready position L3, 2HBH vulnerability, stacking exploit)
+
+Updated concepts (sources count):
+- third-shot-drop (2→7; added shin drop + PPB reframe)
+- transition-zone (1→6; added MFWC + Mini's time>height filter)
+- footwork (5→10; added box step + tripod foot)
+- dupr (1→3; added Austin's full critique + alternative in development)
+- volley (3→6; added compact swing + hands-battle drills)
+- roll-shot (3→4; added 2HBH roll dink variant)
+
 ## [2026-05-24] sync | Auto-ingest check + Obsidian sync
 
 Auto-ingest scan: 0 unprocessed raw files found. All 49 Universal Rackets sources, 2 Richard Pickleball sources, and all other raw files already ingested and summarized.

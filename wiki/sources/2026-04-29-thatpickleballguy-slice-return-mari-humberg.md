@@ -6,6 +6,14 @@ type: source
 date: 2026-04-29
 duration: "7:53"
 url: "https://www.youtube.com/watch?v=V6fIzk2Sv1c"
+tags:
+  - source
+  - serve
+  - kitchen
+  - topspin
+  - slice
+
+youtube_tags: []
 ---
 
 # They Say Don't Slice Returns. This Pro Does Anyway.

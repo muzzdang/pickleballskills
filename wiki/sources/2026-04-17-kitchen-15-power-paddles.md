@@ -6,6 +6,33 @@ type: source
 date: 2026-04-17
 duration: "28:20"
 url: "https://www.youtube.com/watch?v=qFdAlcXEiDw"
+tags:
+  - source
+  - serve
+  - kitchen
+  - paddle
+
+youtube_tags:
+  - "most powerful pickleball paddles"
+  - "pickleball paddle review 2026"
+  - "top pickleball paddles 2026"
+  - "luzz inferno review"
+  - "enhance turbo pickleball"
+  - "six zero black opal review"
+  - "honolulu j6cr review"
+  - "friday aura pro review"
+  - "11six24 vapor power 2"
+  - "bread and butter loco review"
+  - "selkirk boomstik review"
+  - "joola pro iv vs pro v"
+  - "volair shift review"
+  - "pickleball gear testing"
+  - "pickleball power paddle"
+  - "pickleball serve"
+  - "pickleball serve speed"
+  - "pickleball"
+  - "the kitchen pickleball"
+  - "paddle review"
 ---
 
 # I Tested 15 Power Paddles (The Kitchen)

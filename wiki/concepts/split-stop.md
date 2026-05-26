@@ -3,6 +3,10 @@ aliases: ["Split Stop", "Split Step"]
 last_updated: 2026-05-01
 sources: 2
 type: concept
+tags:
+  - concept
+  - footwork
+  - error-reduction
 ---
 
 # Split Stop

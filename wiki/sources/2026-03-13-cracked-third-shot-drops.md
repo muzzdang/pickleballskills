@@ -6,6 +6,18 @@ type: source
 date: 2026-03-13
 duration: "17:06"
 url: "https://www.youtube.com/watch?v=2joz3UhHI9I"
+tags:
+  - source
+  - serve
+  - third-shot
+  - drive
+  - drop
+  - kitchen
+  - baseline
+  - topspin
+
+youtube_tags:
+  - "pickleball"
 ---
 
 # 99% of Players Hit Third Shot Drops Wrong (Cracked Pickleball)

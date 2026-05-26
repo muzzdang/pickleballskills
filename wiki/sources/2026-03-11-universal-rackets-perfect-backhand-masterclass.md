@@ -8,6 +8,38 @@ type: source
 date: 2026-03-11
 duration: "39:24"
 url: "https://www.youtube.com/watch?v=VsOhdVkHGDk"
+tags:
+  - source
+  - universal-rackets
+  - serve
+  - drive
+  - dink
+  - volley
+  - forehand
+  - backhand
+  - overhead
+
+youtube_tags:
+  - "How to Hit a Perfect Pickleball Backhand"
+  - "how to play pickleball"
+  - "pickleball backhand"
+  - "pickleball"
+  - "pickleball strategy"
+  - "pickleball tips"
+  - "pickleball skills"
+  - "pickleball for beginners"
+  - "pickleball dink"
+  - "professional pickleball"
+  - "pickleball volley"
+  - "pickleball basics"
+  - "pickleball rules"
+  - "pickleball channel"
+  - "how to pickleball"
+  - "pickleball how to play"
+  - "pickleball court dimensions"
+  - "drop"
+  - "pickleball doubles tips"
+  - "pickleball paddle"
 ---
 
 # How to Hit a Perfect Pickleball Backhand (Universal Rackets)

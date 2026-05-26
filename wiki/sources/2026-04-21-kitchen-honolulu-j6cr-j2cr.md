@@ -6,6 +6,31 @@ type: source
 date: 2026-04-21
 duration: "10:40"
 url: "https://www.youtube.com/watch?v=k6i-Ba_UCHY"
+tags:
+  - source
+  - kitchen
+
+youtube_tags:
+  - "most powerful pickleball paddles"
+  - "pickleball paddle review 2026"
+  - "top pickleball paddles 2026"
+  - "honolulu j6cr review"
+  - "pickleball gear testing"
+  - "pickleball power paddle"
+  - "pickleball"
+  - "the kitchen pickleball"
+  - "honolulu paddle comparison"
+  - "honolulu paddle review"
+  - "honolulu power paddle"
+  - "honolulu j2cr paddle"
+  - "honolulu j6cr paddle"
+  - "new honolulu paddles"
+  - "honolulu j6cr paddle review"
+  - "honolulu j2cr paddle review"
+  - "j2cr review"
+  - "j6cr review"
+  - "honolulu pickleball paddle"
+  - "j2c"
 ---
 
 # Honolulu J6CR J2CR Review (The Kitchen)

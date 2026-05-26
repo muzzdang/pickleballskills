@@ -6,6 +6,16 @@ type: source
 date: 2026-05-01
 duration: "7:07"
 url: "https://www.youtube.com/watch?v=BiwdbOikhSo"
+tags:
+  - source
+  - volley
+  - reset
+  - punch-volley
+  - backhand
+  - wrist
+  - paddle
+
+youtube_tags: []
 ---
 
 # The Punch Volley Every Player Needs

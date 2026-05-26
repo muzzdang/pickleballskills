@@ -3,6 +3,9 @@ aliases: ["Universal Rackets"]
 last_updated: 2026-05-23
 sources: 49
 type: entity
+tags:
+  - entity
+  - backhand
 ---
 
 # Universal Rackets

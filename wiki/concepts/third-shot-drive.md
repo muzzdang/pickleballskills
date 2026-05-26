@@ -3,6 +3,14 @@ aliases: ["Third Shot Drive", "3rd Shot Drive"]
 last_updated: 2026-05-01
 sources: 2
 type: concept
+tags:
+  - concept
+  - serve
+  - third-shot
+  - drive
+  - drop
+  - baseline
+  - decision-making
 ---
 
 # Third Shot Drive

@@ -4,6 +4,9 @@ last_updated: 2026-05-23
 sources: 1
 video_id: 88LjSQfXW3A
 channel: Briones Pickleball
+tags:
+  - source
+  - briones-pickleball
 ---
 
 # My 9-Year-Old Plays at a 4.0 Level — Here's How

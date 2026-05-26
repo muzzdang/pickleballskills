@@ -8,6 +8,31 @@ type: source
 date: 2026-02-24
 duration: "6:38"
 url: "https://www.youtube.com/watch?v=RUL2RebOYbY"
+tags:
+  - source
+  - universal-rackets
+  - serve
+
+youtube_tags:
+  - "Watch This & Transform Your Pickleball Serve in 10 Minutes or Less"
+  - "pickleball serve"
+  - "pickleball spin serve"
+  - "pickleball serve strategy"
+  - "pickleball serve tips"
+  - "pickleball serve spin"
+  - "pickleball serve grip"
+  - "pickleball serve tutorial"
+  - "legal pickleball serve"
+  - "pickleball serve guide"
+  - "pickleball serve rules"
+  - "pickleball serve power"
+  - "serve in pickleball"
+  - "how to play pickleball"
+  - "pickleball rules"
+  - "pickleball serve technique"
+  - "Transform Your Pickleball Serve"
+  - "universal rackets"
+  - "pickleball"
 ---
 
 # Transform Your Pickleball Serve in 10 Minutes (Universal Rackets)

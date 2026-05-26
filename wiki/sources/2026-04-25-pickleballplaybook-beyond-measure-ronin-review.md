@@ -6,6 +6,22 @@ type: source
 date: 2026-04-25
 duration: "10:21"
 url: "https://www.youtube.com/watch?v=i3w8qGG574o"
+tags:
+  - source
+  - advanced
+  - paddle
+
+youtube_tags:
+  - "Pickleball"
+  - "Paddle"
+  - "pickleball tournament"
+  - "pickleball instruction"
+  - "pickleball serve"
+  - "dinks"
+  - "drops"
+  - "drives"
+  - "fast hands"
+  - "pickleball drills"
 ---
 
 # Control Players… You NEED to See This Paddle | Beyond Measure Ronin Review

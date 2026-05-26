@@ -4,6 +4,12 @@ last_updated: 2026-05-23
 sources: 1
 video_id: WdCSjucEQ-s
 channel: Briones Pickleball
+tags:
+  - source
+  - briones-pickleball
+  - drive
+  - grip
+  - error-reduction
 ---
 
 # The Secret to Winning Pickleball: Stop Trying to Hit Winners

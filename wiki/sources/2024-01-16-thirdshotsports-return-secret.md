@@ -6,6 +6,16 @@ type: source
 date: 2024-01-16
 duration: "1:54"
 url: "https://www.youtube.com/watch?v=DDM_aIkKDo4"
+tags:
+  - source
+  - serve
+  - third-shot
+  - drop
+  - kitchen
+  - baseline
+  - return
+
+youtube_tags: []
 ---
 
 # Return of Serve Secret (Third Shot Sports)

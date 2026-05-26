@@ -6,6 +6,33 @@ type: source
 date: 2026-04-19
 duration: "12:29"
 url: "https://www.youtube.com/watch?v=YZNcH61Xb1o"
+tags:
+  - source
+  - kitchen
+  - offense
+  - defense
+
+youtube_tags:
+  - "Play Aggressive Pickleball at the Net"
+  - "pickleball for beginners"
+  - "how to play pickleball"
+  - "pickleball tips"
+  - "pickleball training"
+  - "pickleball basics"
+  - "pickleball drills"
+  - "pickleball kitchen"
+  - "pickleball patterns"
+  - "pickleball kitchen rules"
+  - "pickleball instruction"
+  - "pickleball highlights"
+  - "pickleball first time"
+  - "pickleball how to play"
+  - "pickleball rules"
+  - "pickleball coaching"
+  - "universal rackets"
+  - "pickleball with tyler"
+  - "pickleball game"
+  - "pickleball skills"
 ---
 
 # Play Aggressive Pickleball at the Net (Universal Rackets)

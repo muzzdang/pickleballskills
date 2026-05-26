@@ -3,6 +3,12 @@ aliases: ["Grip Position", "Choke Up"]
 last_updated: 2026-05-01
 sources: 1
 type: concept
+tags:
+  - concept
+  - serve
+  - drive
+  - baseline
+  - grip
 ---
 
 # Grip Position

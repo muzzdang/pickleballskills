@@ -3,6 +3,10 @@ aliases: ["Grip Pressure", "Wrist Snap", "Death Grip"]
 last_updated: 2026-05-01
 sources: 1
 type: concept
+tags:
+  - concept
+  - grip
+  - paddle-face
 ---
 
 # Grip Pressure

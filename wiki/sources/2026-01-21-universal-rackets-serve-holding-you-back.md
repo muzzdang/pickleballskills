@@ -8,6 +8,34 @@ type: source
 date: 2026-01-21
 duration: "15:47"
 url: "https://www.youtube.com/watch?v=B9NJqawx-0Y"
+tags:
+  - source
+  - universal-rackets
+  - serve
+  - drop
+  - paddle
+
+youtube_tags:
+  - "Is Your Pickleball Serve Holding You Back What's the BEST Serve Technique"
+  - "pickleball tips"
+  - "pickleball lessons"
+  - "how to play pickleball"
+  - "pickleball serve technique"
+  - "best pickleball serves"
+  - "pickleball serve strategy"
+  - "pickleball technique"
+  - "pickleball techniques"
+  - "pickleball serve rules"
+  - "pickleball fast serve"
+  - "pickleball spin serve"
+  - "pickleball serve tips"
+  - "pickleball serve"
+  - "pickleball rules"
+  - "pickleball for beginners"
+  - "pickleball"
+  - "pickleball strategy"
+  - "universal rackets"
+  - "serve tips"
 ---
 
 # Is Your Pickleball Serve Holding You Back (Universal Rackets)

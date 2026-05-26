@@ -8,6 +8,32 @@ type: source
 date: 2026-03-15
 duration: "35:22"
 url: "https://www.youtube.com/watch?v=zx8feUG50J4"
+tags:
+  - source
+  - universal-rackets
+  - kitchen
+  - footwork
+
+youtube_tags:
+  - "Pickleball Footwork Secrets That Instantly Improve Your Game (Any Level)"
+  - "pickleball drills"
+  - "pickleball footwork"
+  - "pickleball"
+  - "pickleball tips"
+  - "pickleball mistakes"
+  - "pickleball beginner mistakes"
+  - "learn pickleball"
+  - "pickleball strategy"
+  - "universal rackets"
+  - "pickleball drill"
+  - "pickleball lesson"
+  - "pickleball basics"
+  - "how to play pickleball"
+  - "pickleball rules"
+  - "pickleball game"
+  - "pickleball for beginners"
+  - "pickleball skills"
+  - "pickleball footwork secrets (any level)"
 ---
 
 # Pickleball Footwork Secrets (Universal Rackets)

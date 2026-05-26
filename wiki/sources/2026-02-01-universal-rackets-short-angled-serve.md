@@ -8,6 +8,29 @@ type: source
 date: 2026-02-01
 duration: "14:13"
 url: "https://www.youtube.com/watch?v=Fvy7ZdZuPqk"
+tags:
+  - source
+  - universal-rackets
+  - serve
+
+youtube_tags:
+  - "How to Hit a Short"
+  - "Angled Pickleball Serve & Pull Your Opponent Off the Court (Step-by-Step)"
+  - "how to serve in pickleball"
+  - "how to play pickleball"
+  - "pickleball serve rules"
+  - "pickleball serve technique"
+  - "legal pickleball serve"
+  - "pickleball volley serve"
+  - "pickleball serve"
+  - "how to serve pickleball"
+  - "pickleball serve tutorial"
+  - "pickleball tips"
+  - "Angled Pickleball Serve"
+  - "Pull Your Opponent Off the Court"
+  - "universal rackets"
+  - "how to hit angled pickleball shots"
+  - "angled pickleball serve"
 ---
 
 # How to Hit a Short, Angled Pickleball Serve (Universal Rackets)

@@ -1,8 +1,18 @@
 ---
 aliases: ["Roll Shot"]
-last_updated: 2026-05-23
-sources: 3
+last_updated: 2026-05-26
+sources: 4
 type: concept
+tags:
+  - concept
+  - drive
+  - drop
+  - kitchen
+  - grip
+  - topspin
+  - wrist
+  - offense
+  - defense
 ---
 
 # Roll Shot
@@ -47,8 +57,19 @@ The roll and the [backhand flick](backhand-flick.md) are distinct shots often co
 
 [Cori Elliott](../entities/cori-elliott.md) corrects students who blend both: the roll paddle face stays relatively flat through contact; the flick paddle face closes over the ball. Mixing the two creates unpredictable direction.
 
+## Two-Handed Backhand Roll Dink (Luke Larsen / PPB)
+
+A specialized offensive dink using two hands and a topspin roll — taught by Luke Larsen (5.5, 25 years experience) in the PPB May 2026 video. Key distinctions from the standard roll shot:
+- Continental grip on paddle hand
+- Contact inside the left knee in a V-stance
+- Light grip pressure / "broken wrist" feel throughout
+- Follow the ball for 6–8 inches after contact
+
+See: [Two-Handed Backhand](two-handed-backhand.md) and [Pickleball's Newest Cheat Code — Two-Handed Backhand Roll Dink](../sources/2026-05-04-wOkff0uB5xM-two-handed-backhand-roll-dink.md)
+
 ## Sources
 
 - [7 Ways to Add Power — Cracked Pickleball](../sources/2026-04-30-cracked-7-ways-to-add-power.md)
 - [You're Choosing the Wrong 4th Shot — Athena Pickleball](../sources/2026-04-24-athena-fourth-shot.md)
 - [Stop Using the Wrong Backhand — Cori Elliott (2026-05-22)](../sources/2026-05-22-cori-elliott-backhand-flick-vs-roll.md)
+- [Pickleball's Newest Cheat Code — Two-Handed Backhand Roll Dink (2026-05-04)](../sources/2026-05-04-wOkff0uB5xM-two-handed-backhand-roll-dink.md)

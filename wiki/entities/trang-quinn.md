@@ -3,6 +3,15 @@ aliases: ["Trang Quinn"]
 last_updated: 2026-05-23
 sources: 1
 type: entity
+tags:
+  - entity
+  - drive
+  - drop
+  - dink
+  - volley
+  - speedup
+  - reset
+  - kitchen
 ---
 
 # Trang Quinn

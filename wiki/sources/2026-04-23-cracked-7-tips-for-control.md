@@ -6,6 +6,14 @@ type: source
 date: 2026-04-23
 duration: "14:21"
 url: "https://www.youtube.com/watch?v=zqo16Pgd5SM"
+tags:
+  - source
+  - kitchen
+  - baseline
+  - backhand
+  - paddle
+
+youtube_tags: []
 ---
 
 # 7 Tips for Control (Cracked Pickleball)

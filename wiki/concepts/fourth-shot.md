@@ -3,6 +3,14 @@ aliases: ["Fourth Shot", "4th Shot"]
 last_updated: 2026-05-07
 sources: 1
 type: concept
+tags:
+  - concept
+  - serve
+  - third-shot
+  - fourth-shot
+  - kitchen
+  - offense
+  - return
 ---
 
 # Fourth Shot

@@ -4,6 +4,11 @@ last_updated: 2026-05-23
 sources: 1
 video_id: GGKYFOS0jeI
 channel: Athena Pickleball
+tags:
+  - source
+  - athena-pickleball
+  - dink
+  - placement
 ---
 
 # How to Beat Younger Pickleball Players Without Hitting Harder

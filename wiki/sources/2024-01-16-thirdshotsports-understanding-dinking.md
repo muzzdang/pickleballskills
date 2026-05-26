@@ -6,6 +6,15 @@ type: source
 date: 2024-01-16
 duration: "1:28"
 url: "https://www.youtube.com/watch?v=TUEp7IDU414"
+tags:
+  - source
+  - third-shot
+  - dink
+  - kitchen
+  - offense
+  - beginner
+
+youtube_tags: []
 ---
 
 # Understanding Dinking (Third Shot Sports)

@@ -8,6 +8,33 @@ type: source
 date: 2026-03-08
 duration: "28:04"
 url: "https://www.youtube.com/watch?v=RwvbjeUFqYk"
+tags:
+  - source
+  - universal-rackets
+  - forehand
+  - offense
+
+youtube_tags:
+  - "How To Turn Your Forehand Into an Offensive Weapon"
+  - "how to play pickleball"
+  - "pickleball forehand drive"
+  - "pickleball forehand"
+  - "pickleball tips"
+  - "pickleball technique"
+  - "pickleball for beginners"
+  - "pickleball strategy"
+  - "forehand drive pickleball"
+  - "pickleball coaching"
+  - "pickleball"
+  - "pickleball scoring"
+  - "pickleball videos"
+  - "pickleball drills"
+  - "learn pickleball"
+  - "professional pickleball"
+  - "pickleball defense"
+  - "pickleball tutorial"
+  - "pickleball game"
+  - "pickleball highlights"
 ---
 
 # Turn Your Forehand Into an Offensive Weapon (Universal Rackets)

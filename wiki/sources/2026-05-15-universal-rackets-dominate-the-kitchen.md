@@ -8,6 +8,34 @@ type: source
 date: 2026-05-15
 duration: "18:54"
 url: "https://www.youtube.com/watch?v=qtDTz48ACYc"
+tags:
+  - source
+  - universal-rackets
+  - dink
+  - kitchen
+  - decision-making
+  - error-reduction
+
+youtube_tags:
+  - "How to Dominate the Kitchen in Pickleball"
+  - "pickleball basics"
+  - "pickleball beginner"
+  - "pickleball drills"
+  - "how to play pickleball"
+  - "how to play pickleball for beginners"
+  - "pickleball kitchen"
+  - "pickleball kitchen rules"
+  - "pickleball drills for beginners"
+  - "pickel ball tips"
+  - "pickleball instruction"
+  - "pickleball training"
+  - "pickleball gameplay"
+  - "pickleball highlights"
+  - "universal rackets"
+  - "pickleball with tyler"
+  - "pickleball game"
+  - "how to dominate the kitchen in pickleball"
+  - "learn pickleball"
 ---
 
 # How to Dominate the Kitchen in Pickleball (Universal Rackets)

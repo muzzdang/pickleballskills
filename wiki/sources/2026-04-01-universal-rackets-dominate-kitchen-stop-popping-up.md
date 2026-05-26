@@ -8,6 +8,35 @@ type: source
 date: 2026-04-01
 duration: "29:31"
 url: "https://www.youtube.com/watch?v=PStvCNTjFLQ"
+tags:
+  - source
+  - universal-rackets
+  - dink
+  - kitchen
+  - offense
+  - decision-making
+
+youtube_tags:
+  - "How to Dominate the Kitchen in Pickleball (Stop Popping Up"
+  - "Win More Points & Have Better Footwork)"
+  - "pickleball reset"
+  - "pickleball basics"
+  - "pickleball rules"
+  - "how to play pickleball"
+  - "pickleball footwork"
+  - "pickleball tips"
+  - "pickleball lesson"
+  - "learn pickleball"
+  - "pickleball for beginners"
+  - "pickleball skills"
+  - "pickleball kitchen"
+  - "pickleball kitchen rules"
+  - "pickleball"
+  - "pickleball instruction"
+  - "pickleball coaching"
+  - "pickleball game"
+  - "pickleball beginner"
+  - "pickleball strategy"
 ---
 
 # How to Dominate the Kitchen — Stop Popping Up (Universal Rackets)

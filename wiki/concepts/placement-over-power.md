@@ -3,6 +3,10 @@ aliases: ["Placement Over Power", "Placement Beats Power"]
 last_updated: 2026-05-01
 sources: 1
 type: concept
+tags:
+  - concept
+  - speedup
+  - placement
 ---
 
 # Placement Over Power

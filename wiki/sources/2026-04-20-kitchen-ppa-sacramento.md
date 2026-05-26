@@ -6,6 +6,32 @@ type: source
 date: 2026-04-20
 duration: "52:53"
 url: "https://www.youtube.com/watch?v=QAHztlt-Z5s"
+tags:
+  - source
+  - kitchen
+  - tournament
+
+youtube_tags:
+  - "pickleball"
+  - "pickleball game"
+  - "pickleball highlights"
+  - "pickleball rules"
+  - "pickleball serve"
+  - "pickleball gameplay"
+  - "pickleball fails"
+  - "pickleball crash outs"
+  - "insane pickleball moments"
+  - "funny pickleball"
+  - "epic pickleball"
+  - "best pickleball points"
+  - "pickleball doubles"
+  - "singles pickleball"
+  - "pickleball drama"
+  - "crazy pickleball"
+  - "ppa tour"
+  - "sorry not sorry pickleball"
+  - "ben johns"
+  - "ppa sacramento"
 ---
 
 # PPA Sacramento Open 2026 Recap (The Kitchen)

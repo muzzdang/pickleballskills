@@ -3,6 +3,9 @@ aliases: ["Six Zero", "Six Zero Next Gem", "6.0 Paddles", "Coral", "Black Opal",
 last_updated: 2026-05-01
 sources: 1
 type: entity
+tags:
+  - entity
+  - paddle
 ---
 
 # Six Zero — Next Gem Lineup

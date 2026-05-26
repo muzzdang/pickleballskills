@@ -8,6 +8,13 @@ type: source
 date: 2026-02-13
 duration: "35:06"
 url: "https://www.youtube.com/watch?v=fPSnEeSxtfA"
+tags:
+  - source
+  - universal-rackets
+  - drop
+  - paddle
+
+youtube_tags: []
 ---
 
 # Stubborn Pickleball Habits Losing You Matches (Universal Rackets)

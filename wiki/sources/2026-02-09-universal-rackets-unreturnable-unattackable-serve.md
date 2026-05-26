@@ -8,6 +8,34 @@ type: source
 date: 2026-02-09
 duration: "27:41"
 url: "https://www.youtube.com/watch?v=WQE89DCtAO0"
+tags:
+  - source
+  - universal-rackets
+  - serve
+  - forehand
+  - backhand
+  - decision-making
+
+youtube_tags:
+  - "How to Hit an Unreturnable & Unattackable Serve in Pickleball"
+  - "how to serve pickleball"
+  - "how to get better at pickleball"
+  - "learn to return in pickleball"
+  - "how to improve pickleball"
+  - "how to play pickleball"
+  - "pickleball serve tutorial"
+  - "pickleball spin serve"
+  - "pickleball serve tips"
+  - "pickleball serve"
+  - "best pickleball serves"
+  - "pickleball serve guide"
+  - "pickleball return strategy"
+  - "pickleball return tips"
+  - "pickleball tips"
+  - "play pickleball"
+  - "pickleball channel"
+  - "pickleball"
+  - "pickleball strategy"
 ---
 
 # How to Hit an Unreturnable and Unattackable Serve (Universal Rackets)

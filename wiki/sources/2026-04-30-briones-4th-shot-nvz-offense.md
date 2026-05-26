@@ -6,6 +6,36 @@ type: source
 date: 2026-04-30
 duration: "9:33"
 url: "https://www.youtube.com/watch?v=PobNqHD1GX8"
+tags:
+  - source
+  - serve
+  - fourth-shot
+  - drive
+  - drop
+  - kitchen
+  - offense
+
+youtube_tags:
+  - "briones pickleball"
+  - "jordan briones"
+  - "jordan pickleball"
+  - "primetime pickleball"
+  - "prime time pickleball"
+  - "pickleball"
+  - "usapa"
+  - "ben johns"
+  - "pickleball strategy"
+  - "dink"
+  - "volley"
+  - "3rd shot"
+  - "3rd shot drop"
+  - "third shot drop"
+  - "serve"
+  - "return"
+  - "drives"
+  - "forehand"
+  - "backhand"
+  - "reset shot"
 ---
 
 # Stop Losing Points on Your 4th Shot (Do This Instead)

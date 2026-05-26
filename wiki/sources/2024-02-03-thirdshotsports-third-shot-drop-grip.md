@@ -6,6 +6,18 @@ type: source
 date: 2024-02-03
 duration: "1:40"
 url: "https://www.youtube.com/watch?v=P5s4n_tzFk8"
+tags:
+  - source
+  - third-shot
+  - drop
+  - forehand
+  - backhand
+  - grip
+  - paddle-face
+  - topspin
+  - paddle
+
+youtube_tags: []
 ---
 
 # Third Shot Drop Grip (Third Shot Sports)

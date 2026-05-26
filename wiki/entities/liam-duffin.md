@@ -3,6 +3,9 @@ aliases: ["Liam Duffin"]
 last_updated: 2026-05-09
 sources: 1
 type: entity
+tags:
+  - entity
+  - decision-making
 ---
 
 # Liam Duffin

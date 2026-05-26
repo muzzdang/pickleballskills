@@ -6,6 +6,34 @@ type: source
 date: 2026-04-30
 duration: "20:12"
 url: "https://www.youtube.com/watch?v=mDq8FkgLS04"
+tags:
+  - source
+  - dink
+  - kitchen
+  - transition-zone
+  - placement
+
+youtube_tags:
+  - "How to Win More Points Without Hitting Harder"
+  - "how to play pickleball"
+  - "pickleball how to play"
+  - "pickleball drills"
+  - "pickleball instruction"
+  - "pickleball technique"
+  - "pickleball basics"
+  - "pickleball"
+  - "pickleball coach"
+  - "pickleball tournament"
+  - "pickleball tricks"
+  - "play pickleball"
+  - "professional pickleball"
+  - "pickleball doubles tips"
+  - "rules of pickleball"
+  - "pickleball with tyler"
+  - "what is pickleball"
+  - "pickleball tips"
+  - "pickleball strategy"
+  - "pickleball training"
 ---
 
 # Win More Without Hitting Harder (Universal Rackets)

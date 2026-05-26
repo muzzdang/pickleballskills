@@ -8,6 +8,34 @@ type: source
 date: 2026-03-02
 duration: "19:17"
 url: "https://www.youtube.com/watch?v=vzU6-yChofo"
+tags:
+  - source
+  - universal-rackets
+  - serve
+  - speedup
+  - paddle
+
+youtube_tags:
+  - "How to Win More Points in Pickleball"
+  - "Speedups"
+  - "Anticipation & Point Strategy"
+  - "how to play pickleball"
+  - "pickleball how to play"
+  - "pickleball points"
+  - "pickleball game"
+  - "pickleball coaching"
+  - "pickleball highlights"
+  - "pickleball skills"
+  - "pickleball strategy"
+  - "tips"
+  - "pickleball tips"
+  - "how to play pickleball for beginners"
+  - "pickleball for beginners"
+  - "pickleball drills"
+  - "pickleball"
+  - "pickleball gameplay"
+  - "pickleball basics"
+  - "pickleball rules"
 ---
 
 # Win More Points: Speedups, Anticipation & Strategy (Universal Rackets)

@@ -3,6 +3,11 @@ aliases: ["Friday Aura", "Friday Aura Pro"]
 last_updated: 2026-05-23
 sources: 1
 type: entity
+tags:
+  - entity
+  - dink
+  - reset
+  - paddle
 ---
 
 # Friday Aura / Friday Aura Pro

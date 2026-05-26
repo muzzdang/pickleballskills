@@ -3,6 +3,9 @@ aliases: ["Floor and Ceiling", "Raise Your Floor", "Consistency"]
 last_updated: 2026-05-08
 sources: 1
 type: concept
+tags:
+  - concept
+  - tournament
 ---
 
 # Floor and Ceiling

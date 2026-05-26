@@ -6,6 +6,15 @@ type: source
 date: 2024-02-03
 duration: "1:06"
 url: "https://www.youtube.com/watch?v=hnyPDMXoQXA"
+tags:
+  - source
+  - third-shot
+  - lob
+  - kitchen
+  - overhead
+  - paddle
+
+youtube_tags: []
 ---
 
 # Overhead Smash (Third Shot Sports)

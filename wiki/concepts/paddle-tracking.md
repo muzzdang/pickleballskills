@@ -3,6 +3,9 @@ aliases: ["Paddle Tracking", "Watch the Paddle"]
 last_updated: 2026-05-23
 sources: 1
 type: concept
+tags:
+  - concept
+  - kitchen
 ---
 
 # Paddle Tracking

@@ -3,6 +3,13 @@ aliases: ["Firefight", "Hands Battle", "Speed Battle"]
 last_updated: 2026-05-23
 sources: 3
 type: concept
+tags:
+  - concept
+  - dink
+  - speedup
+  - reset
+  - kitchen
+  - defense
 ---
 
 # Firefight (Hands Battle)

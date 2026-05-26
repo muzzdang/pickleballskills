@@ -8,6 +8,33 @@ type: source
 date: 2026-01-28
 duration: "18:13"
 url: "https://www.youtube.com/watch?v=w5zz-nSHJWQ"
+tags:
+  - source
+  - universal-rackets
+  - serve
+  - beginner
+
+youtube_tags:
+  - "Don't Make This Mistake 4 Pickleball Strategies for Beginners to WIN More Points"
+  - "pickleball for beginners"
+  - "pickleball tutorial"
+  - "pickleball basics"
+  - "pickleball mistakes"
+  - "pickleball serve"
+  - "pickleball serve tips"
+  - "pickleball"
+  - "pickleball strategy"
+  - "how to play pickleball"
+  - "pickleball tips"
+  - "universal rackets"
+  - "pickleball drills"
+  - "pickleball instruction"
+  - "pickleball rules"
+  - "pickleball highlights"
+  - "pickleball coaching"
+  - "pickleball training"
+  - "pickleball skills"
+  - "learn pickleball"
 ---
 
 # 4 Strategies for Beginners to Win More Points (Universal Rackets)

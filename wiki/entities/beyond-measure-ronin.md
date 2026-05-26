@@ -3,6 +3,9 @@ aliases: ["Beyond Measure Ronin", "Ronin", "Beyond Measure"]
 last_updated: 2026-05-09
 sources: 1
 type: entity
+tags:
+  - entity
+  - paddle
 ---
 
 # Beyond Measure Ronin

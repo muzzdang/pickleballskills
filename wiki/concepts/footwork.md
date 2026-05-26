@@ -1,8 +1,13 @@
 ---
 aliases: ["Footwork", "Pickleball Footwork"]
-last_updated: 2026-05-18
-sources: 5
+last_updated: 2026-05-26
+sources: 10
 type: concept
+tags:
+  - concept
+  - kitchen
+  - footwork
+  - error-reduction
 ---
 
 # Footwork
@@ -63,6 +68,14 @@ See: [What to Do When Opponent Hits at Your Feet (Universal Rackets, 2026-03-06)
 - [Kitchen Aggression](kitchen-aggression.md)
 - [Reset Mechanics](reset-mechanics.md)
 
+## Box Step (Hands Battles)
+
+In hands-battle situations at the kitchen, Austin Hardy (PPB) recommends the **box step** over crossing feet or lunging. Small steps in a box pattern keep the base wide and weight centered, allowing immediate directional change when the ball is redirected. See [Hands Battle](hands-battle.md).
+
+## Tripod Foot (Kieran / Dinkcredibles)
+
+Kieran introduces the **tripod foot** concept for dink mechanics: weight distributed across three points — heel, ball of foot under big toe, ball of foot under pinky toe. This activates the glutes and stabilizes the entire ankle-knee-hip chain. A collapsed arch (foot rolling inward) causes the knee to cave and destabilizes hip rotation — the root cause of many backhand dink yips.
+
 ## Sources
 
 - [Pickleball Footwork Secrets (Universal Rackets, 2026-03-15)](../sources/2026-03-15-universal-rackets-footwork-secrets.md)
@@ -70,3 +83,8 @@ See: [What to Do When Opponent Hits at Your Feet (Universal Rackets, 2026-03-06)
 - [Down the Line Shot (Universal Rackets, 2026-03-28)](../sources/2026-03-28-universal-rackets-down-the-line-shot.md)
 - [Why You Can't Get to the Kitchen — Cori Elliott (2026-04-24)](../sources/2026-04-24-cori-elliott-transition-zone-fix.md)
 - [Dominate the Kitchen Stop Popping Up (Universal Rackets, 2026-04-01)](../sources/2026-04-01-universal-rackets-dominate-kitchen-stop-popping-up.md)
+- [Have Faster Hands than 95% of Players (2026-02-23)](../sources/2026-02-23-rKxrqsBLIA8-faster-hands-95-percent.md)
+- [This is the Fastest Serve in Pickleball (2026-03-16)](../sources/2026-03-16-Be4YZWIMGoo-fastest-serve-1-simple-change.md)
+- [If I Wanted to Add +1.0 — Drills Part 1 (2026-03-30)](../sources/2026-03-30-tVtqK2dxSdc-add-1-dupr-drills-part1.md)
+- [I Fixed My Backhand Dink With 5 Simple Steps (2026-04-13)](../sources/2026-04-13-LP-r4AyZBCQ-fix-backhand-dink-5-steps.md)
+- [Win More Tournaments With These Drills (2026-05-11)](../sources/2026-05-11-L2FImX3dTLI-win-more-tournaments-drills.md)

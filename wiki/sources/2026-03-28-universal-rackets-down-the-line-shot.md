@@ -8,6 +8,31 @@ type: source
 date: 2026-03-28
 duration: "20:04"
 url: "https://www.youtube.com/watch?v=LfCLtZFe-lM"
+tags:
+  - source
+  - universal-rackets
+
+youtube_tags:
+  - "How to Hit the Down the Line Shot in Pickleball (Strategy"
+  - "Footwork & Technique)"
+  - "pickleball tips"
+  - "pickleball training"
+  - "pickleball strategy"
+  - "learn pickleball"
+  - "pickleball tips doubles"
+  - "pickleball"
+  - "pickleball drills"
+  - "pickleball for beginners"
+  - "how to play pickleball"
+  - "pickleball tutorial"
+  - "pickleball tricks"
+  - "pickleball rules"
+  - "pickleball highlights"
+  - "pickleball footwork"
+  - "pickleball footwork drills"
+  - "universal rackets"
+  - "pickleball gameplay"
+  - "pickleball drill"
 ---
 
 # How to Hit the Down the Line Shot (Universal Rackets)

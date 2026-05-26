@@ -3,6 +3,10 @@ aliases: ["Proton Peacock"]
 last_updated: 2026-05-23
 sources: 1
 type: entity
+tags:
+  - entity
+  - kitchen
+  - paddle
 ---
 
 # Proton Peacock

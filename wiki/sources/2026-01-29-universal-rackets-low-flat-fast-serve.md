@@ -8,6 +8,32 @@ type: source
 date: 2026-01-29
 duration: "18:47"
 url: "https://www.youtube.com/watch?v=KGCqAou0_t0"
+tags:
+  - source
+  - universal-rackets
+  - serve
+
+youtube_tags:
+  - "How to Hit a Low"
+  - "Flat"
+  - "FAST Serve in Pickleball (Step-by-Step)"
+  - "how to serve in pickleball"
+  - "how to get better at pickleball"
+  - "how to improve pickleball"
+  - "how to play pickleball"
+  - "pickleball how to play"
+  - "how to hit a forehand"
+  - "pickleball serve tutorial"
+  - "pickleball spin serve"
+  - "pickleball serve"
+  - "pickleball slow motion"
+  - "pickleball strategy"
+  - "pickleball scoring"
+  - "improve pickleball skills"
+  - "pickleball beginner"
+  - "pickleball tutorial"
+  - "pickleball tips"
+  - "pickleball"
 ---
 
 # How to Hit a Low, Flat, Fast Serve (Universal Rackets)

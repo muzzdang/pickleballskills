@@ -3,6 +3,11 @@ aliases: ["Backhand", "Pickleball Backhand"]
 last_updated: 2026-05-18
 sources: 5
 type: concept
+tags:
+  - concept
+  - backhand
+  - paddle-face
+  - decision-making
 ---
 
 # Backhand

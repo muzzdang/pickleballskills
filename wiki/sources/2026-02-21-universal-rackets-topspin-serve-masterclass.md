@@ -8,6 +8,35 @@ type: source
 date: 2026-02-21
 duration: "25:05"
 url: "https://www.youtube.com/watch?v=SoJo86Eh5Ts"
+tags:
+  - source
+  - universal-rackets
+  - serve
+  - topspin
+  - slice
+  - offense
+  - defense
+
+youtube_tags:
+  - "How to Hit a Topspin Serve Step-by-Step"
+  - "Topspin Serve Masterclass"
+  - "topspin serve masterclass"
+  - "how to hit a topspin serve: for any level!"
+  - "how to hit a topspin serve: pickleball"
+  - "how to hit a topspin serve"
+  - "how to serve in pickleball"
+  - "hit a topspin serve"
+  - "topspin pickleball serve"
+  - "pickleball topspin serve"
+  - "how to improve pickleball"
+  - "how to play pickleball"
+  - "pickleball"
+  - "pickleball tips"
+  - "pickleball game"
+  - "topspin serve pickleball"
+  - "universal rackets"
+  - "how to pickleball"
+  - "topspin serve"
 ---
 
 # Topspin Serve Masterclass (Universal Rackets)

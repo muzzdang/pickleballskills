@@ -6,6 +6,33 @@ type: source
 date: 2026-04-14
 duration: "8:29"
 url: "https://www.youtube.com/watch?v=3NKpu0J_3as"
+tags:
+  - source
+  - kitchen
+  - advanced
+  - paddle
+
+youtube_tags:
+  - "six zero"
+  - "six zero review"
+  - "six zero paddle review"
+  - "six zero coral"
+  - "six zero black opal"
+  - "six zero ruby pro"
+  - "six zero coral review"
+  - "six zero pickleball paddle"
+  - "six zero coral paddle"
+  - "six zero black opal paddle"
+  - "six zero black opal review"
+  - "six zero coral paddle review"
+  - "six zero paddle comparison"
+  - "six zero new paddle"
+  - "pickleball paddle"
+  - "best pickleball paddle 2026"
+  - "pickleball paddle review"
+  - "top pickleball paddles 2026"
+  - "pickleball reviews"
+  - "best paddle for pickleball"
 ---
 
 # Which Six Zero Paddle Is Best (The Kitchen)

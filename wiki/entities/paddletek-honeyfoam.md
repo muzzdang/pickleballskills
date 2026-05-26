@@ -3,6 +3,11 @@ aliases: ["PaddleTek Honeyfoam", "Paddletek Honeyfoam TKO-X", "Paddletek Reserve
 last_updated: 2026-05-23
 sources: 2
 type: entity
+tags:
+  - entity
+  - backhand
+  - grip
+  - paddle
 ---
 
 # PaddleTek Honeyfoam (TKO-X 16mm)

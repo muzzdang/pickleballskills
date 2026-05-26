@@ -6,6 +6,15 @@ type: source
 date: 2026-04-24
 duration: "7:16"
 url: "https://www.youtube.com/watch?v=jNbNDRG38qw"
+tags:
+  - source
+  - drive
+  - reset
+  - kitchen
+  - transition-zone
+  - paddle
+
+youtube_tags: []
 ---
 
 # Why You Can't Get to the Kitchen (Transition Zone Fix)

@@ -3,6 +3,16 @@ aliases: ["Backhand Flick"]
 last_updated: 2026-05-23
 sources: 2
 type: concept
+tags:
+  - concept
+  - drive
+  - speedup
+  - kitchen
+  - backhand
+  - grip
+  - topspin
+  - wrist
+  - offense
 ---
 
 # Backhand Flick

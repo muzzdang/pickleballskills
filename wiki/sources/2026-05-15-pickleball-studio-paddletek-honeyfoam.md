@@ -4,6 +4,13 @@ last_updated: 2026-05-23
 sources: 1
 video_id: FdFMP24Pgb4
 channel: Pickleball Studio
+tags:
+  - source
+  - pickleball-studio
+  - serve
+  - review
+  - paddle
+  - gear
 ---
 
 # PaddleTek Honeyfoam TKO-X 16mm First Impressions

@@ -5,6 +5,17 @@ sources: 1
 type: source
 date: 2026-04-29
 url: "https://www.youtube.com/watch?v=Odro_2MYsKY"
+tags:
+  - source
+  - dink
+  - reset
+  - kitchen
+  - paddle
+
+youtube_tags:
+  - "Pickleball"
+  - "The Pickleball Studio"
+  - "Pickleball tips"
 ---
 
 # Are Power Paddles Hurting You? (Pickleball Studio)

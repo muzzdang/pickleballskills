@@ -6,6 +6,16 @@ type: source
 date: 2024-02-01
 duration: "1:16"
 url: "https://www.youtube.com/watch?v=3pHRXYPKKek"
+tags:
+  - source
+  - third-shot
+  - drive
+  - forehand
+  - grip
+  - paddle-face
+  - paddle
+
+youtube_tags: []
 ---
 
 # Effective Grips for Pickleball (Third Shot Sports)

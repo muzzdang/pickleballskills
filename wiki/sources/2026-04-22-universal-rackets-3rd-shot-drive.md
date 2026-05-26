@@ -6,6 +6,33 @@ type: source
 date: 2026-04-22
 duration: "20:23"
 url: "https://www.youtube.com/watch?v=YemPuRFAiYA"
+tags:
+  - source
+  - third-shot
+  - drive
+  - paddle
+
+youtube_tags:
+  - "Stop Missing Your 3rd Shot Drive! (Forehand & Backhand Fixes That Work)"
+  - "pickleball training"
+  - "pickleball for beginners"
+  - "pickleball"
+  - "pickleball tips"
+  - "pickleball technique"
+  - "pickleball review"
+  - "5.0 pickleball"
+  - "how to play pickleball"
+  - "pickleball rules"
+  - "pickleball points"
+  - "3rd shot drop pickleball"
+  - "third shot drop"
+  - "how to hit driver"
+  - "pickleball highlights"
+  - "pickleball drills"
+  - "pickleball serving"
+  - "pickleball serve"
+  - "universal rackets"
+  - "pickleball game"
 ---
 
 # Stop Missing Your 3rd Shot Drive (Universal Rackets)

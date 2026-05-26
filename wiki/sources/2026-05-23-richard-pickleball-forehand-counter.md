@@ -4,6 +4,14 @@ last_updated: 2026-05-23
 sources: 1
 video_id: fYD0ta7xn9Y
 channel: Richard Pickleball
+tags:
+  - source
+  - richard-pickleball
+  - forehand
+  - grip
+  - paddle-face
+  - wrist
+  - paddle
 ---
 
 # Master the Forehand Counter in Pickleball: The #1 Skill for Good Hands

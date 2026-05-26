@@ -6,6 +6,10 @@ type: source
 date: 2026-04-24
 duration: "12:27"
 url: "https://www.youtube.com/watch?v=Mi7i1NS2vqQ"
+tags:
+  - source
+
+youtube_tags: []
 ---
 
 # Raise Your Floor FAST (Stop Playing Inconsistent Pickleball)

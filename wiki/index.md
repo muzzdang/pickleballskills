@@ -1,6 +1,6 @@
 ---
 aliases: ["Wiki Index"]
-last_updated: 2026-05-23
+last_updated: 2026-05-26
 ---
 
 # Pickleball Wiki Index
@@ -9,6 +9,27 @@ last_updated: 2026-05-23
 
 | Page | Summary |
 |------|---------|
+| [I Figured Out a System to Win 99% of Hands Battles — PPB](sources/2026-05-25-zGPRqEWp8Ss-system-win-hands-battles.md) | 3 drilling progressions (double-hit, Romanian, Hills up volleys); 5 tips: ready position, wide base, elbows out, give space, choke up |
+| [Win More Tournaments With These Drills — PPB + Kieran](sources/2026-05-11-L2FImX3dTLI-win-more-tournaments-drills.md) | Skinny singles cooperative (100-dink goal); cooperative-competitive progression; tournament warm-up protocol |
+| [Pickleball's Newest Cheat Code — Two-Handed BH Roll Dink — PPB](sources/2026-05-04-wOkff0uB5xM-two-handed-backhand-roll-dink.md) | Luke Larsen teaches 2HBH roll dink; continental grip; light pressure; V-stance contact inside left knee; shoulder-driven |
+| [Don't Rush the Kitchen. Master the Mid Court — PPB + Mini](sources/2026-04-20-KCIFab5VAiM-dont-rush-kitchen-mid-court.md) | 3 steps: wait until invited (MWC), only attack if time > height, feet set; compact swing; armpit ball drill |
+| [I Fixed My Backhand Dink With 5 Simple Steps — PPB + Kieran](sources/2026-04-13-LP-r4AyZBCQ-fix-backhand-dink-5-steps.md) | Kieran's 5 body exercises; adductor release, outside leg, tripod foot, hip swivel, knee tracking; Austin's yip fixed |
+| [DUPR DOESN'T WORK. Let's Fix It! — PPB](sources/2026-04-11-E6BUbfOpJ0I-dupr-doesnt-work-lets-fix-it.md) | Austin won 5.0 tournament, rating went DOWN; combined rating flaw; score differential distortion; alternative in development |
+| [5 Rules Ben Johns & Anna Leigh Waters Use to Always Win — PPB](sources/2026-04-06-gBGRF6IzKQg-5-rules-ben-johns-anna-leigh.md) | Depth on return+4th, cover middle, one-up one-back, cut when reaching/topspin in position, put-away through middle |
+| [If I Wanted to Add +1.0 to My DUPR — Drills Part 2 — PPB + Kieran](sources/2026-04-02-kCQqG5fvsBA-add-1-dupr-drills-part2.md) | Cooperative→competitive drill progression; skinny singles; Bosnian volleys; dink game to 3 |
+| [If I Wanted to Add +1.0 to My DUPR — Drills Part 1 — PPB + Kieran](sources/2026-03-30-tVtqK2dxSdc-add-1-dupr-drills-part1.md) | Kieran (Dinkcredibles): dink tosses, paddle half-hits, scoop and catch; legs=springs, arm=ribbon; semi-open stance |
+| [This is the Fastest Serve in Pickleball — PPB](sources/2026-03-16-Be4YZWIMGoo-fastest-serve-1-simple-change.md) | 7 mechanics for max serve speed; C-motion swing arc is the key change; slap mindset; jump drives forward transition |
+| [Pickleball Just Changed Forever — 17-Foot Court — PPB](sources/2026-03-10-il4BsDQQfDU-pickleball-17-foot-court.md) | 17-ft singles court at PPA Challenger; drops viable again; same as badminton dimensions; more cat-and-mouse |
+| [3 Strategies That Make Hayden Patriquin Hard to Beat — PPB](sources/2026-03-09-9RpG7bZvgX0-hayden-patriquin-3-strategies.md) | Ready position; hit middle vs Ben; cover middle with forehand; body-bag attack; Anna Leigh 2HBH vulnerability |
+| [Ben Johns 10 Simple Rules to Win — PPB](sources/2026-03-02-LnlFWd5JvEw-ben-johns-10-rules-to-win.md) | 10 rules; bait ball; string theory for partner movement; middle strategy beats Ben+Anna Leigh |
+| [Have Faster Hands than 95% of Players — PPB](sources/2026-02-23-rKxrqsBLIA8-faster-hands-95-percent.md) | FAST framework; box step footwork; Hayden Patriquin mechanics (elbows out, sandwich, eagle); choke up for speed |
+| [Why 90% of Pickleball Players Plateau at 3.5-4.0 — PPB](sources/2026-02-17-ONvfTnmYbQM-why-plateau-3-5-4-0.md) | 3 plateau causes + 5-part training routine; Austin's 4.0→5.0 in 3 months; 60% drilling / 40% game play ratio |
+| [The Drop Is Dead — Do This Instead — PPB](sources/2026-02-09-3s_ns5H2MUs-drop-is-dead-do-this-instead.md) | Straight-line shin drop replaces loopy drop; drop=offensive/drive=defensive reframe; "drip" hybrid |
+| [Pickleball Pros Hold Their Paddle Like This — PPB](sources/2026-02-02-9u12xBtiqxU-pros-hold-paddle-like-this.md) | Zone-based grip: hang off at baseline, choke up at kitchen; hybrid grip; Ben Johns + Gabe Tardio choke up on film |
+| [Anna Leigh's Lob Serve is Changing Pickleball — PPB](sources/2026-01-26-FDP7nh1P4Oc-anna-leigh-lob-serve.md) | Open paddle face, brush back, flex finish; must land in last 2-3 ft; odd-to-odd targeting; lethal vs stackers |
+| [Simple 4 Step System to WIN in 2026 — PPB](sources/2026-01-19-Gm3IStE9KRc-simple-4-step-system-win-2026.md) | MFWC system; active consistency; drive=defensive setup/drop=offensive move; transition zone discipline |
+| [Give Me 25 Min, Become Dangerously Good — PPB](sources/2026-01-12-IJD6NOCsC3E-dangerously-good-25min.md) | 8-fix system; JW/Ben/Anna Leigh ready positions; hybrid grip; choke up; lob often; film yourself |
+| [NEW 2026 Pickleball Rule Changes Explained — PPB](sources/2026-01-05-IH1cb8AkaPc-2026-rule-changes-explained.md) | Net post clarification; act of volleying timing; rally scoring pilot; serve motion tightened; timeout rules |
 | [Master the Forehand Counter — Richard Pickleball](sources/2026-05-23-richard-pickleball-forehand-counter.md) | Ping-pong model for forehand counter in continental grip; preset wrist before swing; paddle-tip-drop for height variation |
 | [Drilling with Intention Part 1: DINKS — Mari Humberg](sources/2026-05-22-mari-humberg-drilling-dinks.md) | 100-dink sequence in all four directions; match-quality reps only; dink game (no attacks) for pressure work |
 | [Stop Using the Wrong Backhand — Cori Elliott](sources/2026-05-22-cori-elliott-backhand-flick-vs-roll.md) | Backhand flick vs roll distinction; correct mechanics for each; common hybrid error and how to fix it |
@@ -157,6 +178,24 @@ last_updated: 2026-05-23
 | [Paddle Tracking](concepts/paddle-tracking.md) | Watch opponent's paddle position, not ball; paddle raised/neutral/dropped signals attack type |
 | [Off-Ball Positioning](concepts/off-ball-positioning.md) | Non-involved partner in firefight; paddle tip at opponent; packing the middle on crosscourt exchanges |
 | [Drilling With Intention](concepts/drilling-with-intention.md) | Match-quality reps; structured sequences; timed vs. scored; Mari's 100-dink method; Trang Quinn's session order |
+| [MFWC System](concepts/mfwc-system.md) | Monitor-Flow-Watch-Crash; Austin Hardy's 4-step decision framework for transition shots and kitchen approach |
+| [Ready Position](concepts/ready-position.md) | Three benchmark levels: JW (beginner), Ben Johns (intermediate), Anna Leigh Waters (advanced); reset after every shot |
+| [Lob Serve](concepts/lob-serve.md) | Anna Leigh Waters' open-face brush-back serve; must land last 2-3 ft; odd-to-odd backhand targeting; anti-stacking weapon |
+| [Hands Battle](concepts/hands-battle.md) | FAST framework; box step; Hayden Patriquin mechanics; body attacks; give space; drilling progressions |
+| [Dink](concepts/dink.md) | Kitchen exchange fundamentals; Kieran's drills; legs=springs/arm=ribbon; 2HBH roll dink; backhand body fix |
+| [Grip](concepts/grip.md) | Zone-based: hang off at baseline, choke up at kitchen; hybrid continental/eastern; light pressure for touch |
+| [Serve](concepts/serve.md) | 2026 rule updates; 7 mechanics for max speed; lob serve; deep targeting; change-up strategy |
+| [Drive](concepts/drive.md) | Drive=defensive setup; drop=offensive move; when to drive; the "drip" hybrid; depth rule |
+| [Middle Strategy](concepts/middle-strategy.md) | Highest-percentage target; communication breakdown; Ben Johns covers middle; Hayden targets middle vs Ben |
+| [Stacking](concepts/stacking.md) | Both players same side; positional swap; vulnerable to lob serve; anti-stacking tactics |
+| [Lob](concepts/lob.md) | Defensive and offensive varieties; massively underused at rec level; counter: take off bounce at rise |
+| [Drilling](concepts/drilling.md) | Cooperative→competitive progression; 5-part training routine; 60/40 drill/play ratio; tournament prep |
+| [Reset](concepts/reset.md) | Neutralize attacks; absorb not punch; open face; feet set when possible; transition zone reset discipline |
+| [Pickleball Rules](concepts/pickleball-rules.md) | 2026 rule changes: net post, act of volleying, rally scoring pilot, serve motion, timeout rules |
+| [Singles Pickleball](concepts/singles-pickleball.md) | 17-foot court at PPA Challenger level; drops viable again; same as badminton dimensions |
+| [Two-Handed Backhand](concepts/two-handed-backhand.md) | Continental grip; light pressure; V-stance contact inside left knee; shoulder-driven; follow through |
+| [Return of Serve](concepts/return-of-serve.md) | Return advantage explained; depth is mandatory; height adds time; vs lob serve counter; 4th shot depth rule |
+| [Kitchen](concepts/kitchen.md) | NVZ rules; why it matters; footwork at the line; grip at the kitchen; don't rush it |
 
 ## Entities
 
@@ -180,8 +219,10 @@ last_updated: 2026-05-23
 | [Six Zero Next Gem](entities/six-zero-next-gem.md) | Coral (all-court), Black Opal (power), Ruby Pro (control/Gen3); Diamond Tough Grit |
 | [The Kitchen Pickleball](entities/the-kitchen-pickleball.md) | Bobby's paddle reviews + Kitchen Scorecard; Chris Cali's PPA recaps; firefight highlights |
 | [Cracked Pickleball](entities/cracked-pickleball.md) | Pro vs. amateur listicle format; paddle tracking; one-two punch; filmed in Honolulu |
-| [Ben Johns](entities/ben-johns.md) | Pro player; dominant hands battles; cited model for forehand counter mechanics in continental grip |
-| [Annalie Waters](entities/annalie-waters.md) | Pro player; two-handed backhand wall; firefight endurance; elite kitchen control |
+| [Ben Johns](entities/ben-johns.md) | Pro player; dominant hands battles; 10-rule strategy system; string theory partner movement; choke up at kitchen |
+| [Annalie Waters](entities/annalie-waters.md) | Pro player; two-handed backhand wall; lob serve pioneer (2026); ready position Level 3 benchmark |
+| [Hayden Patriquin](entities/hayden-patriquin.md) | Pro player; elbows-out hands battle mechanics; middle targeting vs Ben Johns; body-bag attacks |
+| [Dinkcredibles](entities/dinkcredibles.md) | Kieran's YouTube channel; D1 tennis + CSCS background; cooperative→competitive drill methodology; Pickleball Playbook guest |
 | [Trang Quinn](entities/trang-quinn.md) | #1 Vietnamese pro; 5.89 DUPR; timed drilling philosophy; reset bounce game |
 | [PaddleTek Honeyfoam](entities/paddletek-honeyfoam.md) | Soft-dense Gen 4; ~$250; discontinued fall 2026; 5.75 in handle; dual USAPA+UPAA (16mm) |
 | [Proton Peacock](entities/proton-peacock.md) | Full foam Gen 4; repriced to $127; lifetime warranty; 13mm and 15mm; elongated + widebody |

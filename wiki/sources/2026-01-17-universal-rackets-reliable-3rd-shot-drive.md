@@ -8,6 +8,30 @@ type: source
 date: 2026-01-17
 duration: "20:59"
 url: "https://www.youtube.com/watch?v=27b_eDeIjWk"
+tags:
+  - source
+  - universal-rackets
+  - third-shot
+  - drive
+
+youtube_tags:
+  - "How to Hit a Reliable 3rd Shot Drive in Pickleball | Forehand & Backhand"
+  - "pickleball 3rd shot drive"
+  - "3rd shot drive pickleball"
+  - "pickleball third shot drive"
+  - "pickleball third shot drive lessons"
+  - "3rd shot drop pickleball"
+  - "pickleball 3rd shot"
+  - "3rd shot pickleball"
+  - "3rd shot drive"
+  - "defending the 3rd shot drive"
+  - "drop shot 3rd shot drive"
+  - "how to play pickleball"
+  - "3rd shot drop vs drive"
+  - "3rd shot drop or drive"
+  - "third shot drop pickleball"
+  - "pickleball third shot drop"
+  - "universal rackets"
 ---
 
 # How to Hit a Reliable 3rd Shot Drive (Universal Rackets)

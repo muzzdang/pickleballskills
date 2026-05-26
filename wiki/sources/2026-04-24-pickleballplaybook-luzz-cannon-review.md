@@ -6,6 +6,22 @@ type: source
 date: 2026-04-24
 duration: "10:45"
 url: "https://www.youtube.com/watch?v=CyANMox81Is"
+tags:
+  - source
+  - baseline
+  - paddle
+
+youtube_tags:
+  - "Pickleball"
+  - "Paddle"
+  - "pickleball tournament"
+  - "pickleball instruction"
+  - "pickleball serve"
+  - "dinks"
+  - "drops"
+  - "drives"
+  - "fast hands"
+  - "pickleball drills"
 ---
 
 # Great Power...Lowest Price? Luzz Cannon Review

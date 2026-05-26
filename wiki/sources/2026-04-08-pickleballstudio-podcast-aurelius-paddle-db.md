@@ -6,6 +6,14 @@ type: source
 date: 2026-04-08
 duration: "1:30:04"
 url: "https://www.youtube.com/watch?v=OY3FxlDN_E0"
+tags:
+  - source
+  - paddle
+
+youtube_tags:
+  - "Pickleball"
+  - "The Pickleball Studio"
+  - "Pickleball tips"
 ---
 
 # Pickleball Studio Podcast E165 — Franklin Aurelius, Thrive Ignite & New Paddle Database

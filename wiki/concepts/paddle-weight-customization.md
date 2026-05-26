@@ -3,6 +3,8 @@ aliases: ["Paddle Weight Customization", "Adding Weight to Paddle", "Swing Weigh
 last_updated: 2026-05-17
 sources: 3
 type: concept
+tags:
+  - concept
 ---
 
 # Paddle Weight Customization

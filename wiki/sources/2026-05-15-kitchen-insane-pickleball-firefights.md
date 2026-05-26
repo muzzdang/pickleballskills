@@ -4,6 +4,11 @@ last_updated: 2026-05-23
 sources: 1
 video_id: XVxLKvM7X-8
 channel: The Kitchen Pickleball
+tags:
+  - source
+  - the-kitchen
+  - serve
+  - kitchen
 ---
 
 # Insane Pickleball Firefights

@@ -6,6 +6,33 @@ type: source
 date: 2026-04-29
 duration: "9:53"
 url: "https://www.youtube.com/watch?v=wOY4iqQJ-yI"
+tags:
+  - source
+  - kitchen
+  - placement
+  - paddle
+
+youtube_tags:
+  - "joola pro v"
+  - "joola pro 5"
+  - "new joola paddle"
+  - "ben johns"
+  - "ben johns paddle"
+  - "pickleball paddle"
+  - "pickleball paddle review"
+  - "pickleball highlights"
+  - "joola"
+  - "joola paddle"
+  - "joola new paddle"
+  - "joola pro 5 paddle"
+  - "joola pro v review"
+  - "joola pro 4"
+  - "joola pro 5 vs 4"
+  - "joola pro v vs iv"
+  - "joola agassi pro vs perseus"
+  - "pickleball paddle review 2026"
+  - "top pickleball paddles 2026"
+  - "pickleball gear testing"
 ---
 
 # JOOLA Pro V Review (The Kitchen)

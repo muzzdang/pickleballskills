@@ -3,6 +3,21 @@ aliases: ["The Kitchen Pickleball", "Bobby (The Kitchen)"]
 last_updated: 2026-05-23
 sources: 7
 type: entity
+tags:
+  - entity
+  - serve
+  - drive
+  - drop
+  - dink
+  - speedup
+  - reset
+  - putaway
+  - kitchen
+  - overhead
+  - review
+  - tournament
+  - paddle
+  - gear
 ---
 
 # The Kitchen Pickleball

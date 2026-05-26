@@ -3,6 +3,16 @@ aliases: ["Reset Mechanics", "How to Reset", "Resetting Hard Shots"]
 last_updated: 2026-05-01
 sources: 1
 type: concept
+tags:
+  - concept
+  - drive
+  - dink
+  - speedup
+  - reset
+  - kitchen
+  - paddle-face
+  - defense
+  - error-reduction
 ---
 
 # Reset Mechanics

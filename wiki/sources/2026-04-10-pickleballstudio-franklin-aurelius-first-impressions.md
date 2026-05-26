@@ -6,6 +6,14 @@ type: source
 date: 2026-04-10
 duration: "12:06"
 url: "https://www.youtube.com/watch?v=5ic19mvc3Ng"
+tags:
+  - source
+  - paddle
+
+youtube_tags:
+  - "Pickleball"
+  - "The Pickleball Studio"
+  - "Pickleball tips"
 ---
 
 # Franklin Aurelius 12.7mm First Impressions (Pickleball Studio)

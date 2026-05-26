@@ -4,6 +4,12 @@ last_updated: 2026-05-23
 sources: 1
 video_id: UjdZwT8u4xY
 channel: Pickleball Playbook
+tags:
+  - source
+  - drop
+  - dink
+  - reset
+  - error-reduction
 ---
 
 # These Drills Fix 95% of Errors in Pickleball

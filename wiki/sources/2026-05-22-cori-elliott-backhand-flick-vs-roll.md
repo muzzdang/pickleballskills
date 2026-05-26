@@ -4,6 +4,12 @@ last_updated: 2026-05-23
 sources: 1
 video_id: DAFHOjmTFhI
 channel: Cori Elliott
+tags:
+  - source
+  - cori-elliott
+  - backhand
+  - wrist
+  - error-reduction
 ---
 
 # Stop Using the Wrong Backhand (Do This Instead)

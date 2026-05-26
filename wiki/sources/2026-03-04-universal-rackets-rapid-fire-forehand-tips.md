@@ -8,6 +8,33 @@ type: source
 date: 2026-03-04
 duration: "7:49"
 url: "https://www.youtube.com/watch?v=xQFlO1dPGbY"
+tags:
+  - source
+  - universal-rackets
+  - forehand
+  - paddle
+
+youtube_tags:
+  - "Rapid Fire Forehand Tips to Instantly Improve Your Pickleball Forehand Drive"
+  - "pickleball forehand drive"
+  - "pickleball forehand"
+  - "forehand pickleball"
+  - "pickleball drives"
+  - "pickleball rules"
+  - "pickleball tutorial"
+  - "pickleball doubles"
+  - "pickleball lesson"
+  - "universal rackets"
+  - "Pickleball Forehand Drive"
+  - "pickleball strategy"
+  - "pickleball for beginners"
+  - "pickleball"
+  - "how to play pickleball"
+  - "pickleball tips"
+  - "pickleball highlights"
+  - "pickleball instruction"
+  - "pickleball basics"
+  - "pickleball drills"
 ---
 
 # Rapid Fire Forehand Tips (Universal Rackets)

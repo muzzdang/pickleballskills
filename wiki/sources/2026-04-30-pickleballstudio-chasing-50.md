@@ -6,6 +6,17 @@ type: source
 date: 2026-04-30
 duration: "11:31"
 url: "https://www.youtube.com/watch?v=Y-TMfukSwrM"
+tags:
+  - source
+  - review
+  - tournament
+  - paddle
+  - gear
+
+youtube_tags:
+  - "Pickleball"
+  - "The Pickleball Studio"
+  - "Pickleball tips"
 ---
 
 # What Happened to Chasing 5.0 (Pickleball Studio)

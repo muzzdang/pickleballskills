@@ -3,6 +3,9 @@ aliases: ["Court Angles", "Angles"]
 last_updated: 2026-05-01
 sources: 1
 type: concept
+tags:
+  - concept
+  - error-reduction
 ---
 
 # Court Angles

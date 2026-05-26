@@ -6,6 +6,14 @@ type: source
 date: 2026-04-30
 duration: "14:35"
 url: "https://www.youtube.com/watch?v=e6v3t9T5fsg"
+tags:
+  - source
+  - topspin
+  - kinetic-chain
+  - paddle
+
+youtube_tags:
+  - "pickleball"
 ---
 
 <!-- last updated: 2026-05-01, sources: 1 -->

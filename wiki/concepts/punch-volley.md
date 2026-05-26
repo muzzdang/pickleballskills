@@ -3,6 +3,15 @@ aliases: ["Punch Volley", "Backhand Punch Volley", "BH Punch Volley"]
 last_updated: 2026-05-10
 sources: 1
 type: concept
+tags:
+  - concept
+  - volley
+  - reset
+  - punch-volley
+  - kitchen
+  - backhand
+  - slice
+  - wrist
 ---
 
 # Punch Volley

@@ -3,6 +3,13 @@ aliases: ["Slice Return", "Backhand Slice Return", "Cut Return"]
 last_updated: 2026-05-10
 sources: 1
 type: concept
+tags:
+  - concept
+  - serve
+  - kitchen
+  - paddle-face
+  - slice
+  - return
 ---
 
 # Slice Return

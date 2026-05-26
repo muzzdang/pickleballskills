@@ -6,6 +6,13 @@ type: source
 date: 2026-02-26
 duration: "15:19"
 url: "https://www.youtube.com/watch?v=s9p4ABM_M7E"
+tags:
+  - source
+  - serve
+  - wrist
+  - paddle
+
+youtube_tags: []
 ---
 
 # Top 9 Rule Changes for 2026 (Cracked Pickleball)

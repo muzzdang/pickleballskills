@@ -8,6 +8,34 @@ type: source
 date: 2026-03-06
 duration: "22:23"
 url: "https://www.youtube.com/watch?v=-6Ds4zLboY0"
+tags:
+  - source
+  - universal-rackets
+  - volley
+  - decision-making
+  - paddle
+
+youtube_tags:
+  - "What To Do When Your Opponent Hits at Your Feet"
+  - "what to do when your opponent hits at your feet"
+  - "pickleball strategy"
+  - "how to play pickleball"
+  - "pickleball"
+  - "pickleball lesson"
+  - "pickleball tips"
+  - "popping the ball up"
+  - "pickleball pop up"
+  - "pickleball popup"
+  - "pickleball beginner"
+  - "pickleball technique"
+  - "pickleball for beginners"
+  - "pickleball skills"
+  - "pickleball drills"
+  - "learn pickleball"
+  - "pickleball tutorial"
+  - "universal rackets"
+  - "professional pickleball"
+  - "pickleball game"
 ---
 
 # What To Do When Your Opponent Hits at Your Feet (Universal Rackets)

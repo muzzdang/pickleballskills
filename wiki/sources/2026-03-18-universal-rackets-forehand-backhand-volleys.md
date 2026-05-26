@@ -8,6 +8,32 @@ type: source
 date: 2026-03-18
 duration: "27:16"
 url: "https://www.youtube.com/watch?v=e2EftsV0CrE"
+tags:
+  - source
+  - universal-rackets
+  - volley
+  - forehand
+  - backhand
+  - paddle
+
+youtube_tags:
+  - "How to Hit Forehand & Backhand Volleys in Pickleball (Fast Hands & What to Do When Attacked)"
+  - "how to hit forehands in pickleball"
+  - "how to volley in pickleball"
+  - "how to hit a forehand"
+  - "backhands in pickleball"
+  - "fast hands pickleball"
+  - "faster hands pickleball"
+  - "how to get better at pickleball"
+  - "how to play pickleball"
+  - "how to improve pickleball"
+  - "universal rackets"
+  - "pickleball"
+  - "Quick Hands at the Net"
+  - "Forehand & Backhand Technique"
+  - "pickleball instruction"
+  - "pickleball basics"
+  - "pickleball tips"
 ---
 
 # How to Hit Forehand and Backhand Volleys (Universal Rackets)

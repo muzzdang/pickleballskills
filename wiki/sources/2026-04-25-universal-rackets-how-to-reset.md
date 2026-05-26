@@ -6,6 +6,32 @@ type: source
 date: 2026-04-25
 duration: "16:24"
 url: "https://www.youtube.com/watch?v=e6sSNUd2mRc"
+tags:
+  - source
+  - reset
+  - paddle-face
+  - paddle
+
+youtube_tags:
+  - "How to Reset Any Hard Shot Hit at Your Body — Step-by-Step"
+  - "how to hit your driver"
+  - "how to hit driver further"
+  - "how to hit driver straight"
+  - "how to get aimbot in fortnite"
+  - "how to use zepbound pen"
+  - "pickleball tips"
+  - "pickleball spin"
+  - "pickleball basics"
+  - "pickleball 4.0"
+  - "pickleball drills"
+  - "pickleball rules"
+  - "learn pickleball"
+  - "pickleball highlights"
+  - "pickleball spin serve"
+  - "enhance pickleball"
+  - "universal rackets"
+  - "how to shoot basketball"
+  - "how to score in basketball"
 ---
 
 # How to Reset Any Hard Shot (Universal Rackets)

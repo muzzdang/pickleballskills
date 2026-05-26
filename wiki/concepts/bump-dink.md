@@ -3,6 +3,14 @@ aliases: ["Bump Dink", "The Bump", "Bump Volley"]
 last_updated: 2026-05-10
 sources: 1
 type: concept
+tags:
+  - concept
+  - drive
+  - dink
+  - kitchen
+  - paddle-face
+  - slice
+  - wrist
 ---
 
 # Bump Dink

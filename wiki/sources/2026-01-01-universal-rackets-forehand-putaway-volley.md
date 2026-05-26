@@ -8,6 +8,33 @@ type: source
 date: 2026-01-01
 duration: "14:30"
 url: "https://www.youtube.com/watch?v=r-YsJUwYne0"
+tags:
+  - source
+  - universal-rackets
+  - volley
+  - putaway
+  - forehand
+  - wrist
+  - paddle
+
+youtube_tags:
+  - "How to Hit a Forehand Putaway Volley in Pickleball | Finish Points with Confidence"
+  - "How to Hit a Forehand Putaway Volley in Pickleball"
+  - "how to volley in pickleball"
+  - "pickleball forehand punch volley"
+  - "how to play pickleball"
+  - "how to improve pickleball"
+  - "how to get better at pickleball"
+  - "pickleball forehand"
+  - "pickleball volley"
+  - "how to volley"
+  - "pickleball punch volley"
+  - "pickleball volley grip"
+  - "pickleball volley drills"
+  - "forehand volley"
+  - "pickleball volley technique"
+  - "pickleball"
+  - "universalracket"
 ---
 
 # How to Hit a Forehand Putaway Volley (Universal Rackets)

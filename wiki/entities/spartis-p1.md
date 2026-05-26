@@ -3,6 +3,10 @@ aliases: ["Spartis P1", "Spartis P-1"]
 last_updated: 2026-05-23
 sources: 1
 type: entity
+tags:
+  - entity
+  - offense
+  - paddle
 ---
 
 # Spartis P1

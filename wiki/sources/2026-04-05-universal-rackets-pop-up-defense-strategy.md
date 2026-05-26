@@ -8,6 +8,32 @@ type: source
 date: 2026-04-05
 duration: "18:42"
 url: "https://www.youtube.com/watch?v=CUpoTnXWSEQ"
+tags:
+  - source
+  - universal-rackets
+  - defense
+
+youtube_tags:
+  - "The Pop Up Defense Strategy Every Pickleball Player Needs"
+  - "What to Do When You Pop the Ball Up"
+  - "pickleball mistakes"
+  - "pickleball instruction"
+  - "pickleball technique"
+  - "pickleball tips"
+  - "pickleball drills"
+  - "pickleball for beginners"
+  - "pickleball coaching"
+  - "pickleball serve tips"
+  - "pickleball strategy"
+  - "pickleball lesson"
+  - "learn pickleball"
+  - "pickleball"
+  - "pickleball training"
+  - "pickleball game"
+  - "pickleball rules"
+  - "pickleball basics"
+  - "pickleball tricks"
+  - "how to play pickleball"
 ---
 
 # The Pop Up Defense Strategy (Universal Rackets)

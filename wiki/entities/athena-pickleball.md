@@ -3,6 +3,9 @@ aliases: ["Athena Pickleball", "Coach Jess"]
 last_updated: 2026-05-23
 sources: 2
 type: entity
+tags:
+  - entity
+  - decision-making
 ---
 
 # Athena Pickleball

@@ -7,6 +7,14 @@ url: https://www.youtube.com/watch?v=xTgBWGCTa0k
 upload_date: 2026-05-15
 duration: 00:08:42
 fetched_date: 2026-05-23
+aliases:
+  - "Backhand Flick Finally"
+tags:
+  - source
+  - mari-humberg
+  - backhand
+
+youtube_tags: []
 ---
 
 # The Mari Humberg Backhand Flick Guide (FINALLY)

@@ -7,6 +7,34 @@ url: https://www.youtube.com/watch?v=26YufMNcs4s
 upload_date: 2026-05-07
 duration: 28:43
 fetched_date: 2026-05-16
+aliases:
+  - "Backhand Keeps Letting Fix"
+tags:
+  - source
+  - universal-rackets
+  - backhand
+
+youtube_tags:
+  - "Why Your Backhand Keeps Letting You Down — Complete Fix"
+  - "pickleball backhand"
+  - "pickleball training"
+  - "pickleball beginner"
+  - "pickleball drop shot"
+  - "pickleball for beginners"
+  - "pickleball technique"
+  - "pickleball drills for beginners"
+  - "pickleball volley"
+  - "pickleball mistakes"
+  - "pickleball"
+  - "pickleball game"
+  - "pickleball tips"
+  - "pickleball players"
+  - "pickleball scoring"
+  - "pickleball paddle"
+  - "pickleball skills"
+  - "pickleball 5.0"
+  - "pickleball coach"
+  - "pickleball tournament"
 ---
 
 # Why Your Backhand Keeps Letting You Down — Complete Fix

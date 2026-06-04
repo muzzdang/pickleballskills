@@ -1,0 +1,10 @@
+{
+  "useMarkdownLinks": false,
+  "legacyEditor": false,
+  "defaultViewMode": "preview",
+  "attachmentFolderPath": "assets",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "livePreview": true
+}

@@ -7,6 +7,17 @@ url: https://www.youtube.com/watch?v=FdFMP24Pgb4
 upload_date: 2026-05-15
 duration: 00:08:15
 fetched_date: 2026-05-23
+aliases:
+  - "Paddletek Honeyfoam Tko-X 16Mm"
+tags:
+  - source
+  - pickleball-studio
+  - paddle
+
+youtube_tags:
+  - "Pickleball"
+  - "The Pickleball Studio"
+  - "Pickleball tips"
 ---
 
 # PaddleTek Honeyfoam TKO-X 16mm First Impressions

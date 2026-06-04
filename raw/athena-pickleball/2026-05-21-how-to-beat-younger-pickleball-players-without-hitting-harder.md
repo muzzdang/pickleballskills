@@ -7,6 +7,13 @@ url: https://www.youtube.com/watch?v=GGKYFOS0jeI
 upload_date: 2026-05-21
 duration: 00:11:26
 fetched_date: 2026-05-23
+aliases:
+  - "Beat"
+tags:
+  - source
+  - athena-pickleball
+
+youtube_tags: []
 ---
 
 # HOW TO BEAT YOUNGER PICKLEBALL PLAYERS WITHOUT HITTING HARDER

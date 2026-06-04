@@ -7,6 +7,37 @@ url: https://www.youtube.com/watch?v=YemPuRFAiYA
 upload_date: 2026-04-22
 duration: 20:23
 fetched_date: 2026-05-16
+aliases:
+  - "Missing 3Rd Shot Drive"
+tags:
+  - source
+  - universal-rackets
+  - third-shot
+  - drive
+  - forehand
+  - backhand
+
+youtube_tags:
+  - "Stop Missing Your 3rd Shot Drive! (Forehand & Backhand Fixes That Work)"
+  - "pickleball training"
+  - "pickleball for beginners"
+  - "pickleball"
+  - "pickleball tips"
+  - "pickleball technique"
+  - "pickleball review"
+  - "5.0 pickleball"
+  - "how to play pickleball"
+  - "pickleball rules"
+  - "pickleball points"
+  - "3rd shot drop pickleball"
+  - "third shot drop"
+  - "how to hit driver"
+  - "pickleball highlights"
+  - "pickleball drills"
+  - "pickleball serving"
+  - "pickleball serve"
+  - "universal rackets"
+  - "pickleball game"
 ---
 
 # Stop Missing Your 3rd Shot Drive! (Forehand & Backhand Fixes That Work)

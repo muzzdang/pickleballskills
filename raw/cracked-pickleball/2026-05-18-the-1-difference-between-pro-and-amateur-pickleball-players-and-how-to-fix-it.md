@@ -7,6 +7,15 @@ url: https://www.youtube.com/watch?v=lnAzc-bKMlc
 upload_date: 2026-05-18
 duration: 00:16:40
 fetched_date: 2026-05-23
+aliases:
+  - "Difference Between Pro Amateur"
+tags:
+  - advanced
+  - cracked-pickleball
+  - source
+
+youtube_tags:
+  - "pickleball"
 ---
 
 # The #1 Difference Between Pro and Amateur Pickleball Players (and how to fix it)

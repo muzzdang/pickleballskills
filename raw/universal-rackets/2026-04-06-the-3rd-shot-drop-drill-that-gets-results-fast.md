@@ -7,6 +7,35 @@ url: https://www.youtube.com/watch?v=1TX4G-BB0Rg
 upload_date: 2026-04-06
 duration: 29:48
 fetched_date: 2026-05-16
+aliases:
+  - "3Rd Shot Drop Drill"
+tags:
+  - source
+  - universal-rackets
+  - third-shot
+  - drop
+
+youtube_tags:
+  - "The 3rd Shot Drop Drill That Gets Results FAST"
+  - "How to Hit the Perfect 3rd Shot Drop"
+  - "pickleball strategy"
+  - "pickleball tips"
+  - "pickleball training"
+  - "pickleball drills"
+  - "pickleball for beginners"
+  - "pickleball coaching"
+  - "how to play pickleball"
+  - "pickleball rules"
+  - "pickleball serve"
+  - "pickleball tips doubles"
+  - "pickleball"
+  - "third shot drop"
+  - "pickleball serve tips"
+  - "pickleball basics"
+  - "pickleball matches"
+  - "pickleball highlights"
+  - "pickleball instruction"
+  - "pickleball scoring"
 ---
 
 # The 3rd Shot Drop Drill That Gets Results FAST | How to Hit the Perfect 3rd Shot Drop

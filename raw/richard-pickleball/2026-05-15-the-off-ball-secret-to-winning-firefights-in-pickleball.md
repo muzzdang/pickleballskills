@@ -7,6 +7,13 @@ url: https://www.youtube.com/watch?v=aR_EMjjSo4E
 upload_date: 2026-05-15
 duration: 00:09:07
 fetched_date: 2026-05-23
+aliases:
+  - "Off Firefights"
+tags:
+  - source
+  - richard-pickleball
+
+youtube_tags: []
 ---
 
 # The OFF BALL Secret to Winning Firefights in Pickleball

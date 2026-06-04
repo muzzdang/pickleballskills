@@ -7,6 +7,33 @@ url: https://www.youtube.com/watch?v=bvCU39st_Bs
 upload_date: 2026-01-04
 duration: 43:00
 fetched_date: 2026-05-16
+aliases:
+  - "Game"
+tags:
+  - source
+  - universal-rackets
+
+youtube_tags:
+  - "Pickleball Secrets That Will TAKE Your Game to the Next Level"
+  - "pickleball secrets that will take your game to the next level"
+  - "pickleball strategy"
+  - "how to play pickleball"
+  - "pickleball game"
+  - "pickleball court"
+  - "pickleball mistakes"
+  - "pickleball tournament"
+  - "pickleball gameplay"
+  - "pickleball gameplay tips"
+  - "total pickleball"
+  - "pickleball skills"
+  - "pickleball drills"
+  - "pickleball"
+  - "pickleball pro tips"
+  - "pickleball lessons"
+  - "pickleball rules"
+  - "Pickleball Secrets"
+  - "universalrackets"
+  - "pickleball basics"
 ---
 
 # Pickleball Secrets That Will TAKE Your Game to the Next Level

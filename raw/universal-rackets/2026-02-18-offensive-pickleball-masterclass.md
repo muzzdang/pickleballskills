@@ -7,6 +7,35 @@ url: https://www.youtube.com/watch?v=Ftwc7VVwp1o
 upload_date: 2026-02-18
 duration: 13:34
 fetched_date: 2026-05-16
+aliases:
+  - "Offensive Masterclass Aggressive Away"
+tags:
+  - offense
+  - pattern-play
+  - putaway
+  - source
+  - universal-rackets
+
+youtube_tags:
+  - "Offensive Pickleball Masterclass How to Be Aggressive & Put Away More Balls"
+  - "Offensive Pickleball Masterclass"
+  - "offensive pickleball masterclass"
+  - "how to play pickleball"
+  - "pickleball"
+  - "universal rackets"
+  - "professional pickleball"
+  - "pickleball strategy"
+  - "pickleball tips"
+  - "pickleball for beginners"
+  - "pickleball rules"
+  - "pickleball coaching"
+  - "pickleball highlights"
+  - "pickleball drills"
+  - "pickleball instruction"
+  - "pickleball game"
+  - "pickleball basics"
+  - "pickleball matches"
+  - "pickleball training"
 ---
 
 # Offensive Pickleball Masterclass | How to Be Aggressive & Put Away More Balls

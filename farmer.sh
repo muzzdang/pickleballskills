@@ -5,8 +5,8 @@
 YTDLP="/c/Users/Admin/AppData/Local/Microsoft/WinGet/Packages/yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe/yt-dlp.exe"
 NODE="/c/Program Files/nodejs/node.exe"
 RAW_DIR="/c/Users/Admin/pickleball-wiki/raw"
-TODAY="2026-05-10"
-CUTOFF_RAW="20260509"  # 24 hours ago from 2026-05-10
+TODAY="2026-05-23"
+CUTOFF_RAW="20260514"  # catch-up run: last ~9 days
 
 mkdir -p "$RAW_DIR"
 
@@ -107,7 +107,7 @@ for CHANNEL_URL in "${CHANNELS[@]}"; do
   # Get 5 most recent video IDs
   VIDEO_IDS=$("$YTDLP" \
     --flat-playlist \
-    --playlist-end 5 \
+    --playlist-end 10 \
     --print "%(id)s" \
     --no-warnings \
     "${CHANNEL_URL}/videos" 2>/dev/null)

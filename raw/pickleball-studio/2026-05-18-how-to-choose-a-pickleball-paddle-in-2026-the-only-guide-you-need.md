@@ -7,6 +7,17 @@ url: https://www.youtube.com/watch?v=O3ND_AVkP0s
 upload_date: 2026-05-18
 duration: 00:17:02
 fetched_date: 2026-05-23
+aliases:
+  - "Choose Paddle"
+tags:
+  - source
+  - pickleball-studio
+  - paddle
+
+youtube_tags:
+  - "Pickleball"
+  - "The Pickleball Studio"
+  - "Pickleball tips"
 ---
 
 # How To Choose A Pickleball Paddle In 2026 (The Only Guide You Need)

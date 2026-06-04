@@ -7,6 +7,34 @@ url: https://www.youtube.com/watch?v=DJkdVjqn-NM
 upload_date: 2026-05-19
 duration: 00:06:40
 fetched_date: 2026-05-23
+aliases:
+  - "Proton Peacock Got Second"
+tags:
+  - advanced
+  - review
+  - source
+  - the-kitchen
+
+youtube_tags:
+  - "pickleball paddle review 2026"
+  - "top pickleball paddles 2026"
+  - "pickleball gear testing"
+  - "pickleball power paddle"
+  - "pickleball"
+  - "the kitchen pickleball"
+  - "proton pickleball paddle"
+  - "proton project peacock pickleball paddle"
+  - "proton project peacock"
+  - "proton"
+  - "proton peacock pickleball"
+  - "proton paddle review"
+  - "pickleball paddle"
+  - "best pickleball paddle 2026"
+  - "pickleball paddle review"
+  - "affordable pickleball paddle"
+  - "budget pickleball paddle"
+  - "best paddle for pickleball"
+  - "cheap pickleball paddle"
 ---
 
 # The Proton Peacock Just Got a SECOND LIFE | Full Review

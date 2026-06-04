@@ -7,6 +7,14 @@ url: https://www.youtube.com/watch?v=fYD0ta7xn9Y
 upload_date: 2026-05-23
 duration: 00:10:39
 fetched_date: 2026-05-24
+aliases:
+  - "Forehand Counter Skill Hands"
+tags:
+  - source
+  - richard-pickleball
+  - forehand
+
+youtube_tags: []
 ---
 
 # Master the Forehand Counter in Pickleball: The #1 Skill for good Hands

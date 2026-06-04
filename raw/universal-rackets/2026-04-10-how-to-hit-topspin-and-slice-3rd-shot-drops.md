@@ -7,6 +7,38 @@ url: https://www.youtube.com/watch?v=I7HsOYsGD-c
 upload_date: 2026-04-10
 duration: 15:00
 fetched_date: 2026-05-16
+aliases:
+  - "Topspin Slice 3Rd Shot"
+tags:
+  - drop
+  - slice
+  - source
+  - spin
+  - third-shot
+  - topspin
+  - universal-rackets
+
+youtube_tags:
+  - "How to Hit Topspin & Slice 3rd Shot Drops (Step-by-Step for All Levels)"
+  - "learn pickleball"
+  - "pickleball channel"
+  - "pickleball instruction"
+  - "3rd shot drop pickleball"
+  - "third shot drops"
+  - "pickleball 3rd shot drop"
+  - "pickleball dink"
+  - "pickleballers"
+  - "pickleball lesson"
+  - "pickleball basics"
+  - "pickleball serve"
+  - "pickleball tips"
+  - "pickleball pro"
+  - "pickleball 4.0"
+  - "pickel ball tips"
+  - "third shot drop pickleball"
+  - "pickle ball"
+  - "pickleball mistakes"
+  - "universal rackets"
 ---
 
 # How to Hit Topspin & Slice 3rd Shot Drops (Step-by-Step for All Levels)

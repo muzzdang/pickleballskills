@@ -7,6 +7,36 @@ url: https://www.youtube.com/watch?v=EWe4Df5dxwQ
 upload_date: 2026-05-18
 duration: 00:13:35
 fetched_date: 2026-05-23
+aliases:
+  - "Topspin Flat Slice Spin"
+tags:
+  - slice
+  - source
+  - spin
+  - topspin
+  - universal-rackets
+
+youtube_tags:
+  - "Topspin vs Flat vs Slice — When to Use Each Shot in Pickleball"
+  - "pickleball how to play"
+  - "pickleball basics"
+  - "pickleball for beginners"
+  - "how to play pickleball"
+  - "pickel ball tips"
+  - "pickleball rules"
+  - "pickleball drills"
+  - "pickleball gameplay"
+  - "learn pickleball"
+  - "pickleball highlights"
+  - "how to play pickleball for beginners"
+  - "pickleball help"
+  - "pickleball tips and tricks"
+  - "pickleball drop shot"
+  - "pickleball shots"
+  - "padel vs pickleball"
+  - "universal rackets"
+  - "pickleball with tyler"
+  - "pickleball game"
 ---
 
 # Topspin vs Flat vs Slice When and How to Use Each Spin in Pickleball

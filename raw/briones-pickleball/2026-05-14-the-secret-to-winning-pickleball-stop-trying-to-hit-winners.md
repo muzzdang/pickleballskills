@@ -7,6 +7,33 @@ url: https://www.youtube.com/watch?v=WdCSjucEQ-s
 upload_date: 2026-05-14
 duration: 00:08:20
 fetched_date: 2026-05-23
+aliases:
+  - "Trying Winners"
+tags:
+  - source
+  - briones-pickleball
+
+youtube_tags:
+  - "briones pickleball"
+  - "jordan briones"
+  - "jordan pickleball"
+  - "primetime pickleball"
+  - "prime time pickleball"
+  - "pickleball"
+  - "usapa"
+  - "ben johns"
+  - "pickleball strategy"
+  - "dink"
+  - "volley"
+  - "3rd shot"
+  - "3rd shot drop"
+  - "third shot drop"
+  - "serve"
+  - "return"
+  - "drives"
+  - "forehand"
+  - "backhand"
+  - "reset shot"
 ---
 
 # The Secret to Winning Pickleball: Stop Trying to Hit Winners

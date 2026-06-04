@@ -7,6 +7,33 @@ url: https://www.youtube.com/watch?v=xvOpeDGYUzo
 upload_date: 2026-04-28
 duration: 13:09
 fetched_date: 2026-05-16
+aliases:
+  - "Missing Dink Fix It"
+tags:
+  - source
+  - universal-rackets
+  - dink
+
+youtube_tags:
+  - "The 1 Reason You Keep Missing Your Dink (And How to Fix It)"
+  - "how to serve in pickleball"
+  - "pickleball tips"
+  - "pickleball dink"
+  - "pickleball dinking"
+  - "pickleball basics"
+  - "how to dink in pickleball"
+  - "pickleball tips 4.0"
+  - "pickleball serve"
+  - "learn pickleball"
+  - "pickleball tips to improve your game"
+  - "how to play pickleball for beginners"
+  - "pickleball tournament"
+  - "rules of pickleball"
+  - "pickleballers"
+  - "pickleball training"
+  - "pickleball highlights"
+  - "pickleball with tyler"
+  - "universal rackets"
 ---
 
 # The 1 Reason You Keep Missing Your Dink (And How to Fix It)

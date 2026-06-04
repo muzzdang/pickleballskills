@@ -7,6 +7,35 @@ url: https://www.youtube.com/watch?v=H-Md2sxFVsk
 upload_date: 2026-04-15
 duration: 15:19
 fetched_date: 2026-05-16
+aliases:
+  - "Angled Crosscourt Drives Drops"
+tags:
+  - source
+  - universal-rackets
+  - drive
+  - drop
+
+youtube_tags:
+  - "How to Hit Angled Crosscourt Drives & Drops in Pickleball (Pull Opponents Off the Court)"
+  - "pickleball strategy"
+  - "pickleball skills"
+  - "pickleball serve tips"
+  - "how to play pickleball"
+  - "pickleball how to play"
+  - "pickleball drive"
+  - "pickleball drills"
+  - "pickleball court positioning"
+  - "pickleball singles"
+  - "pickleball"
+  - "professional pickleball"
+  - "pickleball highlights"
+  - "pickleball dink"
+  - "pickleball basics"
+  - "pickleball training"
+  - "pickleballers"
+  - "pickleball paddles"
+  - "pickleball 5.0"
+  - "universal rackets"
 ---
 
 # How to Hit Angled Crosscourt Drives & Drops in Pickleball (Pull Opponents Off the Court)

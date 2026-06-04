@@ -7,6 +7,14 @@ url: https://www.youtube.com/watch?v=TNwyU5qGbgY
 upload_date: 2026-05-22
 duration: 00:09:13
 fetched_date: 2026-05-23
+aliases:
+  - "Drilling Intention Part Dinks"
+tags:
+  - source
+  - mari-humberg
+  - dink
+
+youtube_tags: []
 ---
 
 # Drilling with Intention Part 1: DINKS

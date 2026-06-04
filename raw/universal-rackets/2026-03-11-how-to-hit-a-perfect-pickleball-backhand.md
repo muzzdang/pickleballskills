@@ -7,6 +7,38 @@ url: https://www.youtube.com/watch?v=VsOhdVkHGDk
 upload_date: 2026-03-11
 duration: 39:24
 fetched_date: 2026-05-16
+aliases:
+  - "Perfect Backhand Dinks Drives"
+tags:
+  - backhand
+  - dink
+  - drive
+  - pattern-play
+  - source
+  - universal-rackets
+  - volley
+
+youtube_tags:
+  - "How to Hit a Perfect Pickleball Backhand"
+  - "how to play pickleball"
+  - "pickleball backhand"
+  - "pickleball"
+  - "pickleball strategy"
+  - "pickleball tips"
+  - "pickleball skills"
+  - "pickleball for beginners"
+  - "pickleball dink"
+  - "professional pickleball"
+  - "pickleball volley"
+  - "pickleball basics"
+  - "pickleball rules"
+  - "pickleball channel"
+  - "how to pickleball"
+  - "pickleball how to play"
+  - "pickleball court dimensions"
+  - "drop"
+  - "pickleball doubles tips"
+  - "pickleball paddle"
 ---
 
 # How to Hit a Perfect Pickleball Backhand | Dinks, Drives & Volleys Masterclass

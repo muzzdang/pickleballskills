@@ -7,6 +7,35 @@ url: https://www.youtube.com/watch?v=vzU6-yChofo
 upload_date: 2026-03-02
 duration: 19:17
 fetched_date: 2026-05-16
+aliases:
+  - "Speedups Anticipation Strategy"
+tags:
+  - pattern-play
+  - source
+  - speedup
+  - universal-rackets
+
+youtube_tags:
+  - "How to Win More Points in Pickleball"
+  - "Speedups"
+  - "Anticipation & Point Strategy"
+  - "how to play pickleball"
+  - "pickleball how to play"
+  - "pickleball points"
+  - "pickleball game"
+  - "pickleball coaching"
+  - "pickleball highlights"
+  - "pickleball skills"
+  - "pickleball strategy"
+  - "tips"
+  - "pickleball tips"
+  - "how to play pickleball for beginners"
+  - "pickleball for beginners"
+  - "pickleball drills"
+  - "pickleball"
+  - "pickleball gameplay"
+  - "pickleball basics"
+  - "pickleball rules"
 ---
 
 # How to Win More Points in Pickleball | Speedups, Anticipation & Point Strategy

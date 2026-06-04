@@ -7,6 +7,35 @@ url: https://www.youtube.com/watch?v=PStvCNTjFLQ
 upload_date: 2026-04-01
 duration: 29:31
 fetched_date: 2026-05-16
+aliases:
+  - "Dominate Kitchen Popping Have"
+tags:
+  - source
+  - universal-rackets
+  - kitchen
+  - footwork
+
+youtube_tags:
+  - "How to Dominate the Kitchen in Pickleball (Stop Popping Up"
+  - "Win More Points & Have Better Footwork)"
+  - "pickleball reset"
+  - "pickleball basics"
+  - "pickleball rules"
+  - "how to play pickleball"
+  - "pickleball footwork"
+  - "pickleball tips"
+  - "pickleball lesson"
+  - "learn pickleball"
+  - "pickleball for beginners"
+  - "pickleball skills"
+  - "pickleball kitchen"
+  - "pickleball kitchen rules"
+  - "pickleball"
+  - "pickleball instruction"
+  - "pickleball coaching"
+  - "pickleball game"
+  - "pickleball beginner"
+  - "pickleball strategy"
 ---
 
 # How to Dominate the Kitchen in Pickleball (Stop Popping Up, Win More Points & Have Better Footwork)

@@ -7,6 +7,33 @@ url: https://www.youtube.com/watch?v=5Ek28q1U974
 upload_date: 2026-05-11
 duration: 17:25
 fetched_date: 2026-05-16
+aliases:
+  - "Shots Must Move"
+tags:
+  - source
+  - universal-rackets
+
+youtube_tags:
+  - "The 3 Shots You Must Master to Move Up a Level in Pickleball"
+  - "pickleball"
+  - "pickleball highlights"
+  - "how to play pickleball"
+  - "pickleball tips"
+  - "pickleball 5.0"
+  - "pickleball tutorial"
+  - "pickleball rules"
+  - "backhand"
+  - "pickleball strategy"
+  - "pickleball tournament"
+  - "pickleball lesson"
+  - "pickleball basics"
+  - "pickleball drills"
+  - "pickleball serve"
+  - "pickleball training"
+  - "enhance pickleball"
+  - "professional pickleball"
+  - "pickleball for beginners"
+  - "pickleball paddles"
 ---
 
 # The 3 Shots You Must Master to Move Up a Level in Pickleball

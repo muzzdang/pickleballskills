@@ -7,6 +7,35 @@ url: https://www.youtube.com/watch?v=CUpoTnXWSEQ
 upload_date: 2026-04-05
 duration: 18:42
 fetched_date: 2026-05-16
+aliases:
+  - "Pop Defense Strategy Needs"
+tags:
+  - defense
+  - pattern-play
+  - source
+  - universal-rackets
+
+youtube_tags:
+  - "The Pop Up Defense Strategy Every Pickleball Player Needs"
+  - "What to Do When You Pop the Ball Up"
+  - "pickleball mistakes"
+  - "pickleball instruction"
+  - "pickleball technique"
+  - "pickleball tips"
+  - "pickleball drills"
+  - "pickleball for beginners"
+  - "pickleball coaching"
+  - "pickleball serve tips"
+  - "pickleball strategy"
+  - "pickleball lesson"
+  - "learn pickleball"
+  - "pickleball"
+  - "pickleball training"
+  - "pickleball game"
+  - "pickleball rules"
+  - "pickleball basics"
+  - "pickleball tricks"
+  - "how to play pickleball"
 ---
 
 # The Pop Up Defense Strategy Every Pickleball Player Needs | What to Do When You Pop the Ball Up

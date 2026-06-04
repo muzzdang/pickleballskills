@@ -7,6 +7,34 @@ url: https://www.youtube.com/watch?v=SxNbH0ObZRI
 upload_date: 2026-03-20
 duration: 20:15
 fetched_date: 2026-05-16
+aliases:
+  - "Aggressive Shots Arent Working"
+tags:
+  - source
+  - universal-rackets
+  - offense
+
+youtube_tags:
+  - "Why Your Aggressive Shots Aren't Working (It's Not What You Think)"
+  - "pickleball trick shots"
+  - "improve your pickleball"
+  - "how to dink in pickleball"
+  - "pickleball third shot drop"
+  - "improve in pickleball"
+  - "pickleball dink shot"
+  - "pickleball training"
+  - "pickleball"
+  - "universal rackets"
+  - "pickleball tips"
+  - "how to play pickleball"
+  - "pickleball drop shot"
+  - "pickleball strategy"
+  - "pickleball coaching"
+  - "pickleball rules"
+  - "pickleball lesson"
+  - "pickleball basics"
+  - "pickleball tutorial"
+  - "pickleball for beginners"
 ---
 
 # Why Your Aggressive Shots Aren't Working (It's Not What You Think)

@@ -7,6 +7,13 @@ url: https://www.youtube.com/watch?v=fPSnEeSxtfA
 upload_date: 2026-02-13
 duration: 35:06
 fetched_date: 2026-05-16
+aliases:
+  - "Stubborn Habits Losing Matches"
+tags:
+  - source
+  - universal-rackets
+
+youtube_tags: []
 ---
 
 # Stubborn Pickleball Habits Losing You Matches | Fundamentals, Technique & Mindset Fixes

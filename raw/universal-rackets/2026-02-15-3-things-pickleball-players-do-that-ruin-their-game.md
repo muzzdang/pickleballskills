@@ -7,6 +7,34 @@ url: https://www.youtube.com/watch?v=PhxswX6HXY0
 upload_date: 2026-02-15
 duration: 20:18
 fetched_date: 2026-05-16
+aliases:
+  - "Ruin Their Game Dinking"
+tags:
+  - dink
+  - pattern-play
+  - source
+  - universal-rackets
+
+youtube_tags:
+  - "3 Things Pickleball Players Do That RUIN Their Game | Pickleball Dinking Masterclass"
+  - "Pickleball Dinking Masterclass"
+  - "pickleball"
+  - "pickleball drills"
+  - "pickleball techniques"
+  - "pickleball dinking masterclass"
+  - "pickleball etiquette"
+  - "dink master pickleball"
+  - "dink strategy pickleball"
+  - "dink shot pickleball"
+  - "pickleball tips"
+  - "pickleball technique"
+  - "pickleball dinking drills"
+  - "pickleball strategy"
+  - "play pickleball"
+  - "learn pickleball"
+  - "pickleball dink"
+  - "pickleball dink tips"
+  - "pickleball dink guide"
 ---
 
 # 3 Things Pickleball Players Do That RUIN Their Game | Pickleball Dinking Masterclass

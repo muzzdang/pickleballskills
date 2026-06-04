@@ -7,6 +7,34 @@ url: https://www.youtube.com/watch?v=e2EftsV0CrE
 upload_date: 2026-03-18
 duration: 27:16
 fetched_date: 2026-05-16
+aliases:
+  - "Forehand Backhand Volleys Fast"
+tags:
+  - backhand
+  - forehand
+  - offense
+  - source
+  - universal-rackets
+  - volley
+
+youtube_tags:
+  - "How to Hit Forehand & Backhand Volleys in Pickleball (Fast Hands & What to Do When Attacked)"
+  - "how to hit forehands in pickleball"
+  - "how to volley in pickleball"
+  - "how to hit a forehand"
+  - "backhands in pickleball"
+  - "fast hands pickleball"
+  - "faster hands pickleball"
+  - "how to get better at pickleball"
+  - "how to play pickleball"
+  - "how to improve pickleball"
+  - "universal rackets"
+  - "pickleball"
+  - "Quick Hands at the Net"
+  - "Forehand & Backhand Technique"
+  - "pickleball instruction"
+  - "pickleball basics"
+  - "pickleball tips"
 ---
 
 # How to Hit Forehand & Backhand Volleys in Pickleball (Fast Hands & What to Do When Attacked)

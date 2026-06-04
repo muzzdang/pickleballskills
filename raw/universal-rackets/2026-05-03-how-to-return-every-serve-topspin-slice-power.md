@@ -7,6 +7,38 @@ url: https://www.youtube.com/watch?v=06gtE9AHVYw
 upload_date: 2026-05-03
 duration: 20:22
 fetched_date: 2026-05-16
+aliases:
+  - "Return Serve Topspin Slice"
+tags:
+  - return
+  - serve
+  - slice
+  - source
+  - spin
+  - topspin
+  - universal-rackets
+
+youtube_tags:
+  - "How to Return Every Serve in Pickleball — Topspin"
+  - "Slice & Power"
+  - "pickleball"
+  - "pickleball highlights"
+  - "pickleball strategy"
+  - "pickleball drills"
+  - "pickleball review"
+  - "pickleball 5.0"
+  - "pickleball for beginners"
+  - "pickleball rules"
+  - "how to play pickleball"
+  - "how to serve in pickleball"
+  - "how to serve pickleball"
+  - "pickleball serve return"
+  - "pickleball serve"
+  - "pickleball scoring"
+  - "pickleball basics"
+  - "pickleball technique"
+  - "pickleball tips"
+  - "pickleball serve technique"
 ---
 
 # How to Return Every Serve in Pickleball — Topspin, Slice & Power

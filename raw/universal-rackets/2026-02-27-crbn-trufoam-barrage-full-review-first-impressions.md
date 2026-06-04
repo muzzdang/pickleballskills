@@ -7,6 +7,34 @@ url: https://www.youtube.com/watch?v=_XK4-iiD2qY
 upload_date: 2026-02-27
 duration: 21:25
 fetched_date: 2026-05-16
+aliases:
+  - "Crbn Trufoam Barrage Full"
+tags:
+  - review
+  - source
+  - universal-rackets
+
+youtube_tags:
+  - "CRBN TruFoam Barrage – Full Review & First Impressions"
+  - "crbn trufoam barrage"
+  - "crbn trufoam barrage 4"
+  - "crbn trufoam barrage 2"
+  - "crbn waves first impressions"
+  - "crbn trufoam genesis"
+  - "crbn trufoam waves"
+  - "crbn trufoam"
+  - "crbn barrage"
+  - "crbn barrage 2"
+  - "trufoam"
+  - "crbn genesis"
+  - "crbn pickleball"
+  - "pickleball"
+  - "trufoam crbn"
+  - "CRBN TruFoam Barrage"
+  - "universal rackets"
+  - "crbn"
+  - "crbn tfg4"
+  - "foam core pickleball paddle"
 ---
 
 # CRBN TruFoam Barrage | Full Review & First Impressions

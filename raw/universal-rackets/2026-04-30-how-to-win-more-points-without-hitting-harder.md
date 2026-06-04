@@ -7,6 +7,31 @@ url: https://www.youtube.com/watch?v=mDq8FkgLS04
 upload_date: 2026-04-30
 duration: 20:12
 fetched_date: 2026-05-16
+tags:
+  - source
+  - universal-rackets
+
+youtube_tags:
+  - "How to Win More Points Without Hitting Harder"
+  - "how to play pickleball"
+  - "pickleball how to play"
+  - "pickleball drills"
+  - "pickleball instruction"
+  - "pickleball technique"
+  - "pickleball basics"
+  - "pickleball"
+  - "pickleball coach"
+  - "pickleball tournament"
+  - "pickleball tricks"
+  - "play pickleball"
+  - "professional pickleball"
+  - "pickleball doubles tips"
+  - "rules of pickleball"
+  - "pickleball with tyler"
+  - "what is pickleball"
+  - "pickleball tips"
+  - "pickleball strategy"
+  - "pickleball training"
 ---
 
 # How to Win More Points Without Hitting Harder

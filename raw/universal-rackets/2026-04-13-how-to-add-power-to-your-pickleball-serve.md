@@ -7,6 +7,34 @@ url: https://www.youtube.com/watch?v=KFLqgszrNP0
 upload_date: 2026-04-13
 duration: 25:08
 fetched_date: 2026-05-16
+aliases:
+  - "Add Power Serve Step-By-Step"
+tags:
+  - pattern-play
+  - serve
+  - source
+  - universal-rackets
+
+youtube_tags:
+  - "How to Add Power to Your Pickleball Serve (Step-by-Step Masterclass)"
+  - "how to serve pickleball"
+  - "how to serve in pickleball"
+  - "power serve pickleball"
+  - "how to play pickleball"
+  - "pickleball serve spin"
+  - "pickleball serve rules"
+  - "pickleball mistakes"
+  - "pickleball tournament"
+  - "pickleball serve technique"
+  - "pickleball singles"
+  - "pickleball skills"
+  - "pickleball coaching"
+  - "rules of pickleball"
+  - "pickleball third shot drop"
+  - "pickle ball"
+  - "how to serve"
+  - "pickleball tips"
+  - "universal rackets"
 ---
 
 # How to Add Power to Your Pickleball Serve (Step-by-Step Masterclass)

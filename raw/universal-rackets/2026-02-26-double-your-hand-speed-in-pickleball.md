@@ -7,6 +7,33 @@ url: https://www.youtube.com/watch?v=hwhulIeFdjw
 upload_date: 2026-02-26
 duration: 9:20
 fetched_date: 2026-05-16
+aliases:
+  - "Double Hand Speed One"
+tags:
+  - source
+  - universal-rackets
+
+youtube_tags:
+  - "Double Your Hand Speed in Pickleball with This ONE Weird Technique"
+  - "pickleball technique"
+  - "fast hands pickleball"
+  - "improve your pickleball"
+  - "pickleball"
+  - "pickleball tips"
+  - "pickleball strategy"
+  - "universal rackets"
+  - "Double Your Hand Speed in Pickleball"
+  - "pickleball doubles"
+  - "speed up drills pickleball"
+  - "pickleball doubles strategy"
+  - "hand speed"
+  - "pickleball dink"
+  - "pickleball volley"
+  - "advanced pickleball"
+  - "pickleball rules"
+  - "pickleball tournament"
+  - "pickleball coaching"
+  - "Hand Speed in Pickleball"
 ---
 
 # Double Your Hand Speed in Pickleball with This ONE Weird Technique

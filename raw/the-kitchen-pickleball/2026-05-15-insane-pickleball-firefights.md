@@ -7,6 +7,33 @@ url: https://www.youtube.com/watch?v=XVxLKvM7X-8
 upload_date: 2026-05-15
 duration: 00:10:31
 fetched_date: 2026-05-23
+aliases:
+  - "Insane Firefights"
+tags:
+  - source
+  - the-kitchen
+
+youtube_tags:
+  - "pickleball game"
+  - "pickleball"
+  - "pickleball highlights"
+  - "pickleball firefights"
+  - "pickleball hands battles"
+  - "fast hands pickleball"
+  - "insane pickleball moments"
+  - "crazy pickleball rallies"
+  - "pickleball rally"
+  - "pro pickleball"
+  - "best pickleball points"
+  - "pickleball doubles"
+  - "funny pickleball"
+  - "pickleball 2025"
+  - "ppa tour"
+  - "pickleball gameplay"
+  - "pickleball battles"
+  - "pickleball speedups"
+  - "pickleball net battles"
+  - "intense pickleball points"
 ---
 
 # Insane Pickleball FIREFIGHTS

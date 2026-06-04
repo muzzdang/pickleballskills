@@ -7,6 +7,37 @@ url: https://www.youtube.com/watch?v=RwvbjeUFqYk
 upload_date: 2026-03-08
 duration: 28:04
 fetched_date: 2026-05-16
+aliases:
+  - "Turn Forehand Offensive Weapon"
+tags:
+  - drive
+  - forehand
+  - offense
+  - return
+  - source
+  - universal-rackets
+
+youtube_tags:
+  - "How To Turn Your Forehand Into an Offensive Weapon"
+  - "how to play pickleball"
+  - "pickleball forehand drive"
+  - "pickleball forehand"
+  - "pickleball tips"
+  - "pickleball technique"
+  - "pickleball for beginners"
+  - "pickleball strategy"
+  - "forehand drive pickleball"
+  - "pickleball coaching"
+  - "pickleball"
+  - "pickleball scoring"
+  - "pickleball videos"
+  - "pickleball drills"
+  - "learn pickleball"
+  - "professional pickleball"
+  - "pickleball defense"
+  - "pickleball tutorial"
+  - "pickleball game"
+  - "pickleball highlights"
 ---
 
 # How To Turn Your Forehand Into an Offensive Weapon | Hit Low, Hard & Unreturnable Consistent Drives

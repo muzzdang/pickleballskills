@@ -7,6 +7,17 @@ url: https://www.youtube.com/watch?v=6AxdNnEArxs
 upload_date: 2026-05-20
 duration: 01:20:31
 fetched_date: 2026-05-23
+aliases:
+  - "Honolulu J2Cr Lh Paddletek"
+tags:
+  - source
+  - pickleball-studio
+  - paddle
+
+youtube_tags:
+  - "Pickleball"
+  - "The Pickleball Studio"
+  - "Pickleball tips"
 ---
 
 # Honolulu J2CR LH, PaddleTek HoneyFoam, and Our Top Paddles of 2026

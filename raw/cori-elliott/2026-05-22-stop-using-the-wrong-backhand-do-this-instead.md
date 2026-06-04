@@ -7,6 +7,14 @@ url: https://www.youtube.com/watch?v=DAFHOjmTFhI
 upload_date: 2026-05-22
 duration: 00:06:16
 fetched_date: 2026-05-23
+aliases:
+  - "Wrong Backhand Instead"
+tags:
+  - source
+  - cori-elliott
+  - backhand
+
+youtube_tags: []
 ---
 
 # Stop Using the Wrong Backhand (Do This Instead)

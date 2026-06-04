@@ -7,6 +7,24 @@ url: https://www.youtube.com/watch?v=UjdZwT8u4xY
 upload_date: 2026-05-18
 duration: 00:14:32
 fetched_date: 2026-05-23
+aliases:
+  - "Drills Fix Errors"
+tags:
+  - source
+  - error-reduction
+
+youtube_tags:
+  - "Pickleball"
+  - "Paddle"
+  - "pickleball tournament"
+  - "pickleball instruction"
+  - "pickleball serve"
+  - "dinks"
+  - "drops"
+  - "drives"
+  - "fast hands"
+  - "pickleball drills"
+  - "Pickleball drills"
 ---
 
 # These Drills Fix 95% of Errors in Pickleball

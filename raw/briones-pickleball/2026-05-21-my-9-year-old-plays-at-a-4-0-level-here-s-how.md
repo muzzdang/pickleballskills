@@ -7,6 +7,33 @@ url: https://www.youtube.com/watch?v=88LjSQfXW3A
 upload_date: 2026-05-21
 duration: 00:17:30
 fetched_date: 2026-05-23
+aliases:
+  - "9-Year-Old Plays Heres"
+tags:
+  - source
+  - briones-pickleball
+
+youtube_tags:
+  - "briones pickleball"
+  - "jordan briones"
+  - "jordan pickleball"
+  - "primetime pickleball"
+  - "prime time pickleball"
+  - "pickleball"
+  - "usapa"
+  - "ben johns"
+  - "pickleball strategy"
+  - "dink"
+  - "volley"
+  - "3rd shot"
+  - "3rd shot drop"
+  - "third shot drop"
+  - "serve"
+  - "return"
+  - "drives"
+  - "forehand"
+  - "backhand"
+  - "reset shot"
 ---
 
 # My 9-Year-Old Plays at a 4.0 Level Here's How

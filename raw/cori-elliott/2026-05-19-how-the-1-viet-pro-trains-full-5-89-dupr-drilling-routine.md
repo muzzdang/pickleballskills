@@ -7,6 +7,14 @@ url: https://www.youtube.com/watch?v=FXBMbi6EwvI
 upload_date: 2026-05-19
 duration: 00:12:27
 fetched_date: 2026-05-23
+aliases:
+  - "Viet Pro Trains Full"
+tags:
+  - advanced
+  - cori-elliott
+  - source
+
+youtube_tags: []
 ---
 
 # How the #1 Viet Pro Trains (Full 5.89 DUPR Drilling Routine)

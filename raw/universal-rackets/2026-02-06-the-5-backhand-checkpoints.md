@@ -7,6 +7,33 @@ url: https://www.youtube.com/watch?v=-eqBVbcEL0g
 upload_date: 2026-02-06
 duration: 21:01
 fetched_date: 2026-05-16
+aliases:
+  - "Backhand Checkpoints Backhand Video"
+tags:
+  - source
+  - universal-rackets
+  - backhand
+
+youtube_tags:
+  - "The 5 Backhand Checkpoints The Only Pickleball Backhand Video You’ll Ever Need"
+  - "backhand checkpoints in pickleball"
+  - "the 5 checkpoints to an amazing backhand"
+  - "universal rackets"
+  - "pickleball tips"
+  - "pickleball"
+  - "pickleball backhand"
+  - "pickleball rules"
+  - "pickleball scoring"
+  - "how to play pickleball"
+  - "pickleball game"
+  - "pickleball serve"
+  - "enhance pickleball"
+  - "pickleball tutorial"
+  - "pickleball training"
+  - "pickleball coaching"
+  - "pickleball for beginners"
+  - "pickleball gameplay"
+  - "pickleball spin serve"
 ---
 
 # The 5 Backhand Checkpoints | The Only Pickleball Backhand Video You'll Ever Need

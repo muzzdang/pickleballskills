@@ -1,0 +1,23 @@
+{
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "foldHeading": false,
+  "foldIndent": true,
+  "showFrontmatter": false,
+  "spellcheck": false,
+  "promptDelete": false,
+  "trashOption": "local",
+  "attachmentFolderPath": "assets",
+  "theme": "moonstone",
+  "cssTheme": "",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [],
+  "translucency": false,
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showLineNumber": false
+}

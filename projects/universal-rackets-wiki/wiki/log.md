@@ -4,6 +4,10 @@ aliases: ["Wiki Log"]
 
 # Wiki Log
 
+## [2026-06-14] ingest | How to Beat Bangers in Pickleball — The Complete System
+Source: raw/universal-rackets/2026-05-23-how-to-beat-bangers-in-pickleball.md | video_id: vW1uo05WuDo
+New concept: banger-defense-system.md
+
 ## [2026-05-24] init | Universal Rackets vault created
 
 Scaffolded standalone vault from pickleball-wiki. Copied 49 source summaries (Jan–May 2026).

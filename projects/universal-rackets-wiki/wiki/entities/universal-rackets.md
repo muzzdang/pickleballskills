@@ -2,8 +2,8 @@
 aliases:
   - Universal Rackets
   - Tyler (Universal Rackets)
-last_updated: 2026-05-24
-sources: 49
+last_updated: 2026-06-14
+sources: 50
 type: entity
 tags:
   - entity
@@ -87,12 +87,13 @@ Tyler structures content in topic clusters: serve series, backhand series, footw
 - [2026-04-19: Play Aggressive Pickleball at the Net](../sources/2026-04-19-universal-rackets-aggressive-net-play.md)
 - [2026-05-15: How to Dominate the Kitchen in Pickleball](../sources/2026-05-15-universal-rackets-dominate-the-kitchen.md)
 
-### Footwork & Defense Series (5 videos)
+### Footwork & Defense Series (6 videos)
 - [2026-03-04: Rapid Fire Forehand Tips](../sources/2026-03-04-universal-rackets-rapid-fire-forehand-tips.md)
 - [2026-03-06: What to Do When Your Opponent Hits at Your Feet](../sources/2026-03-06-universal-rackets-opponent-hits-at-your-feet.md)
 - [2026-03-15: Pickleball Footwork Secrets](../sources/2026-03-15-universal-rackets-footwork-secrets.md)
 - [2026-04-05: The Pop Up Defense Strategy](../sources/2026-04-05-universal-rackets-pop-up-defense-strategy.md)
 - [2026-04-25: How to Reset Any Hard Shot](../sources/2026-04-25-universal-rackets-how-to-reset.md)
+- [2026-05-23: How to Beat Bangers in Pickleball — The Complete System](../sources/2026-05-23-universal-rackets-beat-bangers-system.md)
 
 ### Strategy & Error Reduction (8 videos)
 - [2026-01-04: Pickleball Secrets That Will Take Your Game to the Next Level](../sources/2026-01-04-universal-rackets-pickleball-secrets-next-level.md)

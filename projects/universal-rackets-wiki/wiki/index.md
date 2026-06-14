@@ -1,11 +1,11 @@
 ---
 aliases: ["Universal Rackets Wiki Index"]
-last_updated: 2026-05-24
+last_updated: 2026-06-14
 ---
 
 # Universal Rackets Wiki Index
 
-A standalone Obsidian vault covering Tyler's (Universal Rackets) complete pickleball teaching system. 49 videos ingested, Jan–May 2026.
+A standalone Obsidian vault covering Tyler's (Universal Rackets) complete pickleball teaching system. 50 videos ingested, Jan–May 2026.
 
 ---
 
@@ -38,6 +38,7 @@ Tyler's core teaching system, organized by theme:
 | Page | Summary |
 |---|---|
 | [Reset and Defense](concepts/reset-and-defense.md) | Absorb and redirect; paddle out front; no backswing; square face; pop-up defense protocol |
+| [Banger Defense System](concepts/banger-defense-system.md) | 4-layer anti-banger system: wide stance, block/redirect, aim at feet, two-handed block, psychological game |
 
 ### Shot Mechanics
 | Page | Summary |
@@ -127,6 +128,7 @@ Tyler's core teaching system, organized by theme:
 | May 11 | [3 Shots to Master to Move Up](sources/2026-05-11-universal-rackets-3-shots-to-master-to-move-up.md) | Speed-up: time + height; drop: commitment required; reset: absorb/redirect |
 | May 15 | [Dominate the Kitchen in Pickleball](sources/2026-05-15-universal-rackets-dominate-the-kitchen.md) | Red/green light (no yellow); skim the net visualization; self-feed dink drill |
 | May 18 | [Topspin vs Flat vs Slice](sources/2026-05-18-universal-rackets-topspin-flat-slice.md) | Golf club analogy; the complete 3-spin decision framework |
+| May 23 | [How to Beat Bangers — The Complete System](sources/2026-05-23-universal-rackets-beat-bangers-system.md) | Wide stance, block/redirect, aim at feet, two-handed block, let them self-destruct |
 
 ---
 
